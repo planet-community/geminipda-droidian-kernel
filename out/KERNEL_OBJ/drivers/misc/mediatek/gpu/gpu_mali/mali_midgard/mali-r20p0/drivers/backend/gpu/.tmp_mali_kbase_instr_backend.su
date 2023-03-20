@@ -1,0 +1,11 @@
+mali_kbase_instr_backend.c:307:6:kbase_instr_hwcnt_dump_complete	48	static
+mali_kbase_instr_backend.c:440:5:kbase_instr_hwcnt_clear	48	static
+mali_kbase_instr_backend.c:260:5:kbase_instr_hwcnt_request_dump	64	static
+mali_kbase_instr_backend.c:331:6:kbasep_cache_clean_worker	144	static
+mali_kbase_instr_backend.c:63:5:kbase_instr_hwcnt_enable_internal	144	static
+mali_kbase_instr_backend.c:194:5:kbase_instr_hwcnt_disable_internal	144	static
+mali_kbase_instr_backend.c:363:6:kbase_instr_hwcnt_sample_done	48	static
+mali_kbase_instr_backend.c:385:6:kbase_clean_caches_done	64	static
+mali_kbase_instr_backend.c:413:5:kbase_instr_hwcnt_wait_for_dump	96	static
+mali_kbase_instr_backend.c:467:5:kbase_instr_backend_init	48	static
+mali_kbase_instr_backend.c:487:6:kbase_instr_backend_term	16	static

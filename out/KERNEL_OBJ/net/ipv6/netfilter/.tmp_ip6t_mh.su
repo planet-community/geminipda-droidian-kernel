@@ -1,0 +1,4 @@
+ip6t_mh.c:65:12:mh_mt6_check	0	static
+ip6t_mh.c:88:20:mh_mt6_exit	16	static
+ip6t_mh.c:35:13:mh_mt6	64	static
+ip6t_mh.c:83:19:mh_mt6_init	16	static

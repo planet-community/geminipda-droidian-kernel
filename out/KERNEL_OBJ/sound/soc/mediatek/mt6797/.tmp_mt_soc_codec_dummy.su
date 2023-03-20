@@ -1,0 +1,6 @@
+mt_soc_codec_dummy.c:502:12:dummy_codec_remove	16	static
+mt_soc_codec_dummy.c:496:12:dummy_codec_probe	16	static
+mt_soc_codec_dummy.c:560:19:mtk_dummy_codec_init	16	static
+mt_soc_codec_dummy.c:529:12:mtk_dummy_codec_dev_remove	32	static
+mt_soc_codec_dummy.c:514:12:mtk_dummy_codec_dev_probe	32	static
+mt_soc_codec_dummy.c:582:20:mtk_codec_dummy_exit	16	static

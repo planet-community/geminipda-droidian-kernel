@@ -1,0 +1,16 @@
+hci_sock.c:322:24:create_monitor_event	48	static
+hci_sock.c:1195:12:hci_sock_create	48	static
+hci_sock.c:854:12:hci_sock_recvmsg	128	static
+hci_sock.c:786:12:hci_sock_getname	48	static
+hci_sock.c:899:12:hci_sock_sendmsg	80	static
+hci_sock.c:1103:12:hci_sock_getsockopt	128	static
+hci_sock.c:1020:12:hci_sock_setsockopt	112	static
+hci_sock.c:571:12:hci_sock_ioctl	80	static
+hci_sock.c:644:12:hci_sock_bind	80	static
+hci_sock.c:456:12:hci_sock_release	48	static
+hci_sock.c:129:6:hci_send_to_sock	80	static
+hci_sock.c:187:6:hci_send_to_control	64	static
+hci_sock.c:220:6:hci_send_to_monitor	80	static
+hci_sock.c:413:6:hci_sock_dev_event	80	static
+hci_sock.c:1230:12:hci_sock_init	48	static
+hci_sock.c:1260:6:hci_sock_cleanup	16	static

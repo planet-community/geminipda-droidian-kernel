@@ -1,0 +1,10 @@
+aeon_nt36672_fhd_dsi_vdo_x600_xinli.c:756:13:lcm_init_power	0	static
+aeon_nt36672_fhd_dsi_vdo_x600_xinli.c:769:13:lcm_suspend_power	0	static
+aeon_nt36672_fhd_dsi_vdo_x600_xinli.c:782:13:lcm_resume_power	0	static
+aeon_nt36672_fhd_dsi_vdo_x600_xinli.c:867:21:lcm_compare_id	16	static
+aeon_nt36672_fhd_dsi_vdo_x600_xinli.c:656:13:lcm_get_params	32	static
+aeon_nt36672_fhd_dsi_vdo_x600_xinli.c:651:13:lcm_set_util_funcs	16	static
+aeon_nt36672_fhd_dsi_vdo_x600_xinli.c:619:13:push_table.constprop	64	static
+aeon_nt36672_fhd_dsi_vdo_x600_xinli.c:859:13:lcm_resume	32	static
+aeon_nt36672_fhd_dsi_vdo_x600_xinli.c:847:13:lcm_suspend	16	static
+aeon_nt36672_fhd_dsi_vdo_x600_xinli.c:842:13:lcm_init	16	static

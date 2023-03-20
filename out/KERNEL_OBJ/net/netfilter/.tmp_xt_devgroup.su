@@ -1,0 +1,4 @@
+xt_devgroup.c:22:13:devgroup_mt	0	static
+xt_devgroup.c:39:12:devgroup_mt_checkentry	0	static
+xt_devgroup.c:76:20:devgroup_mt_exit	16	static
+xt_devgroup.c:71:19:devgroup_mt_init	16	static

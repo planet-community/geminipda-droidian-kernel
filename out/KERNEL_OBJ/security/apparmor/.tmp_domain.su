@@ -1,0 +1,9 @@
+domain.c:99:26:change_profile_perms	144	static
+domain.c:61:12:may_change_ptraced_domain	64	static
+domain.c:177:27:find_attach.isra.3	96	static
+domain.c:37:6:aa_free_domain_entries	32	static
+domain.c:243:20:x_table_lookup	64	static
+domain.c:341:5:apparmor_bprm_set_creds	208	static
+domain.c:547:5:apparmor_bprm_secureexec	32	static
+domain.c:593:5:aa_change_hat	176	static
+domain.c:735:5:aa_change_profile	224	static

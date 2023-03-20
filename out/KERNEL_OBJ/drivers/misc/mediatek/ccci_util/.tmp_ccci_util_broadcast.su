@@ -1,0 +1,12 @@
+ccci_util_broadcast.c:268:16:ccci_util_bc_write	0	static
+ccci_util_broadcast.c:483:21:ccci_util_bc_poll	32	static
+ccci_util_broadcast.c:231:12:ccci_util_bc_release	48	static
+ccci_util_broadcast.c:198:12:ccci_util_bc_open	80	static
+ccci_util_broadcast.c:295:12:cpy_compat_event_to_user	96	static
+ccci_util_broadcast.c:466:6:ccci_util_bc_compat_ioctl	16	static
+ccci_util_broadcast.c:332:16:ccci_util_bc_read	208	static
+ccci_util_broadcast.c:121:6:inject_md_status_event	144	static
+ccci_util_broadcast.c:148:5:get_lock_rst_user_cnt	0	static
+ccci_util_broadcast.c:157:5:get_lock_rst_user_list	96	static
+ccci_util_broadcast.c:368:13:ccci_util_bc_ioctl	64	static
+ccci_util_broadcast.c:515:5:ccci_util_broadcast_init	112	static

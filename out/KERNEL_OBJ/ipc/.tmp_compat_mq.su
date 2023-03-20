@@ -1,0 +1,5 @@
+compat_mq.c:49:1:compat_SyS_mq_open	160	static
+compat_mq.c:67:1:compat_SyS_mq_timedsend	80	static
+compat_mq.c:81:1:compat_SyS_mq_timedreceive	80	static
+compat_mq.c:95:1:compat_SyS_mq_notify	144	static
+compat_mq.c:112:1:compat_SyS_mq_getsetattr	160	static

@@ -1,0 +1,8 @@
+idle.c:21:6:sched_idle_set_state	64	static
+idle.c:29:6:cpu_idle_poll_ctrl	32	static
+idle.c:68:13:arch_cpu_idle_prepare	0	static
+idle.c:69:13:arch_cpu_idle_enter	0	static
+idle.c:70:13:arch_cpu_idle_exit	0	static
+idle.c:71:13:arch_cpu_idle_dead	0	static
+idle.c:72:13:arch_cpu_idle	16	static
+idle.c:257:6:cpu_startup_entry	112	static

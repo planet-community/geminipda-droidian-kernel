@@ -1,0 +1,16 @@
+mt_soc_pcm_voice_md2.c:89:6:get_voice_md2_status	0	static
+mt_soc_pcm_voice_md2.c:244:12:mtk_voice_md2_pcm_copy	0	static
+mt_soc_pcm_voice_md2.c:260:21:mtk_pcm_page	0	static
+mt_soc_pcm_voice_md2.c:251:12:mtk_voice_md2_pcm_silence	16	static
+mt_soc_pcm_voice_md2.c:228:12:mtk_voice_md2_trigger	16	static
+mt_soc_pcm_voice_md2.c:307:12:mtk_pcm_hw_params	16	static
+mt_soc_pcm_voice_md2.c:357:12:mtk_soc_voice_md2_new	16	static
+mt_soc_pcm_voice_md2.c:365:12:mtk_voice_md2_platform_probe	16	static
+mt_soc_pcm_voice_md2.c:401:19:mtk_soc_voice_md2_platform_init	16	static
+mt_soc_pcm_voice_md2.c:371:12:mtk_voice_md2_remove	32	static
+mt_soc_pcm_voice_md2.c:341:12:mtk_voice_md2_probe	32	static
+mt_soc_pcm_voice_md2.c:266:12:mtk_voice1_ext_prepare	112	static
+mt_soc_pcm_voice_md2.c:316:12:mtk_voice_md2_hw_free	16	static
+mt_soc_pcm_voice_md2.c:191:12:mtk_voice_md2_close	32	static
+mt_soc_pcm_voice_md2.c:142:12:mtk_voice_md2_pcm_open	48	static
+mt_soc_pcm_voice_md2.c:424:20:mtk_soc_voice_md2_platform_exit	16	static

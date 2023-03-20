@@ -1,0 +1,3 @@
+page_cgroup.c:92:21:lookup_page_cgroup	0	static
+page_cgroup.c:271:13:page_cgroup_init	64	static
+page_cgroup.c:317:16:pgdat_page_cgroup_init	0	static

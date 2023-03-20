@@ -1,0 +1,4 @@
+ip6t_MASQUERADE.c:30:12:masquerade_tg6_checkentry	0	static
+ip6t_MASQUERADE.c:60:20:masquerade_tg6_exit	16	static
+ip6t_MASQUERADE.c:25:1:masquerade_tg6	16	static
+ip6t_MASQUERADE.c:50:19:masquerade_tg6_init	32	static

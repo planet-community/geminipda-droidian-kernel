@@ -1,0 +1,16 @@
+root.c:90:13:autofs4_del_active	32	static
+root.c:106:12:autofs4_dir_open	48	static
+root.c:698:12:autofs4_dir_rmdir	64	static
+root.c:616:12:autofs4_dir_unlink	48	static
+root.c:737:12:autofs4_dir_mkdir	64	static
+root.c:550:12:autofs4_dir_symlink	64	static
+root.c:291:12:do_expire_wait	128	static
+root.c:273:12:autofs4_mount_wait	48	static
+root.c:425:12:autofs4_d_manage	64	static
+root.c:137:13:autofs4_dentry_release	32	static
+root.c:858:12:autofs4_root_ioctl_unlocked.isra.12	80	static
+root.c:916:13:autofs4_root_compat_ioctl	16	static
+root.c:908:13:autofs4_root_ioctl	16	static
+root.c:501:23:autofs4_lookup	128	static
+root.c:336:25:autofs4_d_automount	64	static
+root.c:847:5:is_autofs4_dentry	0	static

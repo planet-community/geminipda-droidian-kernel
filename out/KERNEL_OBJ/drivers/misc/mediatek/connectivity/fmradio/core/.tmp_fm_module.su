@@ -1,0 +1,13 @@
+fm_module.c:1186:19:fm_ops_release	0	static
+fm_module.c:1522:5:mtk_wcn_fm_init	32	static
+fm_module.c:79:13:fm_ops_compat_ioctl	48	static
+fm_module.c:1286:16:fm_proc_write	128	static
+fm_module.c:1208:16:fm_proc_read	80	static
+fm_module.c:1198:19:fm_ops_flush	32	static
+fm_module.c:1167:19:fm_ops_open	32	static
+fm_module.c:101:13:fm_ops_ioctl	368	static
+fm_module.c:1139:16:fm_ops_read	64	static
+fm_module.c:1127:15:fm_ops_lseek	32	static
+fm_module.c:1528:6:mtk_wcn_fm_exit	16	static
+fm_module.c:1465:19:mt_fm_remove	64	static
+fm_module.c:1449:19:mt_fm_probe	96	static

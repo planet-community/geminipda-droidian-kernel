@@ -1,0 +1,3 @@
+zlib_wrapper.c:65:12:zlib_uncompress	112	static
+zlib_wrapper.c:55:13:zlib_free	32	static
+zlib_wrapper.c:37:14:zlib_init	32	static

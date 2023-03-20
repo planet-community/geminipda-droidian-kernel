@@ -1,0 +1,5 @@
+fanotify.c:228:13:fanotify_free_group_priv	16	static
+fanotify.c:237:13:fanotify_free_event	32	static
+fanotify.c:31:12:fanotify_merge	64	static
+fanotify.c:141:29:fanotify_alloc_event	48	static
+fanotify.c:175:12:fanotify_handle_event	144	static

@@ -1,0 +1,2 @@
+seq_info.c:55:12:snd_seq_info_init	48	static
+seq_info.c:65:12:snd_seq_info_done	32	static

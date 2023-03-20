@@ -1,0 +1,5 @@
+extd_debug.c:125:12:debug_open	0	static
+extd_debug.c:133:16:debug_read	64	static
+extd_debug.c:144:16:debug_write	112	static
+extd_debug.c:172:6:Extd_DBG_Init	16	static
+extd_debug.c:178:6:Extd_DBG_Deinit	16	static

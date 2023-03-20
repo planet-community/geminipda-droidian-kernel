@@ -1,0 +1,2 @@
+fragment.c:48:5:squashfs_frag_lookup	80	static
+fragment.c:73:9:squashfs_read_fragment_index_table	32	static

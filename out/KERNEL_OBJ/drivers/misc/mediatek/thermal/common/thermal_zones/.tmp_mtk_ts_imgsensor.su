@@ -1,0 +1,16 @@
+mtk_ts_imgsensor.c:76:12:mtktsimgsensor_get_temp	0	static
+mtk_ts_imgsensor.c:155:12:mtktsimgsensor_get_mode	0	static
+mtk_ts_imgsensor.c:161:12:mtktsimgsensor_set_mode	0	static
+mtk_ts_imgsensor.c:167:12:mtktsimgsensor_get_trip_type	0	static
+mtk_ts_imgsensor.c:174:12:mtktsimgsensor_get_trip_temp	0	static
+mtk_ts_imgsensor.c:181:12:mtktsimgsensor_get_crit_temp	0	static
+mtk_ts_imgsensor.c:457:12:imgsensortemp_open	16	static
+mtk_ts_imgsensor.c:357:12:mtktsimgsensor_open	16	static
+mtk_ts_imgsensor.c:371:12:imgsensortemp_read	48	static
+mtk_ts_imgsensor.c:223:12:mtktsimgsensor_read	64	static
+mtk_ts_imgsensor.c:383:16:imgsensortemp_write	80	static
+mtk_ts_imgsensor.c:240:16:mtktsimgsensor_write	288	static
+mtk_ts_imgsensor.c:118:12:mtktsimgsensor_unbind	48	static
+mtk_ts_imgsensor.c:82:12:mtktsimgsensor_bind	48	static
+mtk_ts_imgsensor.c:507:20:mtktsimgsensor_exit	32	static
+mtk_ts_imgsensor.c:471:19:mtktsimgsensor_init	48	static

@@ -1,0 +1,4 @@
+OIS_main.c:118:6:setOISMode	16	static
+OIS_main.c:126:5:setVCMPos	16	static
+OIS_main.c:133:6:OIS_Standby	16	static
+OIS_main.c:153:6:Main_OIS	80	static

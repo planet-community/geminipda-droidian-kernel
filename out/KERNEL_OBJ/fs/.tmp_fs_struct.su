@@ -1,0 +1,8 @@
+fs_struct.c:157:5:current_umask	0	static
+fs_struct.c:32:6:set_fs_pwd	112	static
+fs_struct.c:87:6:free_fs_struct	32	static
+fs_struct.c:112:19:copy_fs_struct	48	static
+fs_struct.c:134:5:unshare_fs_struct	64	static
+fs_struct.c:13:6:set_fs_root	112	static
+fs_struct.c:57:6:chroot_fs_refs	128	static
+fs_struct.c:95:6:exit_fs	48	static

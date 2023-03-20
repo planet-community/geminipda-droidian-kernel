@@ -1,0 +1,3 @@
+audit.c:118:13:audit_pre	64	static
+audit.c:167:6:aa_audit_msg	16	static
+audit.c:190:5:aa_audit	32	static

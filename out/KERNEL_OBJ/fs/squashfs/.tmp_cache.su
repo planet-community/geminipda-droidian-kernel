@@ -1,0 +1,10 @@
+cache.c:210:6:squashfs_cache_delete.part.1	48	static
+cache.c:65:30:squashfs_cache_get	128	static
+cache.c:186:6:squashfs_cache_put	48	static
+cache.c:210:6:squashfs_cache_delete	16	static
+cache.c:233:24:squashfs_cache_init	96	static
+cache.c:294:5:squashfs_copy_data	112	static
+cache.c:334:5:squashfs_read_metadata	96	static
+cache.c:379:30:squashfs_get_fragment	16	static
+cache.c:394:30:squashfs_get_datablock	16	static
+cache.c:406:7:squashfs_read_table	80	static

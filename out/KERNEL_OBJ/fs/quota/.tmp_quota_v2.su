@@ -1,0 +1,15 @@
+quota_v2.c:333:20:exit_v2_quota_format	32	static
+quota_v2.c:290:12:v2_release_dquot	16	static
+quota_v2.c:285:12:v2_write_dquot	16	static
+quota_v2.c:280:12:v2_read_dquot	16	static
+quota_v2.c:295:12:v2_free_file_info	16	static
+quota_v2.c:227:13:v2r1_disk2memdqb	112	static
+quota_v2.c:174:13:v2r0_disk2memdqb	96	static
+quota_v2.c:247:13:v2r1_mem2diskdqb	32	static
+quota_v2.c:194:13:v2r0_mem2diskdqb	32	static
+quota_v2.c:89:12:v2_read_file_info	128	static
+quota_v2.c:149:12:v2_write_file_info	112	static
+quota_v2.c:267:12:v2r1_is_id	32	static
+quota_v2.c:214:12:v2r0_is_id	32	static
+quota_v2.c:323:19:init_v2_quota_format	32	static
+quota_v2.c:74:12:v2_check_quota_file	64	static

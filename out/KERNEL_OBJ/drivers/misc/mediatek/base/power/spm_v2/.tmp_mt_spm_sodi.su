@@ -1,0 +1,17 @@
+mt_secure_api.h:48:21:mt_secure_call.constprop	0	static
+mt_spm_internal.h:622:28:is_clk_buf_under_flightmode	0	static
+mt_spm_sodi.h:243:28:aee_rr_rec_sodi_val	0	static
+mt_spm_sodi.h:247:27:aee_rr_curr_sodi_val	0	static
+mt_spm_sodi.c:83:36:pmic_read_interface_nolock	0	static
+mt_spm_sodi.c:327:6:spm_trigger_wfi_for_sodi	80	static
+mt_spm_sodi.c:358:6:spm_disable_mmu_smi_async	0	static
+mt_spm_sodi.c:364:6:spm_enable_mmu_smi_async	0	static
+mt_spm_sodi.c:548:1:spm_sodi_output_log	512	static
+mt_spm_sodi.c:675:15:spm_go_to_sodi	176	static
+mt_spm_sodi.c:826:6:spm_sodi_set_vdo_mode	0	static
+mt_spm_sodi.c:832:6:spm_get_cmd_mode	0	static
+mt_spm_sodi.c:841:6:spm_sodi_mempll_pwr_mode	0	static
+mt_spm_sodi.c:846:6:spm_get_sodi_mempll	0	static
+mt_spm_sodi.c:851:6:spm_enable_sodi	0	static
+mt_spm_sodi.c:856:6:spm_get_sodi_en	0	static
+mt_spm_sodi.c:861:6:spm_sodi_init	112	static

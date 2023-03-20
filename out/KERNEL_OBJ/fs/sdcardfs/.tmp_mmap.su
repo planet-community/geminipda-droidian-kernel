@@ -1,0 +1,5 @@
+mmap.c:37:13:sdcardfs_vm_open	0	static
+mmap.c:69:16:sdcardfs_direct_IO	0	static
+mmap.c:44:13:sdcardfs_vm_close	16	static
+mmap.c:51:12:sdcardfs_page_mkwrite	16	static
+mmap.c:23:12:sdcardfs_fault	16	static

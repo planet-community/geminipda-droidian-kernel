@@ -1,0 +1,12 @@
+sdio_bus_driver.c:161:9:sdio_cr_readl	48	static
+sdio_bus_driver.c:203:6:sdio_cr_writel	64	static
+sdio_bus_driver.c:231:15:ahb_sdio_f0_readb	32	static
+sdio_bus_driver.c:113:5:sdio_cccr_read	48	static
+sdio_bus_driver.c:272:6:ahb_sdio_f0_writeb	48	static
+sdio_bus_driver.c:132:5:sdio_cccr_write	48	static
+sdio_bus_driver.c:306:5:ahb_sdio_enable_func	48	static
+sdio_bus_driver.c:64:5:sdio_open	80	static
+sdio_bus_driver.c:346:5:ahb_sdio_disable_func	48	static
+sdio_bus_driver.c:392:5:ahb_sdio_set_block_size	64	static
+sdio_bus_driver.c:421:5:ahb_sdio_claim_irq	64	static
+sdio_bus_driver.c:464:5:ahb_sdio_release_irq	48	static

@@ -1,0 +1,2 @@
+mali_kbase_time.c:22:6:kbase_backend_get_gpu_time	64	static
+mali_kbase_time.c:72:6:kbase_wait_write_flush	32	static

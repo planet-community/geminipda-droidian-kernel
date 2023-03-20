@@ -1,0 +1,5 @@
+lp3101.c:72:12:lp3101_probe	32	static
+lp3101.c:142:20:lp3101_iic_exit	16	static
+lp3101.c:80:12:lp3101_remove	32	static
+lp3101.c:130:19:lp3101_iic_init	16	static
+lp3101.c:105:6:lp3101_poweron	48	static

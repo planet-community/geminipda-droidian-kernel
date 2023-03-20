@@ -1,0 +1,8 @@
+scatterwalk.c:129:5:scatterwalk_bytes_sglen	0	static
+scatterwalk.c:43:7:scatterwalk_map	32	static
+scatterwalk.c:33:6:scatterwalk_start.part.6	16	static
+scatterwalk.c:33:6:scatterwalk_start	16	static
+scatterwalk.c:50:13:scatterwalk_pagedone	48	static
+scatterwalk.c:69:6:scatterwalk_done	16	static
+scatterwalk.c:77:6:scatterwalk_copychunks	96	static
+scatterwalk.c:104:6:scatterwalk_map_and_copy	80	static

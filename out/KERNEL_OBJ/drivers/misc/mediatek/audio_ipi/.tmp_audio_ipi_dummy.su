@@ -1,0 +1,5 @@
+audio_ipi_dummy.c:141:20:audio_ipi_driver_exit	0	static
+audio_ipi_dummy.c:127:19:audio_ipi_driver_init	32	static
+audio_ipi_dummy.c:88:13:audio_ipi_driver_compat_ioctl	16	static
+audio_ipi_dummy.c:80:13:audio_ipi_driver_ioctl	16	static
+audio_ipi_dummy.c:101:16:audio_ipi_driver_read	16	static

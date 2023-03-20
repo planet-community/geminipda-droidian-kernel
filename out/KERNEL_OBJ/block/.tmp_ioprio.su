@@ -1,0 +1,4 @@
+ioprio.c:32:5:set_task_ioprio	64	static
+ioprio.c:61:1:SyS_ioprio_set	144	static
+ioprio.c:160:5:ioprio_best	0	static
+ioprio.c:180:1:SyS_ioprio_get	144	static

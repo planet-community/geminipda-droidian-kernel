@@ -1,0 +1,5 @@
+ip6table_security.c:96:20:ip6table_security_fini	16	static
+ip6table_security.c:65:24:ip6table_security_net_exit	16	static
+ip6table_security.c:52:23:ip6table_security_net_init	48	static
+ip6table_security.c:75:19:ip6table_security_init	48	static
+ip6table_security.c:39:1:ip6table_security_hook	16	static

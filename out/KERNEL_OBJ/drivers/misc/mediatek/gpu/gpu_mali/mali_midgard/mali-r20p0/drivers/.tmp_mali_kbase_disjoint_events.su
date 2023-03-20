@@ -1,0 +1,6 @@
+mali_kbase_disjoint_events.c:23:6:kbase_disjoint_init	0	static
+mali_kbase_disjoint_events.c:32:6:kbase_disjoint_event	0	static
+mali_kbase_disjoint_events.c:40:6:kbase_disjoint_state_up	0	static
+mali_kbase_disjoint_events.c:50:6:kbase_disjoint_state_down	0	static
+mali_kbase_disjoint_events.c:61:6:kbase_disjoint_event_potential	0	static
+mali_kbase_disjoint_events.c:69:5:kbase_disjoint_event_get	0	static

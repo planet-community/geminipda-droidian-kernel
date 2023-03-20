@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/mem/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/mem/built-in.o drivers/misc/mediatek/mem/icache_dump.o drivers/misc/mediatek/mem/mtk_memcfg.o drivers/misc/mediatek/mem/mtk_memcfg_reserve_info.o drivers/misc/mediatek/mem/mtk_common_hooks_64.o drivers/misc/mediatek/mem/mtk_meminfo.o 

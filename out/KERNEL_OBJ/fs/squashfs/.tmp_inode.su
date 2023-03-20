@@ -1,0 +1,2 @@
+inode.c:112:5:squashfs_read_inode	208	static
+inode.c:84:15:squashfs_iget	32	static

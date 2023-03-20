@@ -1,0 +1,13 @@
+mali_kbase_pm_metrics.c:137:13:kbase_pm_get_dvfs_utilisation_calc	32	static
+mali_kbase_pm_metrics.c:75:5:kbasep_pm_metrics_init	32	static
+mali_kbase_pm_metrics.c:117:6:kbasep_pm_metrics_term	32	static
+mali_kbase_pm_metrics.c:190:6:kbase_pm_reset_dvfs_utilisation	48	static
+mali_kbase_pm_metrics.c:199:6:kbase_pm_get_dvfs_utilisation	80	static
+mali_kbase_pm_metrics.c:232:5:kbase_pm_get_dvfs_utilisation_old	48	static
+mali_kbase_pm_metrics.c:289:6:MTKCalGpuUtilization	64	static
+mali_kbase_pm_metrics.c:331:5:kbasep_get_gl_utilization	0	static
+mali_kbase_pm_metrics.c:337:5:kbasep_get_cl_js0_utilization	0	static
+mali_kbase_pm_metrics.c:343:5:kbasep_get_cl_js1_utilization	0	static
+mali_kbase_pm_metrics.c:350:6:kbase_pm_get_dvfs_action	48	static
+mali_kbase_pm_metrics.c:386:6:kbase_pm_metrics_is_active	32	static
+mali_kbase_pm_metrics.c:452:6:kbase_pm_metrics_update	96	static

@@ -1,0 +1,14 @@
+sp5509mipiraw_Sensor.c:1610:19:get_resolution	32	static
+sp5509mipiraw_Sensor.c:1645:19:get_info	32	static
+sp5509mipiraw_Sensor.c:290:13:write_cmos_sensor	48	static
+sp5509mipiraw_Sensor.c:862:13:capture_setting	16	static
+sp5509mipiraw_Sensor.c:745:13:preview_setting	16	static
+sp5509mipiraw_Sensor.c:281:19:read_cmos_sensor	64	static
+sp5509mipiraw_Sensor.c:1318:19:close	16	static
+sp5509mipiraw_Sensor.c:1345:19:preview.isra.11	48	static
+sp5509mipiraw_Sensor.c:1789:19:control	64	static
+sp5509mipiraw_Sensor.c:1242:19:open	144	static
+sp5509mipiraw_Sensor.c:298:13:set_dummy	48	static
+sp5509mipiraw_Sensor.c:307:13:set_max_framerate	96	static
+sp5509mipiraw_Sensor.c:2071:19:feature_control	112	static
+sp5509mipiraw_Sensor.c:2201:8:sp5509_MIPI_RAW_SensorInit_sls	0	static

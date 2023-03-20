@@ -1,0 +1,10 @@
+ddp_ufoe.c:64:5:ufoe_start	64	static
+ddp_ufoe.c:74:5:ufoe_stop	64	static
+ddp_ufoe.c:155:12:ufoe_reset	64	static
+ddp_ufoe.c:31:13:ufoe_dump	576	static
+ddp_ufoe.c:188:5:ufoe_ioctl	80	static
+ddp_ufoe.c:81:12:ufoe_config	80	static
+ddp_ufoe.c:144:12:ufoe_clock_off	32	static
+ddp_ufoe.c:53:12:ufoe_deinit	32	static
+ddp_ufoe.c:133:12:ufoe_clock_on	32	static
+ddp_ufoe.c:42:12:ufoe_init	32	static

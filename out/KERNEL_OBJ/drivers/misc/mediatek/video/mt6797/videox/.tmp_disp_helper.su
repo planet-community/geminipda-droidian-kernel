@@ -1,0 +1,9 @@
+disp_helper.c:137:13:disp_helper_option_spy	0	static
+disp_helper.c:144:17:disp_helper_name_to_opt	48	static
+disp_helper.c:193:5:disp_helper_get_option	64	static
+disp_helper.c:158:5:disp_helper_set_option	80	static
+disp_helper.c:182:5:disp_helper_set_option_by_name	32	static
+disp_helper.c:302:19:disp_helper_get_stage	0	static
+disp_helper.c:307:13:disp_helper_stage_spy	0	static
+disp_helper.c:319:6:disp_helper_option_init	16	static
+disp_helper.c:376:5:disp_helper_get_option_list	96	static

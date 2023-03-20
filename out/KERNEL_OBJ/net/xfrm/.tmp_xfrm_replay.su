@@ -1,0 +1,15 @@
+xfrm_replay.c:583:5:xfrm_init_replay	0	static
+xfrm_replay.c:116:12:xfrm_replay_check	0	static
+xfrm_replay.c:194:12:xfrm_replay_check_bmp	0	static
+xfrm_replay.c:432:12:xfrm_replay_check_esn	0	static
+xfrm_replay.c:148:13:xfrm_replay_advance	48	static
+xfrm_replay.c:238:13:xfrm_replay_advance_bmp	48	static
+xfrm_replay.c:95:12:xfrm_replay_overflow	48	static
+xfrm_replay.c:172:12:xfrm_replay_overflow_bmp	48	static
+xfrm_replay.c:403:12:xfrm_replay_overflow_esn	48	static
+xfrm_replay.c:49:13:xfrm_replay_notify	96	static
+xfrm_replay.c:286:13:xfrm_replay_notify_bmp	96	static
+xfrm_replay.c:337:13:xfrm_replay_notify_esn	96	static
+xfrm_replay.c:24:5:xfrm_replay_seqhi	0	static
+xfrm_replay.c:491:12:xfrm_replay_recheck_esn	48	static
+xfrm_replay.c:503:13:xfrm_replay_advance_esn	64	static

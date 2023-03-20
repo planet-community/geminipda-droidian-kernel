@@ -1,0 +1,4 @@
+msgutil.c:145:17:copy_msg	0	static
+msgutil.c:150:5:store_msg	80	static
+msgutil.c:169:6:free_msg	32	static
+msgutil.c:83:17:load_msg	96	static

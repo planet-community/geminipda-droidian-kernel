@@ -1,0 +1,17 @@
+val.c:43:14:eVideoMemAlloc	0	static
+val.c:49:14:eVideoMemFree	0	static
+val.c:58:14:eVideoIntMemUsed	0	static
+val.c:65:14:eVideoIntMemAlloc	0	static
+val.c:72:14:eVideoIntMemFree	0	static
+val.c:80:14:eVideoCreateEvent	48	static
+val.c:103:14:eVideoCloseEvent	32	static
+val.c:119:14:eVideoWaitEvent	112	static
+val.c:148:14:eVideoSetEvent	32	static
+val.c:168:14:eVideoCreateMutex	32	static
+val.c:184:14:eVideoCloseMutex	32	static
+val.c:195:14:eVideoWaitMutex	16	static
+val.c:204:14:eVideoReleaseMutex	16	static
+val.c:213:14:eVideoMemSet	0	static
+val.c:219:14:eVideoMemCpy	0	static
+val.c:227:14:eVideoMemCmp	0	static
+val.c:235:14:eVideoGetTimeOfDay	64	static

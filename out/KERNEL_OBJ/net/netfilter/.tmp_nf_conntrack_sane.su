@@ -1,0 +1,3 @@
+nf_conntrack_sane.c:61:12:help	128	static
+nf_conntrack_sane.c:175:13:nf_conntrack_sane_fini	96	static
+nf_conntrack_sane.c:191:19:nf_conntrack_sane_init	112	static

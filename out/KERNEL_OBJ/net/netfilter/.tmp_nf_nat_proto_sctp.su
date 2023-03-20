@@ -1,0 +1,6 @@
+checksum.h:46:22:sctp_csum_update	16	static
+checksum.h:54:22:sctp_csum_combine	32	static
+nf_nat_proto_sctp.c:85:20:nf_nat_proto_sctp_exit	32	static
+nf_nat_proto_sctp.c:20:1:sctp_unique_tuple	16	static
+nf_nat_proto_sctp.c:67:19:nf_nat_proto_sctp_init	32	static
+nf_nat_proto_sctp.c:31:1:sctp_manip_pkt	128	static

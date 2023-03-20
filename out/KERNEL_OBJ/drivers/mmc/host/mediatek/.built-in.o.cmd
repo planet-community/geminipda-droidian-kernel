@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/mediatek/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/mmc/host/mediatek/built-in.o drivers/mmc/host/mediatek/mt6797/built-in.o drivers/mmc/host/mediatek/emmc_rpmb.o 

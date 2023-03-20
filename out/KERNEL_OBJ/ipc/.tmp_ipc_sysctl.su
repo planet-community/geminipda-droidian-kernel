@@ -1,0 +1,8 @@
+ipc_sysctl.c:277:19:ipc_sysctl_init	16	static
+ipc_sysctl.c:41:12:proc_ipc_dointvec_minmax	112	static
+ipc_sysctl.c:122:12:proc_ipcauto_dointvec_minmax	144	static
+ipc_sysctl.c:30:12:proc_ipc_dointvec	112	static
+ipc_sysctl.c:88:12:proc_ipc_doulongvec_minmax	112	static
+ipc_sysctl.c:65:12:proc_ipc_callback_dointvec_minmax.part.1	16	static
+ipc_sysctl.c:65:12:proc_ipc_callback_dointvec_minmax	144	static
+ipc_sysctl.c:52:12:proc_ipc_dointvec_minmax_orphans	128	static

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/devinfo/v1/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/devinfo/v1/built-in.o drivers/misc/mediatek/devinfo/v1/devinfo.o drivers/misc/mediatek/devinfo/v1/devinfosys.o 

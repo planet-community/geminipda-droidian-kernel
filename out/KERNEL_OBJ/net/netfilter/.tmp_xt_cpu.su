@@ -1,0 +1,4 @@
+xt_cpu.c:28:12:cpu_mt_check	0	static
+xt_cpu.c:59:20:cpu_mt_exit	16	static
+xt_cpu.c:37:13:cpu_mt	32	static
+xt_cpu.c:54:19:cpu_mt_init	16	static

@@ -1,0 +1,7 @@
+log_store.c:220:19:log_store_early_init	48	static
+log_store.c:119:12:pl_lk_file_open	16	static
+log_store.c:133:19:log_store_late_init	80	static
+log_store.c:101:12:pl_lk_log_show	48	static
+log_store.c:41:6:store_log_to_emmc_enable	16	static
+log_store.c:61:6:log_store_bootup	16	static
+log_store.c:207:6:disable_early_log	16	static

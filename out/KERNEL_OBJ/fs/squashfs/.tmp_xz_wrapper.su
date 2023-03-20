@@ -1,0 +1,4 @@
+xz_wrapper.c:132:12:squashfs_xz_uncompress	112	static
+xz_wrapper.c:121:13:squashfs_xz_free	32	static
+xz_wrapper.c:51:14:squashfs_xz_comp_opts	48	static
+xz_wrapper.c:94:14:squashfs_xz_init	32	static

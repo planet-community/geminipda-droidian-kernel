@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/sensors-1.0/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/sensors-1.0/built-in.o drivers/misc/mediatek/sensors-1.0/hwmon/built-in.o drivers/misc/mediatek/sensors-1.0/alsps/built-in.o drivers/misc/mediatek/sensors-1.0/accelerometer/built-in.o drivers/misc/mediatek/sensors-1.0/gyroscope/built-in.o 

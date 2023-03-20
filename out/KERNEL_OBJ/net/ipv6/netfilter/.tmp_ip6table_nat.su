@@ -1,0 +1,9 @@
+ip6table_nat.c:156:20:ip6table_nat_exit	32	static
+ip6table_nat.c:127:24:ip6table_nat_net_exit	16	static
+ip6table_nat.c:115:23:ip6table_nat_net_init	48	static
+ip6table_nat.c:44:21:ip6table_nat_fn	16	static
+ip6table_nat.c:33:21:ip6table_nat_do_chain	16	static
+ip6table_nat.c:71:21:ip6table_nat_local_fn	16	static
+ip6table_nat.c:62:21:ip6table_nat_out	16	static
+ip6table_nat.c:53:21:ip6table_nat_in	16	static
+ip6table_nat.c:137:19:ip6table_nat_init	32	static

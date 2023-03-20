@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/accdet/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/accdet/built-in.o drivers/misc/mediatek/accdet/accdet_drv.o drivers/misc/mediatek/accdet/mt6797/built-in.o 

@@ -1,0 +1,11 @@
+mrdump_full.c:111:13:save_current_task	240	static
+mrdump_full.c:335:16:mrdump_version_show	16	static
+mrdump_full.c:376:12:param_set_mrdump_enable	80	static
+mrdump_full.c:199:13:__mrdump_reboot_stop_all.isra.0	48	static
+mrdump_full.c:353:19:mrdump_sysfs_init	32	static
+mrdump_full.c:399:12:param_set_mrdump_lbaooo	32	static
+mrdump_full.c:91:13:crash_save_cpu	480	static
+mrdump_full.c:180:13:mrdump_stop_noncore_cpu	352	static
+mrdump_full.c:256:6:aee_kdump_reboot	528	static
+mrdump_full.c:269:6:__mrdump_create_oops_dump	192	static
+mrdump_full.c:301:12:mrdump_platform_init	64	static

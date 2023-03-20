@@ -1,0 +1,5 @@
+of_mtd.c:35:5:of_get_nand_ecc_mode	48	static
+of_mtd.c:59:5:of_get_nand_ecc_step_size	48	static
+of_mtd.c:76:5:of_get_nand_ecc_strength	48	static
+of_mtd.c:92:5:of_get_nand_bus_width	48	static
+of_mtd.c:115:6:of_get_nand_on_flash_bbt	16	static

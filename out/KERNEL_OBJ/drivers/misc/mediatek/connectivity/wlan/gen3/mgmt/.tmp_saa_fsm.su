@@ -1,0 +1,16 @@
+saa_fsm.c:709:16:saaCheckOverLoadRN	64	static
+saa_fsm.c:299:1:saaFsmSendEventJoinComplete	64	static
+saa_fsm.c:99:1:saaFsmSteps	80	static
+saa_fsm.c:626:6:saaFsmRunEventTxReqTimeOut	48	static
+saa_fsm.c:661:6:saaFsmRunEventRxRespTimeOut	48	static
+saa_fsm.c:407:6:saaFsmRunEventStart	48	static
+saa_fsm.c:506:1:saaFsmRunEventTxDone	80	static
+saa_fsm.c:748:6:saaFsmRunEventRxAuth	80	static
+saa_fsm.c:867:13:saaFsmRunEventRxAssoc	96	static
+saa_fsm.c:1126:6:saaChkDeauthfrmParamHandler	48	static
+saa_fsm.c:1159:1:saaSendDisconnectMsgHandler	48	static
+saa_fsm.c:949:13:saaAutoReConnect	64	static
+saa_fsm.c:1025:13:saaFsmRunEventRxDeauth	80	static
+saa_fsm.c:1324:1:saaChkDisassocfrmParamHandler	48	static
+saa_fsm.c:1216:13:saaFsmRunEventRxDisassoc	64	static
+saa_fsm.c:1351:6:saaFsmRunEventAbort	48	static

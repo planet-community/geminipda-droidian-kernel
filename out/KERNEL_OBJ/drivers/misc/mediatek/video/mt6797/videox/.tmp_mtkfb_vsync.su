@@ -1,0 +1,13 @@
+mtkfb_vsync.c:98:12:mtkfb_vsync_flush	0	static
+mtkfb_vsync.c:204:12:mtkfb_vsync_suspend	0	static
+mtkfb_vsync.c:209:12:mtkfb_vsync_resume	0	static
+mtkfb_vsync.c:225:13:mtkfb_vsync_device_release	0	static
+mtkfb_vsync.c:199:13:mtkfb_vsync_shutdown	16	static
+mtkfb_vsync.c:193:12:mtkfb_vsync_remove	16	static
+mtkfb_vsync.c:91:12:mtkfb_vsync_release	32	static
+mtkfb_vsync.c:79:12:mtkfb_vsync_open	16	static
+mtkfb_vsync.c:85:16:mtkfb_vsync_read	16	static
+mtkfb_vsync.c:159:12:mtkfb_vsync_probe	48	static
+mtkfb_vsync.c:104:13:mtkfb_vsync_unlocked_ioctl	48	static
+mtkfb_vsync.c:73:6:mtkfb_vsync_log_enable	16	static
+mtkfb_vsync.c:262:20:mtkfb_vsync_exit	48	static

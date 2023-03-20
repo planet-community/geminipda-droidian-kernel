@@ -1,0 +1,3 @@
+procattr.c:36:5:aa_getprocattr	80	static
+procattr.c:93:5:aa_setprocattr_changehat	256	static
+procattr.c:139:5:aa_setprocattr_changeprofile	64	static

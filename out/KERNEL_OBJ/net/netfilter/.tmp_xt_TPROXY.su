@@ -1,0 +1,9 @@
+xt_TPROXY.c:588:20:tproxy_tg_exit	16	static
+xt_TPROXY.c:512:12:tproxy_tg6_check	16	static
+xt_TPROXY.c:526:12:tproxy_tg4_check	16	static
+xt_TPROXY.c:578:19:tproxy_tg_init	16	static
+xt_TPROXY.c:43:13:tproxy_sk_is_transparent.part.8	16	static
+xt_TPROXY.c:444:1:tproxy_tg6_v1	240	static
+xt_TPROXY.c:288:1:tproxy_tg4	192	static
+xt_TPROXY.c:353:1:tproxy_tg4_v1	16	static
+xt_TPROXY.c:345:1:tproxy_tg4_v0	16	static

@@ -1,0 +1,12 @@
+mount.c:133:12:audit_mount	160	static
+mount.c:89:13:audit_cb	48	static
+mount.c:217:26:compute_mnt_perms.isra.1	0	static
+mount.c:244:12:do_match_mnt	128	static
+mount.c:307:12:match_mnt	144	static
+mount.c:338:5:aa_remount	192	static
+mount.c:370:5:aa_bind_mount	192	static
+mount.c:419:5:aa_mount_change_type	176	static
+mount.c:454:5:aa_move_mount	176	static
+mount.c:502:5:aa_new_mount	240	static
+mount.c:591:5:aa_umount	224	static
+mount.c:662:5:aa_pivotroot	224	static

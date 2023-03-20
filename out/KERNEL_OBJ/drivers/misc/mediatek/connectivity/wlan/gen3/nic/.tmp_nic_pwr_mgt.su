@@ -1,0 +1,5 @@
+nic_pwr_mgt.c:82:6:nicpmSetFWOwn	80	static
+nic_pwr_mgt.c:126:6:nicPmTriggerDriverOwn	64	static
+nic_pwr_mgt.c:147:9:nicpmSetDriverOwn	144	static
+nic_pwr_mgt.c:232:9:nicpmSetAcpiPowerD0	160	static
+nic_pwr_mgt.c:421:9:nicpmSetAcpiPowerD3	32	static

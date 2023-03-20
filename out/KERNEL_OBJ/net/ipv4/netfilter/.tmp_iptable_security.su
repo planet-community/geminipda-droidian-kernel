@@ -1,0 +1,5 @@
+iptable_security.c:104:20:iptable_security_fini	16	static
+iptable_security.c:73:24:iptable_security_net_exit	16	static
+iptable_security.c:60:23:iptable_security_net_init	48	static
+iptable_security.c:83:19:iptable_security_init	48	static
+iptable_security.c:40:1:iptable_security_hook	16	static

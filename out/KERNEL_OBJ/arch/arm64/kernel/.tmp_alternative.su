@@ -1,0 +1,5 @@
+alternative.c:88:13:__apply_alternatives	128	static
+alternative.c:123:12:__apply_alternatives_multi_stop	64	static
+alternative.c:145:13:apply_alternatives_all	16	static
+alternative.c:151:6:apply_alternatives	64	static
+alternative.c:161:6:free_alternatives_memory	16	static

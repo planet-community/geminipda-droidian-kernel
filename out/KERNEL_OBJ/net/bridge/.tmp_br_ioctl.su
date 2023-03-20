@@ -1,0 +1,3 @@
+br_ioctl.c:113:12:old_dev_ioctl.isra.1	176	static
+br_ioctl.c:351:5:br_ioctl_deviceless_stub	144	static
+br_ioctl.c:379:5:br_dev_ioctl	64	static

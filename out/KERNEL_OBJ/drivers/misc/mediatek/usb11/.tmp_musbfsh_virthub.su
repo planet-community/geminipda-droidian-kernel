@@ -1,0 +1,4 @@
+musbfsh_virthub.c:252:13:musbfsh_port_reset	96	static
+musbfsh_virthub.c:411:6:musbfsh_root_disconnect	32	static
+musbfsh_virthub.c:425:5:musbfsh_hub_status_data	32	static
+musbfsh_virthub.c:439:5:musbfsh_hub_control	128	static

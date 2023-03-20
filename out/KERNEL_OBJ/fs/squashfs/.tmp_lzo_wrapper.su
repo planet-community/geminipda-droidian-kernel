@@ -1,0 +1,3 @@
+lzo_wrapper.c:78:12:lzo_uncompress	80	static
+lzo_wrapper.c:66:13:lzo_free	32	static
+lzo_wrapper.c:41:14:lzo_init	32	static

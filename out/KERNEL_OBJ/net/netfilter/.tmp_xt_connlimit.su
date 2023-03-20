@@ -1,0 +1,8 @@
+xt_connlimit.c:471:20:connlimit_mt_exit	32	static
+xt_connlimit.c:395:13:destroy_tree	48	static
+xt_connlimit.c:414:13:connlimit_mt_destroy	32	static
+xt_connlimit.c:359:12:connlimit_mt_check	64	static
+xt_connlimit.c:134:21:check_hlist	96	static
+xt_connlimit.c:440:19:connlimit_mt_init	64	static
+xt_connlimit.c:288:12:count_them	240	static
+xt_connlimit.c:317:1:connlimit_mt	128	static

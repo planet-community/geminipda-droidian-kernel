@@ -1,0 +1,9 @@
+disp_rect.c:18:5:rect_isEmpty	0	static
+disp_rect.c:23:6:rect_set	0	static
+disp_rect.c:31:6:rect_initial	0	static
+disp_rect.c:39:6:rect_make	0	static
+disp_rect.c:47:5:rect_intersect	96	static
+disp_rect.c:89:6:rect_join	112	static
+disp_rect.c:80:6:rect_join_coord	64	static
+disp_rect.c:130:5:rect_equal	0	static
+disp_rect.c:136:15:shift_address	0	static

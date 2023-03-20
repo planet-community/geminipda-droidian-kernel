@@ -1,0 +1,2 @@
+xattr_id.c:41:5:squashfs_xattr_lookup	96	static
+xattr_id.c:66:9:squashfs_read_xattr_id_table	48	static

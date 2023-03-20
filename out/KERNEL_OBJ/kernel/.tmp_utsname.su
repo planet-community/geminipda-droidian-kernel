@@ -1,0 +1,6 @@
+utsname.c:126:21:utsns_inum	0	static
+utsname.c:81:6:free_uts_ns	32	static
+utsname.c:107:13:utsns_put	16	static
+utsname.c:112:12:utsns_install	48	static
+utsname.c:91:14:utsns_get	48	static
+utsname.c:64:23:copy_utsname	48	static

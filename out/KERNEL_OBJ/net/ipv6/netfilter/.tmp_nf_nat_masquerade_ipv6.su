@@ -1,0 +1,6 @@
+nf_nat_masquerade_ipv6.c:53:12:device_cmp	0	static
+nf_nat_masquerade_ipv6.c:25:1:nf_nat_masquerade_ipv6	112	static
+nf_nat_masquerade_ipv6.c:64:12:masq_device_event	16	static
+nf_nat_masquerade_ipv6.c:97:6:nf_nat_masquerade_ipv6_register_notifier	32	static
+nf_nat_masquerade_ipv6.c:108:6:nf_nat_masquerade_ipv6_unregister_notifier	32	static
+nf_nat_masquerade_ipv6.c:81:12:masq_inet_event	16	static

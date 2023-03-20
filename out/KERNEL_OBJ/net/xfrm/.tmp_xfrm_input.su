@@ -1,0 +1,10 @@
+xfrm_input.c:162:5:xfrm_prepare_input	48	static
+xfrm_input.c:24:5:xfrm_input_register_afinfo	32	static
+xfrm_input.c:42:5:xfrm_input_unregister_afinfo	32	static
+xfrm_input.c:96:6:__secpath_destroy	32	static
+xfrm_input.c:105:18:secpath_dup	32	static
+xfrm_input.c:81:12:xfrm_rcv_cb	64	static
+xfrm_input.c:128:5:xfrm_parse_spi	64	static
+xfrm_input.c:182:5:xfrm_input	144	static
+xfrm_input.c:387:5:xfrm_input_resume	16	static
+xfrm_input.c:393:13:xfrm_input_init	16	static

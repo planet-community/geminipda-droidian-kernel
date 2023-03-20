@@ -1,0 +1,7 @@
+clk-divider.c:370:20:_register_divider	176	static
+clk-divider.c:430:13:clk_register_divider	32	static
+clk-divider.c:454:13:clk_register_divider_table	32	static
+clk-divider.c:57:21:_get_maxdiv.isra.0	0	static
+clk-divider.c:327:12:clk_divider_set_rate	32	static
+clk-divider.c:112:22:clk_divider_recalc_rate	32	static
+clk-divider.c:318:13:clk_divider_round_rate	112	static

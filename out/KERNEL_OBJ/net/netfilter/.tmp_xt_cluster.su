@@ -1,0 +1,4 @@
+xt_cluster.c:168:20:xt_cluster_mt_fini	16	static
+xt_cluster.c:136:12:xt_cluster_mt_checkentry	16	static
+xt_cluster.c:90:1:xt_cluster_mt	32	static
+xt_cluster.c:163:19:xt_cluster_mt_init	16	static

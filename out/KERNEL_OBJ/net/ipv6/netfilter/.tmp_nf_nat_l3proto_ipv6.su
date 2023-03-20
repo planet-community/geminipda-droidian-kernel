@@ -1,0 +1,14 @@
+nf_nat_l3proto_ipv6.c:77:13:nf_nat_ipv6_manip_pkt	96	static
+nf_nat_l3proto_ipv6.c:196:5:nf_nat_icmpv6_reply_translation	128	static
+nf_nat_l3proto_ipv6.c:162:12:nf_nat_ipv6_nlattr_to_range	32	static
+nf_nat_l3proto_ipv6.c:130:13:nf_nat_ipv6_csum_recalc	96	static
+nf_nat_l3proto_ipv6.c:111:13:nf_nat_ipv6_csum_update	16	static
+nf_nat_l3proto_ipv6.c:71:12:nf_nat_ipv6_secure_port	16	static
+nf_nat_l3proto_ipv6.c:64:13:nf_nat_ipv6_in_range	32	static
+nf_nat_l3proto_ipv6.c:265:1:nf_nat_ipv6_fn	112	static
+nf_nat_l3proto_ipv6.c:481:20:nf_nat_l3proto_ipv6_exit	16	static
+nf_nat_l3proto_ipv6.c:463:19:nf_nat_l3proto_ipv6_init	32	static
+nf_nat_l3proto_ipv6.c:31:13:nf_nat_ipv6_decode_session	0	static
+nf_nat_l3proto_ipv6.c:357:1:nf_nat_ipv6_in	80	static
+nf_nat_l3proto_ipv6.c:378:1:nf_nat_ipv6_out	32	static
+nf_nat_l3proto_ipv6.c:420:1:nf_nat_ipv6_local_fn	32	static

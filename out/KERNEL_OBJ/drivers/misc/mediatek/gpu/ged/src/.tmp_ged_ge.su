@@ -1,0 +1,16 @@
+ged_ge.c:86:7:_ge_debugfs_seq_next	0	static
+ged_ge.c:118:16:_ge_debugfs_write_entry	0	static
+ged_ge.c:71:14:_ge_debugfs_seq_start	32	static
+ged_ge.c:80:6:_ge_debugfs_seq_stop	32	static
+ged_ge.c:93:5:_ge_debugfs_seq_show	64	static
+ged_ge.c:123:12:ge_entry_release	48	static
+ged_ge.c:236:12:valid_parameters.part.1	48	static
+ged_ge.c:145:5:ged_ge_init	16	static
+ged_ge.c:162:5:ged_ge_exit	32	static
+ged_ge.c:172:5:ged_ge_alloc	64	static
+ged_ge.c:255:5:ged_ge_get	80	static
+ged_ge.c:294:5:ged_ge_set	96	static
+ged_ge.c:353:5:ged_bridge_ge_alloc	32	static
+ged_ge.c:360:5:ged_bridge_ge_get	32	static
+ged_ge.c:371:5:ged_bridge_ge_set	32	static
+ged_ge.c:382:5:ged_bridge_ge_info	48	static

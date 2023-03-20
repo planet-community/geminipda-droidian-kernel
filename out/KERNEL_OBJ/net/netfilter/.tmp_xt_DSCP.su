@@ -1,0 +1,7 @@
+xt_DSCP.c:158:20:dscp_tg_exit	16	static
+xt_DSCP.c:95:1:tos_tg6	48	static
+xt_DSCP.c:75:1:tos_tg	32	static
+xt_DSCP.c:48:1:dscp_tg6	48	static
+xt_DSCP.c:31:1:dscp_tg	32	static
+xt_DSCP.c:63:12:dscp_tg_check	16	static
+xt_DSCP.c:153:19:dscp_tg_init	16	static

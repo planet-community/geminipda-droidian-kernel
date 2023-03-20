@@ -1,0 +1,5 @@
+mt_spm_internal.h:622:28:is_clk_buf_under_flightmode	0	static
+mt_spm_dpidle_mt6797.c:31:29:mt_spm_pmic_wrap_set_phase	0	static
+mt_spm_dpidle_mt6797.c:38:6:spm_dpidle_pre_process	48	static
+mt_spm_dpidle_mt6797.c:86:6:spm_dpidle_post_process	16	static
+mt_spm_dpidle_mt6797.c:128:6:spm_deepidle_chip_init	48	static

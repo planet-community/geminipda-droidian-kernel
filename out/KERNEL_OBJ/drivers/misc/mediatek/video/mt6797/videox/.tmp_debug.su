@@ -1,0 +1,9 @@
+debug.c:661:12:debug_open	0	static
+debug.c:763:16:partial_read	96	static
+debug.c:754:16:kick_read	48	static
+debug.c:726:16:debug_write	1472	static
+debug.c:667:5:debug_get_info	48	static
+debug.c:706:16:debug_read	64	static
+debug.c:697:6:debug_info_dump_to_printk	80	static
+debug.c:789:6:DBG_Init	32	static
+debug.c:803:6:DBG_Deinit	16	static

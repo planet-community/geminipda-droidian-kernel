@@ -1,0 +1,7 @@
+compat_ion.c:139:12:compat_get_ion_allocation_data	80	static
+compat_ion.c:373:12:compat_get_ion_sys_dma_op_param	80	static
+compat_ion.c:198:12:compat_get_ion_mm_config_buffer_param	64	static
+compat_ion.c:221:12:compat_get_ion_mm_buf_debug_info_set	96	static
+compat_ion.c:554:12:compat_get_ion_custom_data	112	static
+compat_ion.c:266:12:compat_put_ion_mm_buf_debug_info	96	static
+compat_ion.c:653:6:compat_ion_ioctl	96	static

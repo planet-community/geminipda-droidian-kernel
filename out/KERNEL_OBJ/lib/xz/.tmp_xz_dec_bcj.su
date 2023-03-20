@@ -1,0 +1,4 @@
+xz_dec_bcj.c:345:13:bcj_apply	48	static
+xz_dec_bcj.c:417:23:xz_dec_bcj_run	80	static
+xz_dec_bcj.c:527:30:xz_dec_bcj_create	32	static
+xz_dec_bcj.c:536:23:xz_dec_bcj_reset	0	static

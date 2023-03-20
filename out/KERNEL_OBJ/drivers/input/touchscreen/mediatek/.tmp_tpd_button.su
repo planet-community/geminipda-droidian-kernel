@@ -1,0 +1,4 @@
+tpd_button.c:22:16:mtk_virtual_keys_show	112	static
+tpd_button.c:116:6:tpd_button_setting	48	static
+tpd_button.c:87:6:tpd_button	80	static
+tpd_button.c:53:6:tpd_button_init	48	static

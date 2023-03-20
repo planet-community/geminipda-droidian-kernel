@@ -1,0 +1,18 @@
+k97v1_64_bsp.o: /buildd/sources/arch/arm64/boot/dts/k97v1_64_bsp.dts \
+ include/generated/autoconf.h \
+ /buildd/sources/arch/arm64/boot/dts/mt6797.dts \
+ /buildd/sources/arch/arm64/boot/dts/include/dt-bindings/clock/mt6797-clk.h \
+ /buildd/sources/arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/arm-gic.h \
+ /buildd/sources/arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
+ /buildd/sources/arch/arm64/boot/dts/include/dt-bindings/mmc/mt6797-msdc.h \
+ /buildd/sources/arch/arm64/boot/dts/include/dt-bindings/pinctrl/mt6797-pinfunc.h \
+ /buildd/sources/arch/arm64/boot/dts/include/dt-bindings/pinctrl/mt65xx.h \
+ /buildd/sources/arch/arm64/boot/dts/trusty.dtsi \
+ /buildd/sources/arch/arm64/boot/dts/aeon_gpio.dtsi \
+ /buildd/sources/arch/arm64/boot/dts/novatek-nt36xxx-i2c.dtsi \
+ /buildd/sources/arch/arm64/boot/dts/ssd2092_touch.dtsi \
+ /buildd/sources/arch/arm64/boot/dts/sil9024a.dtsi \
+ /buildd/sources/arch/arm64/boot/dts/rt9466.dtsi \
+ /buildd/sources/arch/arm64/boot/dts/include/dt-bindings/lcm/r63419_wqhd_truly_phantom_2k_cmd_ok_mt6797.dtsi \
+ /buildd/sources/arch/arm64/boot/dts/include/dt-bindings/lcm/lcm_define.h \
+ arch/arm64/boot/dts/k97v1_64_bsp/cust.dtsi

@@ -1,0 +1,16 @@
+devapc.c:590:12:check_vio_status	0	static
+devapc.c:827:12:devapc_remove	0	static
+devapc.c:832:12:devapc_suspend	0	static
+devapc.c:881:12:devapc_dbg_open	0	static
+devapc.c:854:16:devapc_dbg_write	112	static
+devapc.c:695:20:devapc_violation_irq	96	static
+devapc.c:912:19:devapc_init	48	static
+devapc.c:455:12:devapc_ioremap.part.0	48	static
+devapc.c:780:12:devapc_probe	64	static
+devapc.c:949:20:devapc_exit	16	static
+devapc.c:837:12:devapc_resume	16	static
+devapc.c:398:5:mt_devapc_emi_initial	32	static
+devapc.c:417:5:mt_devapc_check_emi_violation	16	static
+devapc.c:426:5:mt_devapc_check_emi_mpu_violation	16	static
+devapc.c:435:5:mt_devapc_clear_emi_violation	0	static
+devapc.c:443:5:mt_devapc_clear_emi_mpu_violation	0	static

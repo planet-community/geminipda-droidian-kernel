@@ -1,0 +1,12 @@
+nt36xxx_fw_update.c:43:9:update_firmware_request.part.0	48	static
+nt36xxx_fw_update.c:43:9:update_firmware_request	16	static
+nt36xxx_fw_update.c:82:6:update_firmware_release	32	static
+nt36xxx_fw_update.c:98:9:Check_FW_Ver	96	static
+nt36xxx_fw_update.c:147:9:Resume_PD	64	static
+nt36xxx_fw_update.c:196:9:Check_CheckSum	224	static
+nt36xxx_fw_update.c:299:9:Init_BootLoader	144	static
+nt36xxx_fw_update.c:352:9:Erase_Flash	176	static
+nt36xxx_fw_update.c:563:9:Write_Flash	240	static
+nt36xxx_fw_update.c:733:9:Verify_Flash	208	static
+nt36xxx_fw_update.c:830:9:Update_Firmware	32	static
+nt36xxx_fw_update.c:879:6:Boot_Update_Firmware	320	static

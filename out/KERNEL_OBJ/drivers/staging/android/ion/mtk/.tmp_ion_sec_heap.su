@@ -1,0 +1,11 @@
+ion_sec_heap.c:159:6:ion_sec_heap_free	32	static
+ion_sec_heap.c:186:18:ion_sec_heap_map_dma	48	static
+ion_sec_heap.c:239:6:ion_sec_heap_add_freelist	0	static
+ion_sec_heap.c:243:5:ion_sec_heap_pool_total	0	static
+ion_sec_heap.c:248:7:ion_sec_heap_map_kernel	32	static
+ion_sec_heap.c:260:6:ion_sec_heap_unmap_kernel	32	static
+ion_sec_heap.c:271:5:ion_sec_heap_map_user	112	static
+ion_sec_heap.c:318:5:ion_sec_copy_dbg_info	0	static
+ion_sec_heap.c:368:6:ion_sec_heap_dump_info	128	static
+ion_sec_heap.c:523:18:ion_sec_heap_create	16	static
+ion_sec_heap.c:555:6:ion_sec_heap_destroy	16	static

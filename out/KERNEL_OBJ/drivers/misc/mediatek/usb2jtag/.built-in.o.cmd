@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/usb2jtag/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/usb2jtag/built-in.o drivers/misc/mediatek/usb2jtag/usb2jtag_v1.o drivers/misc/mediatek/usb2jtag/mt6797/built-in.o 

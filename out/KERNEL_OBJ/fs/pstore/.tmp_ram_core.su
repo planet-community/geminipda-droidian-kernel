@@ -1,0 +1,16 @@
+ram_core.c:66:15:buffer_start_add_atomic	0	static
+ram_core.c:121:13:buffer_size_add_locked	48	static
+ram_core.c:101:15:buffer_start_add_locked	48	static
+ram_core.c:82:13:buffer_size_add_atomic	0	static
+ram_core.c:196:13:persistent_ram_update_header_ecc	80	dynamic
+ram_core.c:170:21:persistent_ram_update_ecc	128	dynamic
+ram_core.c:295:9:persistent_ram_ecc_string	16	static
+ram_core.c:331:6:persistent_ram_save_old	112	dynamic
+ram_core.c:354:13:persistent_ram_write	64	static
+ram_core.c:384:13:persistent_ram_write_user	80	static
+ram_core.c:416:8:persistent_ram_old_size	0	static
+ram_core.c:421:7:persistent_ram_old	0	static
+ram_core.c:426:6:persistent_ram_free_old	32	static
+ram_core.c:433:6:persistent_ram_zap	80	dynamic
+ram_core.c:563:6:persistent_ram_free	32	static
+ram_core.c:582:29:persistent_ram_new	144	dynamic

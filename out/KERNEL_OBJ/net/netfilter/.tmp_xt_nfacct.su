@@ -1,0 +1,5 @@
+xt_nfacct.c:73:20:nfacct_mt_exit	16	static
+xt_nfacct.c:51:1:nfacct_mt_destroy	16	static
+xt_nfacct.c:35:1:nfacct_mt_checkentry	32	static
+xt_nfacct.c:22:13:nfacct_mt	32	static
+xt_nfacct.c:68:19:nfacct_mt_init	16	static

@@ -1,0 +1,3 @@
+mrdump_control.c:45:19:early_mrdump_rsvmem	128	static
+mrdump_control.c:84:13:mrdump_rsvmem	48	static
+mrdump_control.c:149:6:mrdump_cblock_init	48	static

@@ -1,0 +1,2 @@
+scp_irq.c:40:13:scp_irq_handler	48	static
+scp_irq.c:71:6:scp_irq_init	0	static

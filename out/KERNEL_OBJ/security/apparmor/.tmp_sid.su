@@ -1,0 +1,2 @@
+sid.c:35:5:aa_alloc_sid	32	static
+sid.c:52:6:aa_free_sid	0	static

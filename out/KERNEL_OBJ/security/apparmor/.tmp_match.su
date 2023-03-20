@@ -1,0 +1,5 @@
+match.c:185:6:aa_dfa_free_kref	48	static
+match.c:203:16:aa_dfa_unpack	144	static
+match.c:300:14:aa_dfa_match_len	0	static
+match.c:350:14:aa_dfa_match	0	static
+match.c:398:14:aa_dfa_next	0	static

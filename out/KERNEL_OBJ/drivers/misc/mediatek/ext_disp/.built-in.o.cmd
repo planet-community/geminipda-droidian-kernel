@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/ext_disp/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/ext_disp/built-in.o drivers/misc/mediatek/ext_disp/mt6797/built-in.o drivers/misc/mediatek/ext_disp/common/built-in.o 

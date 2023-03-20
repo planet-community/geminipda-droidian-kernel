@@ -1,0 +1,5 @@
+diag.c:319:20:unix_diag_exit	16	static
+diag.c:314:19:unix_diag_init	16	static
+diag.c:112:12:sk_diag_fill.isra.5	160	static
+diag.c:292:12:unix_diag_handler_dump	176	static
+diag.c:180:12:unix_diag_dump	144	static

@@ -1,0 +1,16 @@
+bus.c:62:12:mmc_bus_match	0	static
+bus.c:110:12:mmc_bus_probe	16	static
+bus.c:118:12:mmc_bus_remove	16	static
+bus.c:147:12:mmc_bus_suspend	64	static
+bus.c:172:12:mmc_bus_resume	48	static
+bus.c:128:13:mmc_bus_shutdown	32	static
+bus.c:239:5:mmc_register_driver	16	static
+bus.c:251:6:mmc_unregister_driver	16	static
+bus.c:259:13:mmc_release_card	32	static
+bus.c:68:1:mmc_bus_uevent	32	static
+bus.c:31:16:type_show	0	static
+bus.c:225:5:mmc_register_bus	16	static
+bus.c:230:6:mmc_unregister_bus	16	static
+bus.c:273:18:mmc_alloc_card	48	static
+bus.c:299:5:mmc_add_card	32	static
+bus.c:382:6:mmc_remove_card	32	static

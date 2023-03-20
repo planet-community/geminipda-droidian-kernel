@@ -1,0 +1,8 @@
+xt_AUDIT.c:225:20:audit_tg_exit	16	static
+xt_AUDIT.c:34:13:audit_proto	64	static
+xt_AUDIT.c:74:13:audit_ip4	80	static
+xt_AUDIT.c:96:13:audit_ip6	128	static
+xt_AUDIT.c:122:1:audit_tg	48	static
+xt_AUDIT.c:182:1:audit_tg_ebt	16	static
+xt_AUDIT.c:220:19:audit_tg_init	16	static
+xt_AUDIT.c:188:12:audit_tg_check	16	static

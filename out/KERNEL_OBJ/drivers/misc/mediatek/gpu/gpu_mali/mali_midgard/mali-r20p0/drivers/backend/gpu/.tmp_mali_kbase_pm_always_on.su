@@ -1,0 +1,4 @@
+mali_kbase_pm_always_on.c:26:12:always_on_get_core_mask	0	static
+mali_kbase_pm_always_on.c:31:13:always_on_get_core_active	0	static
+mali_kbase_pm_always_on.c:36:13:always_on_init	0	static
+mali_kbase_pm_always_on.c:41:13:always_on_term	0	static

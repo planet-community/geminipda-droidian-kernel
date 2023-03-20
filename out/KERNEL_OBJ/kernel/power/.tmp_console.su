@@ -1,0 +1,4 @@
+console.c:45:6:pm_vt_switch_required	48	static
+console.c:77:6:pm_vt_switch_unregister	48	static
+console.c:129:5:pm_prepare_console	32	static
+console.c:142:6:pm_restore_console	32	static

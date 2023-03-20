@@ -1,0 +1,6 @@
+group.c:46:6:fsnotify_group_stop_queueing	32	static
+group.c:90:6:fsnotify_get_group	0	static
+group.c:98:6:fsnotify_put_group	32	static
+group.c:59:6:fsnotify_destroy_group	32	static
+group.c:107:24:fsnotify_alloc_group	48	static
+group.c:132:5:fsnotify_fasync	16	static

@@ -1,0 +1,3 @@
+xt_comment.c:19:1:comment_mt	0	static
+xt_comment.c:39:20:comment_mt_exit	16	static
+xt_comment.c:34:19:comment_mt_init	16	static

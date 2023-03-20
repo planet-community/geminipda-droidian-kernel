@@ -1,0 +1,6 @@
+mali_kbase_jm.c:58:5:kbase_jm_kick	80	static
+mali_kbase_jm.c:77:6:kbase_jm_try_kick	48	static
+mali_kbase_jm.c:89:6:kbase_jm_try_kick_all	32	static
+mali_kbase_jm.c:101:6:kbase_jm_idle_ctx	32	static
+mali_kbase_jm.c:109:23:kbase_jm_return_atom_to_js	32	static
+mali_kbase_jm.c:123:23:kbase_jm_complete	48	static

@@ -1,0 +1,7 @@
+ccif_c2k_platform.c:58:5:md_ccif_get_modem_hw_info	80	static
+ccif_c2k_platform.c:234:5:md_ccif_io_remap_md_side_register	48	static
+ccif_c2k_platform.c:322:5:md_ccif_let_md_go	80	static
+ccif_c2k_platform.c:451:5:md_ccif_power_on	48	static
+ccif_c2k_platform.c:495:5:md_ccif_power_off	48	static
+ccif_c2k_platform.c:527:6:reset_md1_md3_pccif	64	static
+ccif_c2k_platform.c:565:6:dump_c2k_register	64	static

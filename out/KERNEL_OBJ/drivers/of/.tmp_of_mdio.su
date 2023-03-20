@@ -1,0 +1,6 @@
+of_mdio.c:186:12:of_phy_match	0	static
+of_mdio.c:43:12:of_mdiobus_register_phy	96	static
+of_mdio.c:197:20:of_phy_find_device	16	static
+of_mdio.c:120:5:of_mdiobus_register	112	static
+of_mdio.c:240:20:of_phy_attach	48	static
+of_mdio.c:217:20:of_phy_connect	64	static

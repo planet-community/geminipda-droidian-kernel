@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/emi_mbw/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/emi_mbw/built-in.o drivers/misc/mediatek/emi_mbw/mt_emi_bm.o drivers/misc/mediatek/emi_mbw/mt_mem_bw.o 

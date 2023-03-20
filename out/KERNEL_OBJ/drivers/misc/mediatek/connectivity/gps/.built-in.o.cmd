@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/connectivity/gps/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/connectivity/gps/built-in.o drivers/misc/mediatek/connectivity/gps/stp_chrdev_gps.o 

@@ -1,0 +1,16 @@
+mt_pm_init.c:309:21:mt_get_emi_freq	80	static
+mt_pm_init.c:354:14:mt_get_bus_freq	80	static
+mt_pm_init.c:291:12:proc_ckgen_meter_open	16	static
+mt_pm_init.c:279:12:proc_abist_meter_open	16	static
+mt_pm_init.c:556:12:proc_mfg_open	16	static
+mt_pm_init.c:545:12:proc_cpu_open	16	static
+mt_pm_init.c:678:19:mt_pm_late_init	16	static
+mt_pm_init.c:614:19:mt_power_management_init	32	static
+mt_pm_init.c:69:14:ckgen_meter	64	static
+mt_pm_init.c:216:12:ckgen_meter_read	64	static
+mt_pm_init.c:226:16:ckgen_meter_write	224	static
+mt_pm_init.c:119:14:abist_meter	80	static
+mt_pm_init.c:246:12:abist_meter_read	64	static
+mt_pm_init.c:260:16:abist_meter_write	224	static
+mt_pm_init.c:513:12:mfg_speed_dump_read	48	static
+mt_pm_init.c:492:12:cpu_speed_dump_read	48	static

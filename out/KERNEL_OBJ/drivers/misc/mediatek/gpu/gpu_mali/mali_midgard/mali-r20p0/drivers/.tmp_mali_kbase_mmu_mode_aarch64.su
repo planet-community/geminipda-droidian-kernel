@@ -1,0 +1,10 @@
+mali_kbase_mmu_mode_aarch64.c:70:13:mmu_get_as_setup	0	static
+mali_kbase_mmu_mode_aarch64.c:116:20:pte_to_phy_addr	0	static
+mali_kbase_mmu_mode_aarch64.c:124:12:ate_is_valid	0	static
+mali_kbase_mmu_mode_aarch64.c:132:12:pte_is_valid	0	static
+mali_kbase_mmu_mode_aarch64.c:187:13:entry_set_pte	0	static
+mali_kbase_mmu_mode_aarch64.c:193:13:entry_invalidate	0	static
+mali_kbase_mmu_mode_aarch64.c:104:13:mmu_disable_as	16	static
+mali_kbase_mmu_mode_aarch64.c:92:13:mmu_update	16	static
+mali_kbase_mmu_mode_aarch64.c:172:13:entry_set_ate	0	static
+mali_kbase_mmu_mode_aarch64.c:210:30:kbase_mmu_mode_get_aarch64	0	static

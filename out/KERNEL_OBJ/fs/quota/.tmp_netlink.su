@@ -1,0 +1,2 @@
+netlink.c:44:6:quota_send_warning	128	static
+netlink.c:101:19:quota_init	16	static

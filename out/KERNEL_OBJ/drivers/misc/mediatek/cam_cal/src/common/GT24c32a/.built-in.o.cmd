@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/cam_cal/src/common/GT24c32a/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/cam_cal/src/common/GT24c32a/built-in.o drivers/misc/mediatek/cam_cal/src/common/GT24c32a/GT24c32a.o 

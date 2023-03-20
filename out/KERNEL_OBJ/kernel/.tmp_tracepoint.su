@@ -1,0 +1,11 @@
+tracepoint.c:250:5:tracepoint_probe_register	64	static
+tracepoint.c:272:5:tracepoint_probe_unregister	64	static
+tracepoint.c:69:13:rcu_free_old_probes	16	static
+tracepoint.c:304:5:register_tracepoint_module_notifier	64	static
+tracepoint.c:328:5:unregister_tracepoint_module_notifier	64	static
+tracepoint.c:449:19:init_tracepoints	32	static
+tracepoint.c:423:12:tracepoint_module_notify	64	static
+tracepoint.c:480:6:for_each_kernel_tracepoint	64	static
+tracepoint.c:287:6:trace_module_has_bad_taint	0	static
+tracepoint.c:493:6:syscall_regfunc	80	static
+tracepoint.c:507:6:syscall_unregfunc	80	static

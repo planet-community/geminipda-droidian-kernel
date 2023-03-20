@@ -1,0 +1,12 @@
+mt_vcorefs_manager.c:79:6:vcorefs_register_req_notify	0	static
+mt_vcorefs_manager.c:509:16:opp_num_show	32	static
+mt_vcorefs_manager.c:362:16:vcore_debug_show	80	static
+mt_vcorefs_manager.c:490:16:opp_table_store	96	static
+mt_vcorefs_manager.c:481:16:opp_table_show	32	static
+mt_vcorefs_manager.c:125:12:vcorefs_autok_set_vcore	80	static
+mt_vcorefs_manager.c:160:12:_get_dvfs_opp.isra.3.constprop	112	static
+mt_vcorefs_manager.c:88:5:is_vcorefs_can_work	32	static
+mt_vcorefs_manager.c:241:5:vcorefs_request_dvfs_opp	144	static
+mt_vcorefs_manager.c:394:16:vcore_debug_store	128	static
+mt_vcorefs_manager.c:321:6:vcorefs_drv_init	64	static
+mt_vcorefs_manager.c:535:5:init_vcorefs_sysfs	16	static

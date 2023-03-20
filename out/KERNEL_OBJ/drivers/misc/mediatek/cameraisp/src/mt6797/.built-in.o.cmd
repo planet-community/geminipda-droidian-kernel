@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/cameraisp/src/mt6797/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/cameraisp/src/mt6797/built-in.o drivers/misc/mediatek/cameraisp/src/mt6797/camera_isp.o drivers/misc/mediatek/cameraisp/src/mt6797/camera_sysram.o drivers/misc/mediatek/cameraisp/src/mt6797/camera_fdvt.o drivers/misc/mediatek/cameraisp/src/mt6797/camera_dpe.o 

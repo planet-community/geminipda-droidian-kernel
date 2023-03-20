@@ -1,0 +1,15 @@
+scan_fsm.c:181:6:scnSendScanReq	96	static
+scan_fsm.c:283:6:scnSendScanReqV2	112	static
+scan_fsm.c:489:6:scnFsmHandleScanMsg	32	static
+scan_fsm.c:562:6:scnFsmHandleScanMsgV2	64	static
+scan_fsm.c:93:6:scnFsmSteps	80	static
+scan_fsm.c:384:6:scnFsmMsgStart	48	static
+scan_fsm.c:757:1:scnFsmGenerateScanDoneMsg	80	static
+scan_fsm.c:628:6:scnFsmRemovePendingMsg	64	static
+scan_fsm.c:429:6:scnFsmMsgAbort	96	static
+scan_fsm.c:693:6:scnEventScanDone	64	static
+scan_fsm.c:817:9:scnQuerySparseChannel	32	static
+scan_fsm.c:847:6:scnEventNloDone	32	static
+scan_fsm.c:883:1:scnFsmSchedScanRequest	160	static
+scan_fsm.c:1100:9:scnFsmSchedScanStopRequest	80	static
+scan_fsm.c:1850:6:scnScanDoneTimeout	48	static

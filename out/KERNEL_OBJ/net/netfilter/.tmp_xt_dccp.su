@@ -1,0 +1,4 @@
+xt_dccp.c:127:12:dccp_mt_check	0	static
+xt_dccp.c:181:20:dccp_mt_exit	16	static
+xt_dccp.c:99:1:dccp_mt	128	static
+xt_dccp.c:161:19:dccp_mt_init	32	static

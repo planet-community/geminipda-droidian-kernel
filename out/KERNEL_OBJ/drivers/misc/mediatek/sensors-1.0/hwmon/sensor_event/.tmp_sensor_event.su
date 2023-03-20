@@ -1,0 +1,6 @@
+sensor_event.c:270:19:sensor_event_entry	16	static
+sensor_event.c:48:5:sensor_input_event	64	static
+sensor_event.c:101:9:sensor_event_read	144	static
+sensor_event.c:159:14:sensor_event_poll	32	static
+sensor_event.c:173:14:sensor_event_register	64	static
+sensor_event.c:262:14:sensor_event_deregister	16	static

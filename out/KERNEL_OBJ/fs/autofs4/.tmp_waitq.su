@@ -1,0 +1,5 @@
+waitq.c:226:1:autofs4_find_wait.isra.9	48	static
+waitq.c:27:6:autofs4_catatonic_mode	64	static
+waitq.c:93:13:autofs4_notify_daemon	432	static
+waitq.c:343:5:autofs4_wait	224	static
+waitq.c:539:5:autofs4_wait_release	48	static

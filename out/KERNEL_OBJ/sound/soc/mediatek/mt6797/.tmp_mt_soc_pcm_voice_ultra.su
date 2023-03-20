@@ -1,0 +1,13 @@
+mt_soc_pcm_voice_ultra.c:76:6:get_voice_ultra_status	0	static
+mt_soc_pcm_voice_ultra.c:696:1:mtk_voice_ultra_driver_init	16	static
+mt_soc_pcm_voice_ultra.c:674:12:mtk_voice_ultra_remove	32	static
+mt_soc_pcm_voice_ultra.c:150:12:Audio_MD_Select_Control_Set	16	static
+mt_soc_pcm_voice_ultra.c:142:12:Audio_MD_Select_Control_Get	32	static
+mt_soc_pcm_voice_ultra.c:657:12:mtk_voice_ultra_probe	48	static
+mt_soc_pcm_voice_ultra.c:628:12:mtk_voice_ultra_hw_free	32	static
+mt_soc_pcm_voice_ultra.c:644:12:mtk_voice_ultra_platform_probe	32	static
+mt_soc_pcm_voice_ultra.c:696:1:mtk_voice_ultra_driver_exit	16	static
+mt_soc_pcm_voice_ultra.c:526:12:mtk_voice_ultra_hw_params	64	static
+mt_soc_pcm_voice_ultra.c:296:12:mtk_voice_ultra_close	32	static
+mt_soc_pcm_voice_ultra.c:354:12:mtk_voice_ultra_open	48	static
+mt_soc_pcm_voice_ultra.c:401:12:mtk_voice_ultra_prepare	144	static

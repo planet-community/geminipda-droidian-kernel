@@ -1,0 +1,14 @@
+hci_sysfs.c:54:13:bt_link_release	16	static
+hci_sysfs.c:33:16:show_link_address	16	static
+hci_sysfs.c:26:16:show_link_type	16	static
+hci_sysfs.c:160:16:show_address	16	static
+hci_sysfs.c:146:16:show_name	304	static
+hci_sysfs.c:139:16:show_type	16	static
+hci_sysfs.c:71:12:__match_tty	16	static
+hci_sysfs.c:180:13:bt_host_release	16	static
+hci_sysfs.c:76:6:hci_conn_init_sysfs	32	static
+hci_sysfs.c:89:6:hci_conn_add_sysfs	64	static
+hci_sysfs.c:105:6:hci_conn_del_sysfs	48	static
+hci_sysfs.c:193:6:hci_init_sysfs	32	static
+hci_sysfs.c:204:12:bt_sysfs_init	32	static
+hci_sysfs.c:211:6:bt_sysfs_cleanup	16	static

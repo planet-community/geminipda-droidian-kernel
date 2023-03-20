@@ -1,0 +1,4 @@
+port_ctlmsg.c:144:12:port_ctl_init	32	static
+port_ctlmsg.c:26:5:ccci_notfiy_md_desense	32	static
+port_ctlmsg.c:110:13:control_msg_handler	64	static
+port_ctlmsg.c:38:5:ccci_update_rf_desense	16	static

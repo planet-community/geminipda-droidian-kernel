@@ -1,0 +1,4 @@
+ip6t_hbh.c:209:20:hbh_mt6_exit	16	static
+ip6t_hbh.c:47:1:hbh_mt6	160	static
+ip6t_hbh.c:204:19:hbh_mt6_init	16	static
+ip6t_hbh.c:167:12:hbh_mt6_check	32	static

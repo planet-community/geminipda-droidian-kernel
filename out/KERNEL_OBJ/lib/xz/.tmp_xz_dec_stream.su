@@ -1,0 +1,6 @@
+xz_dec_stream.c:157:13:fill_temp	48	static
+xz_dec_stream.c:281:13:index_update.isra.3	32	static
+xz_dec_stream.c:734:23:xz_dec_run	144	static
+xz_dec_stream.c:770:26:xz_dec_init	48	static
+xz_dec_stream.c:800:16:xz_dec_reset	0	static
+xz_dec_stream.c:812:16:xz_dec_end	32	static

@@ -1,0 +1,2 @@
+usercopy.c:39:21:check_stack_object	0	static
+usercopy.c:234:6:__check_object_size	64	static

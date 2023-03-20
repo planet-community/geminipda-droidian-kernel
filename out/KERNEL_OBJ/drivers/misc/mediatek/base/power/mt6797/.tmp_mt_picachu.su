@@ -1,0 +1,14 @@
+mt_picachu.c:437:1:picachu_dump_proc_open	32	static
+mt_picachu.c:436:1:picachu_emmc_proc_open	32	static
+mt_picachu.c:435:1:picachu_offset_proc_open	32	static
+mt_picachu.c:434:1:picachu_enable_proc_open	32	static
+mt_picachu.c:143:13:dump_picachu_info	48	static
+mt_picachu.c:391:12:picachu_dump_proc_show	16	static
+mt_picachu.c:274:12:picachu_offset_proc_show	16	static
+mt_picachu.c:223:12:picachu_enable_proc_show	16	static
+mt_picachu.c:233:16:picachu_enable_proc_write	80	static
+mt_picachu.c:506:19:picachu_init	192	static
+mt_picachu.c:348:16:picachu_emmc_proc_write	80	static
+mt_picachu.c:328:12:picachu_emmc_proc_show	48	static
+mt_picachu.c:284:16:picachu_offset_proc_write	80	static
+mt_picachu.c:548:20:picachu_exit	16	static

@@ -1,0 +1,2 @@
+context.c:179:12:asids_init	32	static
+context.c:138:6:check_and_switch_context	128	static

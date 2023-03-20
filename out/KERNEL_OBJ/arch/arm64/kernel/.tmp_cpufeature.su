@@ -1,0 +1,15 @@
+cpufeature.c:306:12:search_cmp_ftr_reg	0	static
+cpufeature.c:360:19:sort_cmp_ftr_regs	0	static
+cpufeature.c:366:20:swap_ftr_regs	0	static
+cpufeature.c:936:1:cpufeature_pan_not_uao	0	static
+cpufeature.c:793:12:__raw_read_system_reg	16	static
+cpufeature.c:387:20:init_cpu_ftr_reg	32	static
+cpufeature.c:459:12:check_update_ftr_reg	48	static
+cpufeature.c:836:13:fail_incapable_cpu.isra.7	48	static
+cpufeature.c:612:1:has_cpuid_feature	32	static
+cpufeature.c:407:13:init_cpu_features	32	static
+cpufeature.c:477:6:update_cpu_features	48	static
+cpufeature.c:594:5:read_system_reg	16	static
+cpufeature.c:744:6:update_cpu_capabilities	80	static
+cpufeature.c:862:6:verify_local_cpu_capabilities	80	static
+cpufeature.c:910:13:setup_cpu_features	80	static

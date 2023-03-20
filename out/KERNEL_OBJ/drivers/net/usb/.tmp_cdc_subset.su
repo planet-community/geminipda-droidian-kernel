@@ -1,0 +1,5 @@
+cdc_subset.c:66:12:always_connected	0	static
+cdc_subset.c:343:12:dummy_prereset	0	static
+cdc_subset.c:348:12:dummy_postreset	0	static
+cdc_subset.c:365:1:cdc_subset_driver_init	16	static
+cdc_subset.c:365:1:cdc_subset_driver_exit	16	static

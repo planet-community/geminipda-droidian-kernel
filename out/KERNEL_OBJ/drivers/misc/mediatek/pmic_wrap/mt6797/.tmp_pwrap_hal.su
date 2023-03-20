@@ -1,0 +1,15 @@
+pwrap_hal.c:308:13:_pwrap_timeout_ns	48	static
+pwrap_hal.c:1332:12:pwrap_of_iomap	32	static
+pwrap_hal.c:1224:20:mt_pmic_wrap_irq	80	static
+pwrap_hal.c:1277:12:mt_pwrap_show_hal	32	static
+pwrap_hal.c:65:12:pwrap_read_test	48	static
+pwrap_hal.c:83:12:pwrap_write_test	64	static
+pwrap_hal.c:564:12:pwrap_wacs2_hal	128	static
+pwrap_hal.c:642:12:_pwrap_wacs2_nochk.part.0	96	static
+pwrap_hal.c:518:5:mt_pmic_wrap_eint_status	0	static
+pwrap_hal.c:523:6:mt_pmic_wrap_eint_clr	16	static
+pwrap_hal.c:631:5:pwrap_read_nochk	16	static
+pwrap_hal.c:636:5:pwrap_write_nochk	16	static
+pwrap_hal.c:1076:5:pwrap_init	144	static
+pwrap_hal.c:1284:12:mt_pwrap_store_hal	96	static
+pwrap_hal.c:1393:19:pwrap_hal_init	64	static

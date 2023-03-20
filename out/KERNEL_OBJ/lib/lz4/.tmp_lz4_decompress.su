@@ -1,0 +1,10 @@
+lz4_decompress.c:360:5:LZ4_setStreamDecode	0	static
+lz4_decompress.c:337:5:LZ4_decompress_safe	32	static
+lz4_decompress.c:499:5:lz4_decompress_unknownoutputsize	32	static
+lz4_decompress.c:345:5:LZ4_decompress_safe_partial	32	static
+lz4_decompress.c:353:5:LZ4_decompress_fast	48	static
+lz4_decompress.c:518:5:lz4_decompress	32	static
+lz4_decompress.c:382:5:LZ4_decompress_safe_continue	160	static
+lz4_decompress.c:419:5:LZ4_decompress_fast_continue	160	static
+lz4_decompress.c:481:5:LZ4_decompress_safe_usingDict	160	static
+lz4_decompress.c:489:5:LZ4_decompress_fast_usingDict	144	static

@@ -1,0 +1,10 @@
+mt_ppm_policy_force_limit.c:63:13:ppm_forcelimit_update_limit_cb	64	static
+mt_ppm_policy_force_limit.c:261:1:ppm_forcelimit_cpu_core_proc_open	32	static
+mt_ppm_policy_force_limit.c:207:12:ppm_forcelimit_cpu_core_proc_show	64	static
+mt_ppm_policy_force_limit.c:263:19:ppm_forcelimit_policy_init	64	static
+mt_ppm_policy_force_limit.c:108:13:ppm_forcelimit_mode_change_cb	48	static
+mt_ppm_policy_force_limit.c:99:13:ppm_forcelimit_status_change_cb	48	static
+mt_ppm_policy_force_limit.c:55:29:ppm_forcelimit_get_power_state_cb	16	static
+mt_ppm_policy_force_limit.c:316:20:ppm_forcelimit_policy_exit	32	static
+mt_ppm_policy_force_limit.c:117:14:mt_ppm_forcelimit_cpu_core	64	static
+mt_ppm_policy_force_limit.c:219:16:ppm_forcelimit_cpu_core_proc_write	128	static

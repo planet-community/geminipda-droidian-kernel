@@ -1,0 +1,17 @@
+hwmsen_helper.c:589:5:hwmsen_get_convert	0	static
+hwmsen_helper.c:97:5:hwmsen_read_byte	96	static
+hwmsen_helper.c:145:5:hwmsen_read_block	112	static
+hwmsen_helper.c:420:9:hwmsen_read_all_regs	112	static
+hwmsen_helper.c:378:9:hwmsen_show_dump	96	static
+hwmsen_helper.c:509:9:hwmsen_store_byte	96	static
+hwmsen_helper.c:551:9:hwmsen_store_word	96	static
+hwmsen_helper.c:455:9:hwmsen_show_reg	112	static
+hwmsen_helper.c:491:9:hwmsen_show_byte	112	static
+hwmsen_helper.c:533:9:hwmsen_show_word	128	static
+hwmsen_helper.c:126:5:hwmsen_write_byte	48	static
+hwmsen_helper.c:190:5:hwmsen_write_block	48	static
+hwmsen_helper.c:246:6:hwmsen_single_rw	128	static
+hwmsen_helper.c:314:6:hwmsen_multi_rw	208	static
+hwmsen_helper.c:47:5:hwmsen_set_bits	128	static
+hwmsen_helper.c:470:9:hwmsen_store_reg	96	static
+hwmsen_helper.c:72:5:hwmsen_clr_bits	128	static

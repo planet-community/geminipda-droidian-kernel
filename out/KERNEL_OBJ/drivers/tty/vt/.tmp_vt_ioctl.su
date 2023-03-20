@@ -1,0 +1,13 @@
+vt_ioctl.c:1475:6:pm_set_vt_switch	32	static
+vt_ioctl.c:308:13:vt_disallocate_all	592	static
+vt_ioctl.c:126:13:__vt_event_wait.isra.0.part.1	96	static
+vt_ioctl.c:165:12:vt_event_wait_ioctl	128	static
+vt_ioctl.c:87:6:vt_event_post	64	static
+vt_ioctl.c:194:5:vt_waitactive	160	static
+vt_ioctl.c:1049:6:reset_vc	32	static
+vt_ioctl.c:1287:13:complete_change_console	48	static
+vt_ioctl.c:334:5:vt_ioctl	160	static
+vt_ioctl.c:1065:6:vc_SAK	48	static
+vt_ioctl.c:1196:6:vt_compat_ioctl	128	static
+vt_ioctl.c:1361:6:change_console	32	static
+vt_ioctl.c:1432:5:vt_move_to_console	48	static

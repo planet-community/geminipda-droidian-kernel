@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lcm/aeon_nt36672_fhd_dsi_vdo_x600_xinli/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/lcm/aeon_nt36672_fhd_dsi_vdo_x600_xinli/built-in.o drivers/misc/mediatek/lcm/aeon_nt36672_fhd_dsi_vdo_x600_xinli/aeon_nt36672_fhd_dsi_vdo_x600_xinli.o 

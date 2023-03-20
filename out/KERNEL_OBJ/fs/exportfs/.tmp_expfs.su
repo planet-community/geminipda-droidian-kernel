@@ -1,0 +1,7 @@
+expfs.c:269:12:get_name	240	static
+expfs.c:376:5:exportfs_encode_inode_fh	16	static
+expfs.c:41:1:find_acceptable_alias.part.2	64	static
+expfs.c:244:12:filldir_one	32	static
+expfs.c:205:1:reconnect_path	112	static
+expfs.c:411:16:exportfs_decode_fh	384	static
+expfs.c:388:5:exportfs_encode_fh	64	static

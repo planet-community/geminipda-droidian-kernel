@@ -1,0 +1,5 @@
+kqid.c:12:6:qid_eq	16	static
+kqid.c:36:6:qid_lt	16	static
+kqid.c:67:7:from_kqid	16	static
+kqid.c:100:7:from_kqid_munged	16	static
+kqid.c:119:6:qid_valid	16	static

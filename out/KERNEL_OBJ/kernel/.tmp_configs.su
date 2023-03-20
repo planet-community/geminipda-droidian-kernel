@@ -1,0 +1,3 @@
+configs.c:87:20:ikconfig_cleanup	16	static
+configs.c:58:1:ikconfig_read_current	16	static
+configs.c:72:19:ikconfig_init	16	static

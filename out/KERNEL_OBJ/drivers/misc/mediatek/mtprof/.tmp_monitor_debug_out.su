@@ -1,0 +1,5 @@
+monitor_debug_out.c:52:6:mt_show_last_irq_counts	112	static
+monitor_debug_out.c:79:6:mt_show_current_irq_counts	160	static
+monitor_debug_out.c:116:6:mt_show_timer_info	64	static
+monitor_debug_out.c:193:6:mt_dump_sched_traces	144	static
+monitor_debug_out.c:307:6:mt_aee_dump_sched_traces	176	static

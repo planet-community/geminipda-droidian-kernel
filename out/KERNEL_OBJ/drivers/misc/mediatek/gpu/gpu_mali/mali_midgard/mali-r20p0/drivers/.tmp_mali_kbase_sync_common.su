@@ -1,0 +1,2 @@
+mali_kbase_sync_common.c:26:6:kbase_sync_fence_wait_worker	16	static
+mali_kbase_sync_common.c:34:13:kbase_sync_status_string	0	static

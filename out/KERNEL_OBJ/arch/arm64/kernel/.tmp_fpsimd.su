@@ -1,0 +1,13 @@
+fpsimd.c:303:12:fpsimd_cpu_hotplug_notifier	0	static
+fpsimd.c:334:19:fpsimd_init	32	static
+fpsimd.c:269:12:fpsimd_cpu_pm_notifier	16	static
+fpsimd.c:230:6:kernel_neon_begin_partial	32	static
+fpsimd.c:254:6:kernel_neon_end	32	static
+fpsimd.c:96:6:do_fpsimd_acc	16	static
+fpsimd.c:105:6:do_fpsimd_exc	176	static
+fpsimd.c:129:6:fpsimd_thread_switch	32	static
+fpsimd.c:159:6:fpsimd_flush_thread	32	static
+fpsimd.c:170:6:fpsimd_preserve_current_state	16	static
+fpsimd.c:183:6:fpsimd_restore_current_state	32	static
+fpsimd.c:201:6:fpsimd_update_current_state	32	static
+fpsimd.c:217:6:fpsimd_flush_task_state	0	static

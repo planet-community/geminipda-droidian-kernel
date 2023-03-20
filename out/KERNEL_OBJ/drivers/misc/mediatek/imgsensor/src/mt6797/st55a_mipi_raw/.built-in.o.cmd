@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/imgsensor/src/mt6797/st55a_mipi_raw/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/imgsensor/src/mt6797/st55a_mipi_raw/built-in.o drivers/misc/mediatek/imgsensor/src/mt6797/st55a_mipi_raw/s5k5e2yamipiraw_Sensor.o 

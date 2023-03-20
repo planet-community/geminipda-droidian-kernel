@@ -1,0 +1,8 @@
+inode.c:71:12:autofs4_show_options	48	static
+inode.c:101:13:autofs4_evict_inode	32	static
+inode.c:25:21:autofs4_new_ino	32	static
+inode.c:37:6:autofs4_clean_ino	0	static
+inode.c:44:6:autofs4_free_ino	16	static
+inode.c:49:6:autofs4_kill_sb	32	static
+inode.c:346:15:autofs4_get_inode	48	static
+inode.c:205:5:autofs4_fill_super	192	static

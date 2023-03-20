@@ -1,0 +1,14 @@
+nf_nat_h323.c:608:20:fini	32	static
+nf_nat_h323.c:395:13:ip_nat_q931_expect	112	static
+nf_nat_h323.c:581:19:init	32	static
+nf_nat_h323.c:24:12:set_addr	112	static
+nf_nat_h323.c:72:12:set_h225_addr	16	static
+nf_nat_h323.c:423:12:nat_q931	160	static
+nf_nat_h323.c:516:12:nat_callforwarding	112	static
+nf_nat_h323.c:332:12:nat_h245	112	static
+nf_nat_h323.c:146:12:set_ras_addr	128	static
+nf_nat_h323.c:93:12:set_sig_addr	176	static
+nf_nat_h323.c:82:12:set_h245_addr	16	static
+nf_nat_h323.c:281:12:nat_t120	112	static
+nf_nat_h323.c:175:12:nat_rtp_rtcp	144	static
+nf_nat_h323.c:494:13:ip_nat_callforwarding_expect	112	static

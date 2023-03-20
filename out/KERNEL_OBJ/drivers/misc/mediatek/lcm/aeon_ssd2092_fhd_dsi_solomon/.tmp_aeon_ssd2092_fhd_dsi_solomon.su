@@ -1,0 +1,10 @@
+aeon_ssd2092_fhd_dsi_solomon.c:569:13:lcm_init_power	0	static
+aeon_ssd2092_fhd_dsi_solomon.c:582:13:lcm_suspend_power	0	static
+aeon_ssd2092_fhd_dsi_solomon.c:595:13:lcm_resume_power	0	static
+aeon_ssd2092_fhd_dsi_solomon.c:654:21:lcm_compare_id	16	static
+aeon_ssd2092_fhd_dsi_solomon.c:473:13:lcm_get_params	32	static
+aeon_ssd2092_fhd_dsi_solomon.c:468:13:lcm_set_util_funcs	16	static
+aeon_ssd2092_fhd_dsi_solomon.c:436:13:push_table.constprop	64	static
+aeon_ssd2092_fhd_dsi_solomon.c:646:13:lcm_resume	32	static
+aeon_ssd2092_fhd_dsi_solomon.c:633:13:lcm_suspend	32	static
+aeon_ssd2092_fhd_dsi_solomon.c:628:13:lcm_init	16	static

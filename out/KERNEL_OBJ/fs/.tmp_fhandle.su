@@ -1,0 +1,4 @@
+fhandle.c:133:12:vfs_dentry_acceptable	0	static
+fhandle.c:92:1:SyS_name_to_handle_at	128	static
+fhandle.c:214:6:do_handle_open	128	static
+fhandle.c:255:1:SyS_open_by_handle_at	16	static

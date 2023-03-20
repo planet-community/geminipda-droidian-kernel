@@ -1,0 +1,6 @@
+sock.c:188:12:bnep_sock_create	48	static
+sock.c:52:12:bnep_sock_ioctl	112	static
+sock.c:36:12:bnep_sock_release	32	static
+sock.c:131:12:bnep_sock_compat_ioctl	112	static
+sock.c:223:12:bnep_sock_init	48	static
+sock.c:253:13:bnep_sock_cleanup	16	static

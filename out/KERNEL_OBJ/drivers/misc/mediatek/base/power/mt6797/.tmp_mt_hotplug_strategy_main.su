@@ -1,0 +1,16 @@
+mt_hotplug_strategy_main.c:418:12:hps_probe	16	static
+mt_hotplug_strategy_main.c:532:12:hps_restore	48	static
+mt_hotplug_strategy_main.c:498:12:hps_freeze	48	static
+mt_hotplug_strategy_main.c:464:12:hps_resume	48	static
+mt_hotplug_strategy_main.c:428:12:hps_suspend	48	static
+mt_hotplug_strategy_main.c:559:19:hps_init	32	static
+mt_hotplug_strategy_main.c:598:20:hps_exit	16	static
+mt_hotplug_strategy_main.c:202:6:hps_ctxt_reset_stas_nolock	0	static
+mt_hotplug_strategy_main.c:245:6:hps_ctxt_reset_stas	32	static
+mt_hotplug_strategy_main.c:257:6:hps_ctxt_print_basic	32	static
+mt_hotplug_strategy_main.c:282:6:hps_ctxt_print_algo_config	32	static
+mt_hotplug_strategy_main.c:309:6:hps_ctxt_print_algo_bound	32	static
+mt_hotplug_strategy_main.c:352:6:hps_ctxt_print_algo_stats_cur	32	static
+mt_hotplug_strategy_main.c:367:6:hps_ctxt_print_algo_stats_up	32	static
+mt_hotplug_strategy_main.c:380:6:hps_ctxt_print_algo_stats_down	32	static
+mt_hotplug_strategy_main.c:395:6:hps_ctxt_print_algo_stats_tlp	32	static

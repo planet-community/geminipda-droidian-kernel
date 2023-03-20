@@ -1,0 +1,7 @@
+kd_camera_hw.c:1598:19:kd_camera_hw_init	16	static
+kd_camera_hw.c:1576:19:dt_get_extbuck_info	64	static
+kd_camera_hw.c:600:5:mtkcam_gpio_init	48	static
+kd_camera_hw.c:733:5:mtkcam_gpio_set	32	static
+kd_camera_hw.c:848:6:hwpoweron	48	static
+kd_camera_hw.c:1008:6:hwpowerdown	48	static
+kd_camera_hw.c:1147:5:kdCISModulePowerOn	96	static

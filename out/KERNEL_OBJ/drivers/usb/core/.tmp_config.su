@@ -1,0 +1,5 @@
+config.c:315:6:usb_release_interface_cache	48	static
+config.c:654:6:usb_destroy_configuration	64	static
+config.c:693:5:usb_get_configuration	384	static
+config.c:797:6:usb_release_bos_descriptor	32	static
+config.c:807:5:usb_get_bos_descriptor	80	static

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/cam_cal/src/common/BRCB032GWZ_3/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/cam_cal/src/common/BRCB032GWZ_3/built-in.o drivers/misc/mediatek/cam_cal/src/common/BRCB032GWZ_3/BRCB032GWZ_3.o 

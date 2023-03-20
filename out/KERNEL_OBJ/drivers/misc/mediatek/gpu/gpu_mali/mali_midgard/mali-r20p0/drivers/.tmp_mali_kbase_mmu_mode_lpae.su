@@ -1,0 +1,10 @@
+mali_kbase_mmu_mode_lpae.c:69:13:mmu_get_as_setup	0	static
+mali_kbase_mmu_mode_lpae.c:118:20:pte_to_phy_addr	0	static
+mali_kbase_mmu_mode_lpae.c:126:12:ate_is_valid	0	static
+mali_kbase_mmu_mode_lpae.c:131:12:pte_is_valid	0	static
+mali_kbase_mmu_mode_lpae.c:164:13:entry_set_ate	0	static
+mali_kbase_mmu_mode_lpae.c:173:13:entry_set_pte	0	static
+mali_kbase_mmu_mode_lpae.c:178:13:entry_invalidate	0	static
+mali_kbase_mmu_mode_lpae.c:107:13:mmu_disable_as	16	static
+mali_kbase_mmu_mode_lpae.c:95:13:mmu_update	16	static
+mali_kbase_mmu_mode_lpae.c:195:30:kbase_mmu_mode_get_lpae	0	static

@@ -1,0 +1,4 @@
+sensor_attr.c:31:12:sensor_attr_open	64	static
+sensor_attr.c:123:19:sensor_attr_init	48	static
+sensor_attr.c:78:5:sensor_attr_register	48	static
+sensor_attr.c:104:5:sensor_attr_deregister	48	static

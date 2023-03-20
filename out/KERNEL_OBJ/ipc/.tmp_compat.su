@@ -1,0 +1,8 @@
+compat.c:310:13:compat_do_msg_fill	64	static
+compat.c:413:1:compat_SyS_semctl	192	static
+compat.c:418:1:compat_SyS_msgsnd	64	static
+compat.c:429:1:compat_SyS_msgrcv	16	static
+compat.c:498:1:compat_SyS_msgctl	192	static
+compat.c:552:1:compat_SyS_shmat	48	static
+compat.c:668:1:compat_SyS_shmctl	272	static
+compat.c:749:1:compat_SyS_semtimedop	80	static

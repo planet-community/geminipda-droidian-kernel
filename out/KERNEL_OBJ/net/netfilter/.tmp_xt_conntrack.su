@@ -1,0 +1,9 @@
+xt_conntrack.c:327:20:conntrack_mt_exit	16	static
+xt_conntrack.c:283:13:conntrack_mt_destroy	16	static
+xt_conntrack.c:321:19:conntrack_mt_init	16	static
+xt_conntrack.c:29:1:conntrack_addrcmp	0	static
+xt_conntrack.c:165:1:conntrack_mt	64	static
+xt_conntrack.c:249:1:conntrack_mt_v1	16	static
+xt_conntrack.c:257:1:conntrack_mt_v2	16	static
+xt_conntrack.c:265:1:conntrack_mt_v3	16	static
+xt_conntrack.c:272:12:conntrack_mt_check	32	static

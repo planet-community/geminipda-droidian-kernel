@@ -1,0 +1,16 @@
+fm_rds_parser.c:30:19:fm_state_get	0	static
+fm_rds_parser.c:35:19:fm_state_set	0	static
+fm_rds_parser.c:736:23:rds_bm_get	0	static
+fm_rds_parser.c:741:19:rds_bm_cnt_get	0	static
+fm_rds_parser.c:770:19:rds_bm_clr	0	static
+fm_rds_parser.c:777:19:rds_bm_cmp	0	static
+fm_rds_parser.c:748:19:rds_bm_get_pos	32	static
+fm_rds_parser.c:172:19:rds_event_set	48	static
+fm_rds_parser.c:189:19:rds_flag_set	48	static
+fm_rds_parser.c:782:19:rds_bm_set	32	static
+fm_rds_parser.c:119:19:rds_checksum_check	32	static
+fm_rds_parser.c:274:19:rds_grp_counter_get	32	static
+fm_rds_parser.c:295:19:rds_grp_counter_reset	32	static
+fm_rds_parser.c:305:19:rds_log_in	48	static
+fm_rds_parser.c:323:19:rds_log_out	32	static
+fm_rds_parser.c:1909:12:rds_parser	512	static

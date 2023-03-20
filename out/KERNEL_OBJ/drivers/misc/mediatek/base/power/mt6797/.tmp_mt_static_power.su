@@ -1,0 +1,8 @@
+mt_static_power.c:699:5:mt_spower_get_efuse_lkg	16	static
+mt_static_power.c:105:5:interpolate	0	static
+mt_static_power.c:114:5:interpolate_2d	0	static
+mt_static_power.c:143:6:interpolate_table	0	static
+mt_static_power.c:170:5:sptab_lookup	16	static
+mt_static_power.c:678:5:mt_spower_get_leakage	16	static
+mt_static_power.c:220:5:mt_spower_make_table	224	static
+mt_static_power.c:568:5:mt_spower_init	96	static

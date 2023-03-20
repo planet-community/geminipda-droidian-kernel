@@ -1,0 +1,6 @@
+mt_hotplug_strategy_ops_mt6797.c:270:12:hps_algo_perf_indicator	0	static
+mt_hotplug_strategy_ops_mt6797.c:54:12:cal_base_cores	32	static
+mt_hotplug_strategy_ops_mt6797.c:171:12:hps_algo_down	64	static
+mt_hotplug_strategy_ops_mt6797.c:123:12:hps_algo_up	48	static
+mt_hotplug_strategy_ops_mt6797.c:82:12:hps_algo_rush_boost	64	static
+mt_hotplug_strategy_ops_mt6797.c:279:5:hps_ops_init	80	static

@@ -1,0 +1,6 @@
+mali_kbase_regs_history_debugfs.c:26:12:regs_history_size_get	0	static
+mali_kbase_regs_history_debugfs.c:101:12:regs_history_open	16	static
+mali_kbase_regs_history_debugfs.c:60:12:regs_history_show	96	static
+mali_kbase_regs_history_debugfs.c:43:1:regs_history_size_fops_open	16	static
+mali_kbase_regs_history_debugfs.c:35:12:regs_history_size_set	16	static
+mali_kbase_regs_history_debugfs.c:115:6:kbasep_regs_history_debugfs_init	48	static

@@ -1,0 +1,4 @@
+nf_nat_proto_dccp.c:104:20:nf_nat_proto_dccp_fini	32	static
+nf_nat_proto_dccp.c:26:1:dccp_unique_tuple	16	static
+nf_nat_proto_dccp.c:37:1:dccp_manip_pkt	96	static
+nf_nat_proto_dccp.c:86:19:nf_nat_proto_dccp_init	32	static

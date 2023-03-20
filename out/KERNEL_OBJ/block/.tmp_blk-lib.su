@@ -1,0 +1,5 @@
+blk-lib.c:18:13:bio_batch_end_io	32	static
+blk-lib.c:40:5:blkdev_issue_discard	368	static
+blk-lib.c:155:5:blkdev_issue_write_same	304	static
+blk-lib.c:229:12:__blkdev_issue_zeroout	320	static
+blk-lib.c:291:5:blkdev_issue_zeroout	112	static

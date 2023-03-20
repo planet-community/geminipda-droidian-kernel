@@ -1,0 +1,8 @@
+quota.c:48:13:quota_sync_one	16	static
+quota.c:219:12:quota_getxstate	144	static
+quota.c:232:12:quota_getxstatev	240	static
+quota.c:142:12:quota_getquota	256	static
+quota.c:190:12:quota_setquota	272	static
+quota.c:324:12:quota_setxquota	304	static
+quota.c:371:12:quota_getxquota	320	static
+quota.c:520:1:SyS_quotactl	144	static

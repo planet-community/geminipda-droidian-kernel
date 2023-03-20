@@ -1,0 +1,14 @@
+i2c_mtk_debug.c:38:5:mt_i2c_test	0	static
+i2c_mtk_debug.c:309:13:hex2string	0	static
+i2c_mtk_debug.c:241:12:i2c_test_reg	32	static
+i2c_mtk_debug.c:542:20:xxx_exit	32	static
+i2c_mtk_debug.c:502:12:i2c_common_remove	16	static
+i2c_mtk_debug.c:158:16:show_config	48	static
+i2c_mtk_debug.c:492:12:i2c_common_probe	32	static
+i2c_mtk_debug.c:526:19:xxx_init	48	static
+i2c_mtk_debug.c:46:5:mt_i2c_test_multi_wr	368	static
+i2c_mtk_debug.c:124:5:mt_i2c_test_wrrd	128	static
+i2c_mtk_debug.c:176:5:string2hex	0	static
+i2c_mtk_debug.c:194:7:get_hexbuffer	0	static
+i2c_mtk_debug.c:207:5:i2c_trans_data	128	static
+i2c_mtk_debug.c:336:16:set_config	256	static

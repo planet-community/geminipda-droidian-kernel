@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/gpio/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/gpio/built-in.o drivers/misc/mediatek/gpio/mt_gpio_core.o drivers/misc/mediatek/gpio/aeon_gpio.o drivers/misc/mediatek/gpio/lp3101.o drivers/misc/mediatek/gpio/mt6797/built-in.o 

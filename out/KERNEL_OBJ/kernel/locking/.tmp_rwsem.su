@@ -1,0 +1,12 @@
+rwsem.c:52:5:down_read_trylock	16	static
+rwsem.c:157:6:down_read_non_owner	16	static
+rwsem.c:39:14:down_read	32	static
+rwsem.c:136:6:down_read_nested	32	static
+rwsem.c:66:14:down_write	32	static
+rwsem.c:146:6:_down_write_nest_lock	32	static
+rwsem.c:166:6:down_write_nested	32	static
+rwsem.c:177:6:up_read_non_owner	16	static
+rwsem.c:97:6:up_read	32	static
+rwsem.c:109:6:up_write	32	static
+rwsem.c:122:6:downgrade_write	16	static
+rwsem.c:80:5:down_write_trylock	32	static

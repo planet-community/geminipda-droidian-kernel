@@ -1,0 +1,5 @@
+module.c:160:12:reloc_insn_imm	64	static
+module.c:102:12:reloc_insn_movw	64	static
+module.c:34:7:module_alloc	16	static
+module.c:195:5:apply_relocate_add	112	static
+module.c:401:5:module_finalize	64	static

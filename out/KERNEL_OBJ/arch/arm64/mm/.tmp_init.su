@@ -1,0 +1,8 @@
+init.c:392:19:keepinitrd_setup	0	static
+init.c:52:19:early_initrd	48	static
+init.c:165:5:pfn_valid	16	static
+init.c:187:13:arm64_memblock_init	32	static
+init.c:213:13:bootmem_init	144	static
+init.c:306:13:mem_init	240	static
+init.c:375:6:free_initmem	16	static
+init.c:386:6:free_initrd_mem	16	static

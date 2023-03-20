@@ -1,0 +1,7 @@
+extd_factory.c:36:30:_get_context	32	static
+extd_factory.c:51:13:hdmi_factory_callback	48	static
+extd_factory.c:57:5:hdmi_factory_mode_init	48	static
+extd_factory.c:72:6:hdmi_factory_dpi_parameters	16	static
+extd_factory.c:217:5:hdmi_factory_mode_test	80	static
+extd_factory.c:296:27:EXTD_Factory_HDMI_Driver	0	static
+extd_factory.c:321:27:EXTD_Factory_EPD_Driver	0	static

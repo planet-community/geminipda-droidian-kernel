@@ -1,0 +1,12 @@
+ion_fb_heap.c:159:18:ion_fb_heap_map_dma	48	static
+ion_fb_heap.c:177:6:ion_fb_heap_unmap_dma	16	static
+ion_fb_heap.c:201:13:ion_fb_chunk_show	64	static
+ion_fb_heap.c:218:12:ion_fb_heap_debug_show	64	static
+ion_fb_heap.c:69:12:ion_fb_heap_phys	48	static
+ion_fb_heap.c:142:13:ion_fb_heap_free	48	static
+ion_fb_heap.c:107:12:ion_fb_heap_allocate	48	static
+ion_fb_heap.c:44:17:ion_fb_allocate	16	static
+ion_fb_heap.c:58:6:ion_fb_free	16	static
+ion_fb_heap.c:236:18:ion_fb_heap_create	32	static
+ion_fb_heap.c:261:6:ion_fb_heap_destroy	32	static
+ion_fb_heap.c:271:5:ion_drv_create_FB_heap	48	static

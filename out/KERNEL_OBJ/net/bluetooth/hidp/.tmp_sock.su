@@ -1,0 +1,6 @@
+sock.c:228:12:hidp_sock_create	48	static
+sock.c:49:12:hidp_sock_ioctl	272	static
+sock.c:142:12:hidp_sock_compat_ioctl	288	static
+sock.c:32:12:hidp_sock_release	32	static
+sock.c:264:12:hidp_init_sockets	48	static
+sock.c:294:13:hidp_cleanup_sockets	16	static

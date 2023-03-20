@@ -1,0 +1,2 @@
+ioremap.c:16:12:ioremap_pte_range	96	static
+ioremap.c:70:5:ioremap_page_range	112	static

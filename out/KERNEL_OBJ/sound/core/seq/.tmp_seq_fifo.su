@@ -1,0 +1,8 @@
+seq_fifo.c:31:22:snd_seq_fifo_new	32	static
+seq_fifo.c:62:6:snd_seq_fifo_delete	48	static
+seq_fifo.c:96:6:snd_seq_fifo_clear	48	static
+seq_fifo.c:115:5:snd_seq_fifo_event_in	64	static
+seq_fifo.c:174:5:snd_seq_fifo_cell_out	144	static
+seq_fifo.c:211:6:snd_seq_fifo_cell_putback	48	static
+seq_fifo.c:227:5:snd_seq_fifo_poll_wait	32	static
+seq_fifo.c:235:5:snd_seq_fifo_resize	80	static

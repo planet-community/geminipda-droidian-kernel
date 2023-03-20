@@ -1,0 +1,14 @@
+nfnetlink_acct.c:430:6:nfnl_acct_update	0	static
+nfnetlink_acct.c:423:6:nfnl_acct_put	16	static
+nfnetlink_acct.c:397:17:nfnl_acct_find_get	80	static
+nfnetlink_acct.c:496:20:nfnl_acct_exit	32	static
+nfnetlink_acct.c:318:12:nfnl_acct_try_del	16	static
+nfnetlink_acct.c:224:12:nfnl_acct_done	16	static
+nfnetlink_acct.c:52:1:nfnl_acct_new	96	static
+nfnetlink_acct.c:481:19:nfnl_acct_init	32	static
+nfnetlink_acct.c:336:1:nfnl_acct_del	48	static
+nfnetlink_acct.c:132:1:nfnl_acct_fill_info.constprop	144	static
+nfnetlink_acct.c:257:1:nfnl_acct_get.part.4	80	static
+nfnetlink_acct.c:257:1:nfnl_acct_get	144	static
+nfnetlink_acct.c:186:1:nfnl_acct_dump	96	static
+nfnetlink_acct.c:456:5:nfnl_acct_overquota	48	static

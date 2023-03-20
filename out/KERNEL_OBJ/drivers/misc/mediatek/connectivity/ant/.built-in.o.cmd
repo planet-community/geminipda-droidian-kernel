@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/connectivity/ant/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/connectivity/ant/built-in.o drivers/misc/mediatek/connectivity/ant/stp_chrdev_ant.o 

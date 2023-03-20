@@ -1,0 +1,4 @@
+cam_cal_list.c:102:14:cam_cal_check_mtk_cid	96	static
+cam_cal_list.c:125:14:cam_cal_check_double_eeprom	64	static
+cam_cal_list.c:82:14:cam_cal_get_sensor_list	0	static
+cam_cal_list.c:93:14:cam_cal_get_func_list	0	static

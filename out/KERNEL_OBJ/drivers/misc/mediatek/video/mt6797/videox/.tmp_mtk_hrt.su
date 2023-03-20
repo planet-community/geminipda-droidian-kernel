@@ -1,0 +1,11 @@
+mtk_hrt.c:223:12:insert_entry	0	static
+mtk_hrt.c:253:12:add_layer_entry	64	static
+mtk_hrt.c:554:12:_get_larb0_idx.constprop	32	static
+mtk_hrt.c:94:13:dump_disp_info.constprop	160	static
+mtk_hrt.c:481:12:_calc_hrt_num.constprop	256	static
+mtk_hrt.c:201:5:dump_entry_list	64	static
+mtk_hrt.c:847:5:check_disp_info	32	static
+mtk_hrt.c:877:5:gen_hrt_pattern	0	static
+mtk_hrt.c:1044:5:set_disp_info	64	static
+mtk_hrt.c:1083:5:copy_layer_info_to_user	64	static
+mtk_hrt.c:1114:5:dispsys_hrt_calc	160	static

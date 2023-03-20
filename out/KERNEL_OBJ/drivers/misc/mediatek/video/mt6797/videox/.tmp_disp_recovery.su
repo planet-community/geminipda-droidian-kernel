@@ -1,0 +1,16 @@
+disp_recovery.c:209:20:_esd_check_ext_te_irq_handler	32	static
+disp_recovery.c:84:14:get_esd_check_mode	0	static
+disp_recovery.c:89:6:set_esd_check_mode	0	static
+disp_recovery.c:94:14:_can_switch_check_mode	16	static
+disp_recovery.c:121:5:_esd_check_config_handle_cmd	32	static
+disp_recovery.c:162:5:_esd_check_config_handle_vdo	32	static
+disp_recovery.c:281:5:primary_display_switch_esd_mode	48	static
+disp_recovery.c:331:5:do_esd_check_eint	112	static
+disp_recovery.c:346:5:do_esd_check_dsi_te	16	static
+disp_recovery.c:558:5:primary_display_esd_recovery	48	static
+disp_recovery.c:688:6:primary_display_esd_check_enable	32	static
+disp_recovery.c:663:6:primary_display_check_recovery_init	48	static
+disp_recovery.c:707:14:need_wait_esd_eof	32	static
+disp_recovery.c:358:5:do_esd_check_read	64	static
+disp_recovery.c:413:5:primary_display_esd_check	64	static
+disp_recovery.c:499:12:primary_display_check_recovery_worker_kthread	160	static

@@ -1,0 +1,7 @@
+OIS_user.c:44:6:VCOSET0	16	static
+OIS_user.c:66:6:VCOSET1	16	static
+OIS_user.c:91:6:WR_I2C	16	static
+OIS_user.c:118:20:RD_I2C	48	static
+OIS_user.c:155:6:store_FADJ_MEM_to_non_volatile_memory	0	static
+OIS_user.c:179:18:get_FADJ_MEM_from_non_volatile_memory	64	static
+OIS_user.c:257:6:Wait_usec	0	static

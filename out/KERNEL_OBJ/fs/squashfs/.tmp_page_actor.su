@@ -1,0 +1,8 @@
+page_actor.c:15:29:squashfs_page_actor_init	64	static
+page_actor.c:32:6:squashfs_page_actor_free	32	static
+page_actor.c:42:6:squashfs_actor_to_buf	96	static
+page_actor.c:59:6:squashfs_buf_to_actor	96	static
+page_actor.c:76:6:squashfs_bh_to_actor	112	static
+page_actor.c:112:6:squashfs_bh_to_buf	80	static
+page_actor.c:128:6:free_page_array	48	static
+page_actor.c:137:15:alloc_page_array	64	static

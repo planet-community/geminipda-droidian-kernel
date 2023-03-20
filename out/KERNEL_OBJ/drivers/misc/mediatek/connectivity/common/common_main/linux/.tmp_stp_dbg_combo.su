@@ -1,0 +1,2 @@
+stp_dbg_combo.c:150:7:stp_dbg_combo_core_dump	112	static
+stp_dbg_combo.c:172:8:stp_dbg_combo_id_to_task	32	static

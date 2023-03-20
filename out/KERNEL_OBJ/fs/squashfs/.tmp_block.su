@@ -1,0 +1,11 @@
+block.c:93:13:free_read_request	32	static
+block.c:190:13:squashfs_bio_end_io	48	static
+block.c:255:12:squashfs_bio_submit	128	static
+block.c:103:13:squashfs_process_blocks	80	static
+block.c:184:13:read_wq_handler	16	static
+block.c:388:12:read_data_block	96	static
+block.c:347:12:read_metadata_block	80	static
+block.c:81:5:squashfs_init_read_wq	32	static
+block.c:87:6:squashfs_destroy_read_wq	32	static
+block.c:461:5:squashfs_read_data	64	static
+block.c:468:5:squashfs_read_data_async	64	static

@@ -1,0 +1,13 @@
+mt_idle_mt6797.c:187:12:sys_is_on	64	static
+mt_idle_mt6797.c:372:19:get_base_from_node.constprop	48	static
+mt_idle_mt6797.c:179:29:msdc_clk_status	0	static
+mt_idle_mt6797.c:251:6:cg_check_idle_can_enter	144	static
+mt_idle_mt6797.c:317:6:cg_i2c_appm_check_idle_can_enter	0	static
+mt_idle_mt6797.c:344:13:pll_grp_get_name	0	static
+mt_idle_mt6797.c:349:5:is_pll_on	0	static
+mt_idle_mt6797.c:354:6:pll_check_idle_can_enter	48	static
+mt_idle_mt6797.c:393:13:iomap_init	32	static
+mt_idle_mt6797.c:407:13:cg_grp_get_name	16	static
+mt_idle_mt6797.c:413:6:is_disp_pwm_rosc	0	static
+mt_idle_mt6797.c:418:6:is_auxadc_released	0	static
+mt_idle_mt6797.c:429:6:vcore_dvfs_is_progressing	16	static

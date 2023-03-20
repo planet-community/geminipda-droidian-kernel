@@ -1,0 +1,13 @@
+sp5509mainmipiraw_Sensor.c:1612:19:get_resolution	32	static
+sp5509mainmipiraw_Sensor.c:1647:19:get_info	32	static
+sp5509mainmipiraw_Sensor.c:290:13:write_cmos_sensor	48	static
+sp5509mainmipiraw_Sensor.c:862:13:capture_setting	16	static
+sp5509mainmipiraw_Sensor.c:745:13:preview_setting	16	static
+sp5509mainmipiraw_Sensor.c:1320:19:close	16	static
+sp5509mainmipiraw_Sensor.c:1347:19:preview.isra.12	48	static
+sp5509mainmipiraw_Sensor.c:466:13:set_mirror_flip.constprop	32	static
+sp5509mainmipiraw_Sensor.c:1791:19:control	64	static
+sp5509mainmipiraw_Sensor.c:1245:19:open	160	static
+sp5509mainmipiraw_Sensor.c:307:13:set_max_framerate	96	static
+sp5509mainmipiraw_Sensor.c:2063:19:feature_control	144	static
+sp5509mainmipiraw_Sensor.c:2193:8:sp5509_MAIN_MIPI_RAW_SensorInit	0	static

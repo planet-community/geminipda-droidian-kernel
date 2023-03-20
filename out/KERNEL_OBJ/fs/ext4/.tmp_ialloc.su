@@ -1,0 +1,11 @@
+ialloc.c:67:6:ext4_end_bitmap_read	32	static
+ialloc.c:344:13:get_orlov_stats	48	static
+ialloc.c:390:12:find_group_orlov	192	static
+ialloc.c:84:1:ext4_read_inode_bitmap	96	static
+ialloc.c:53:6:ext4_mark_bitmap_end	16	static
+ialloc.c:207:6:ext4_free_inode	160	static
+ialloc.c:689:15:__ext4_new_inode	528	dynamic,bounded
+ialloc.c:1085:15:ext4_orphan_get	96	static
+ialloc.c:1158:15:ext4_count_free_inodes	48	static
+ialloc.c:1207:15:ext4_count_dirs	48	static
+ialloc.c:1229:5:ext4_init_inode_table	144	static

@@ -1,0 +1,5 @@
+ssusb_qmu.c:34:6:qmu_done_tx	112	static
+ssusb_qmu.c:203:6:qmu_done_rx	144	static
+ssusb_qmu.c:355:6:qmu_done_tasklet	48	static
+ssusb_qmu.c:377:6:qmu_error_recovery	128	static
+ssusb_qmu.c:526:6:qmu_exception_interrupt	96	static

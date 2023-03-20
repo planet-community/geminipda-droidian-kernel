@@ -1,0 +1,8 @@
+mt_power_gs-v1.c:170:20:mt_power_gs_exit	0	static
+mt_power_gs-v1.c:155:12:mt_power_gs_md_setting_open	16	static
+mt_power_gs-v1.c:38:12:mt_power_gs_md_setting_read	16	static
+mt_power_gs-v1.c:45:16:mt_power_gs_md_setting_write	112	static
+mt_power_gs-v1.c:174:19:mt_power_gs_init	32	static
+mt_power_gs-v1.c:78:13:mt_power_gs_compare.constprop	176	static
+mt_power_gs-v1.c:138:6:mt_power_gs_dump_dpidle	16	static
+mt_power_gs-v1.c:105:6:mt_power_gs_dump_suspend	16	static

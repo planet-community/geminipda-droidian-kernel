@@ -1,0 +1,14 @@
+stp_chrdev_bt.c:117:14:ftrace_print	432	static
+stp_chrdev_bt.c:219:14:BT_poll	48	static
+stp_chrdev_bt.c:250:9:BT_write_iter	64	static
+stp_chrdev_bt.c:297:9:BT_write	64	static
+stp_chrdev_bt.c:442:6:BT_unlocked_ioctl	64	static
+stp_chrdev_bt.c:494:6:BT_compat_ioctl	16	static
+stp_chrdev_bt.c:538:12:BT_close	32	static
+stp_chrdev_bt.c:191:13:BT_event_cb	48	static
+stp_chrdev_bt.c:651:5:mtk_wcn_stpbt_drv_init	96	static
+stp_chrdev_bt.c:657:6:mtk_wcn_stpbt_drv_exit	48	static
+stp_chrdev_bt.c:499:12:BT_open	64	static
+stp_chrdev_bt.c:152:13:bt_cdev_rst_cb	64	static
+stp_chrdev_bt.c:133:15:bt_report_hw_error.constprop	48	static
+stp_chrdev_bt.c:343:9:BT_read	160	static

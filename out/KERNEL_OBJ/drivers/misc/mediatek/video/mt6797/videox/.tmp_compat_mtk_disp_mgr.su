@@ -1,0 +1,17 @@
+compat_mtk_disp_mgr.c:796:12:compat_get_disp_session_config	80	static
+compat_mtk_disp_mgr.c:682:12:compat_get_disp_buffer_info	80	static
+compat_mtk_disp_mgr.c:248:12:compat_get_disp_input_config	80	static
+compat_mtk_disp_mgr.c:118:12:compat_get_disp_output_config	80	static
+compat_mtk_disp_mgr.c:915:5:_compat_ioctl_create_session	80	static
+compat_mtk_disp_mgr.c:951:5:_compat_ioctl_destroy_session	48	static
+compat_mtk_disp_mgr.c:980:5:_compat_ioctl_trigger_session	48	static
+compat_mtk_disp_mgr.c:1008:5:_compat_ioctl_prepare_present_fence	96	static
+compat_mtk_disp_mgr.c:1045:5:_compat_ioctl_get_info	288	static
+compat_mtk_disp_mgr.c:1083:5:_compat_ioctl_prepare_buffer	80	static
+compat_mtk_disp_mgr.c:1125:5:_compat_ioctl_wait_vsync	112	static
+compat_mtk_disp_mgr.c:1161:5:_compat_ioctl_set_input_buffer	80	static
+compat_mtk_disp_mgr.c:1189:5:_compat_ioctl_get_display_caps	144	static
+compat_mtk_disp_mgr.c:1223:5:_compat_ioctl_set_vsync	48	static
+compat_mtk_disp_mgr.c:1242:5:_compat_ioctl_set_session_mode	48	static
+compat_mtk_disp_mgr.c:1269:5:_compat_ioctl_set_output_buffer	64	static
+compat_mtk_disp_mgr.c:1298:5:_compat_ioctl_frame_config	80	static

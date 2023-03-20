@@ -1,0 +1,5 @@
+dummy_flashlight.c:120:12:dummy_flashlight_open	0	static
+dummy_flashlight.c:125:12:dummy_flashlight_release	0	static
+dummy_flashlight.c:145:9:strobe_VDIrq	0	static
+dummy_flashlight.c:94:12:dummy_flashlight_ioctl	48	static
+dummy_flashlight.c:136:9:dummyFlashlightInit	0	static

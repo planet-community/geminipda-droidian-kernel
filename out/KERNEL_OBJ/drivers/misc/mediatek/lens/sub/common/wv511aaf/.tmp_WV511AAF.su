@@ -1,0 +1,4 @@
+WV511AAF.c:72:12:s4AF_WriteReg	48	static
+WV511AAF.c:234:6:WV511AAF_Ioctl_Sub	96	static
+WV511AAF.c:273:5:WV511AAF_Release_Sub	48	static
+WV511AAF.c:300:5:WV511AAF_SetI2Cclient_Sub	0	static

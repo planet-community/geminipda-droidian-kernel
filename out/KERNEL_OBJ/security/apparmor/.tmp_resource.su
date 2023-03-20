@@ -1,0 +1,5 @@
+resource.c:50:12:audit_resource	160	static
+resource.c:33:13:audit_cb	16	static
+resource.c:69:5:aa_map_resource	0	static
+resource.c:95:5:aa_task_setrlimit	96	static
+resource.c:128:6:__aa_transition_rlimits	48	static

@@ -1,0 +1,7 @@
+lockref.c:122:5:lockref_put_return	0	static
+lockref.c:48:6:lockref_get	32	static
+lockref.c:67:5:lockref_get_not_zero	32	static
+lockref.c:96:5:lockref_get_or_lock	32	static
+lockref.c:140:5:lockref_put_or_lock	32	static
+lockref.c:175:5:lockref_get_not_dead	32	static
+lockref.c:163:6:lockref_mark_dead	16	static

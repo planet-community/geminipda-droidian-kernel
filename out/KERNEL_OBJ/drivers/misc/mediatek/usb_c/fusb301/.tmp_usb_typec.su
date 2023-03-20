@@ -1,0 +1,13 @@
+usb_typec.c:93:6:fusb301_eint_work	32	static
+usb_typec.c:102:20:fusb301_eint_isr	48	static
+usb_typec.c:212:5:register_typec0_switch_callback	16	static
+usb_typec.c:238:5:unregister_typec0_switch_callback	16	static
+usb_typec.c:284:19:fusb301_init	16	static
+usb_typec.c:49:6:InitializeFUSB301	112	static
+usb_typec.c:69:6:FUSB301Write	80	static
+usb_typec.c:80:6:FUSB301Read	96	static
+usb_typec.c:118:5:fusb301_eint_init	80	static
+usb_typec.c:152:6:fusb301_i2c_w_reg8	48	static
+usb_typec.c:161:4:fusb301_i2c_r_reg	64	static
+usb_typec.c:170:12:fusb301_i2c_probe	64	static
+usb_typec.c:297:20:fusb301_exit	0	static

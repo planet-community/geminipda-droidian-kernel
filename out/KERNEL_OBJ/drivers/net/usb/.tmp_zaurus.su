@@ -1,0 +1,6 @@
+zaurus.c:96:12:always_connected	0	static
+zaurus.c:381:1:zaurus_driver_init	16	static
+zaurus.c:57:1:zaurus_tx_fixup	32	static
+zaurus.c:85:12:zaurus_bind	16	static
+zaurus.c:148:12:blan_mdlm_bind	96	static
+zaurus.c:381:1:zaurus_driver_exit	16	static

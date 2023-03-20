@@ -1,0 +1,10 @@
+leds_drv.c:125:5:setMaxbrightness	32	static
+leds_drv.c:392:5:backlight_brightness_set	48	static
+leds_drv.c:879:20:mt65xx_leds_exit	16	static
+leds_drv.c:779:13:mt65xx_leds_shutdown	112	static
+leds_drv.c:756:12:mt65xx_leds_remove	32	static
+leds_drv.c:307:12:mt65xx_blink_set	16	static
+leds_drv.c:233:13:mt65xx_led_set	48	static
+leds_drv.c:647:12:mt65xx_leds_probe	96	static
+leds_drv.c:855:19:mt65xx_leds_init	32	static
+leds_drv.c:319:5:mt65xx_leds_brightness_set	64	static

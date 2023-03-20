@@ -1,0 +1,4 @@
+DW9814AF.c:70:12:s4AF_WriteReg	48	static
+DW9814AF.c:183:6:DW9814AF_Ioctl_Sub	96	static
+DW9814AF.c:218:5:DW9814AF_Release_Sub	32	static
+DW9814AF.c:243:5:DW9814AF_SetI2Cclient_Sub	0	static

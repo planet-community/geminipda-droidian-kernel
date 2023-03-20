@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/videocodec/mt6797/vcodec_kernel_driver.o := aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/videocodec/mt6797/vcodec_kernel_driver.o drivers/misc/mediatek/videocodec/mt6797/videocodec_kernel_driver.o drivers/misc/mediatek/videocodec/mt6797/common/val/src/val.o drivers/misc/mediatek/videocodec/mt6797/common/drv/src/drv_base.o 

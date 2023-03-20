@@ -1,0 +1,10 @@
+cputopo.c:91:12:tasks_rq_open	16	static
+cputopo.c:51:12:tasks_all_open	16	static
+cputopo.c:64:12:tasks_rq_show	128	static
+cputopo.c:24:12:tasks_all_show	128	static
+cputopo.c:160:16:cpus_per_cluster_show	80	static
+cputopo.c:106:16:nr_clusters_show	32	static
+cputopo.c:136:16:glbinfo_show	80	static
+cputopo.c:116:16:is_big_little_show	32	static
+cputopo.c:126:16:is_multi_cluster_show	32	static
+cputopo.c:213:19:cputopo_info_init	32	static

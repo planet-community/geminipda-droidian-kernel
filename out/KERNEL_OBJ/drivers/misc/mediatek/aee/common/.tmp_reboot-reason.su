@@ -1,0 +1,15 @@
+reboot-reason.c:61:12:aee_rr_reboot_reason_show	16	static
+reboot-reason.c:67:12:aee_rr_reboot_reason_proc_open	16	static
+reboot-reason.c:89:6:aee_rr_proc_done	16	static
+reboot-reason.c:96:16:powerup_reason_show	48	static
+reboot-reason.c:80:6:aee_rr_proc_init	32	static
+reboot-reason.c:130:5:ksysfs_bootinfo_init	32	static
+reboot-reason.c:145:6:ksysfs_bootinfo_exit	16	static
+reboot-reason.c:158:5:aee_nested_printf	192	static
+reboot-reason.c:191:5:aee_dump_stack_top_binary	48	static
+reboot-reason.c:223:13:aee_print_regs	48	static
+reboot-reason.c:234:13:aee_print_bt	128	static
+reboot-reason.c:281:12:aee_nested_save_stack	32	static
+reboot-reason.c:298:5:aee_in_nested_panic	16	static
+reboot-reason.c:324:17:aee_save_excp_regs	0	static
+reboot-reason.c:330:17:aee_stop_nested_panic	288	static

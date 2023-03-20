@@ -1,0 +1,8 @@
+scsi_ioctl.c:210:5:blk_verify_command	48	static
+scsi_ioctl.c:430:5:sg_scsi_ioctl	256	static
+scsi_ioctl.c:703:5:scsi_verify_blk_ioctl	32	static
+scsi_ioctl.c:757:19:blk_scsi_ioctl_init	0	static
+scsi_ioctl.c:547:12:__blk_send_generic.constprop	48	static
+scsi_ioctl.c:289:12:sg_io	208	static
+scsi_ioctl.c:573:5:scsi_cmd_ioctl	240	static
+scsi_ioctl.c:744:5:scsi_cmd_blk_ioctl	48	static

@@ -1,0 +1,10 @@
+ddp_dsc.c:70:5:dsc_start	64	static
+ddp_dsc.c:78:5:dsc_stop	64	static
+ddp_dsc.c:235:12:dsc_reset	64	static
+ddp_dsc.c:85:12:dsc_config	128	static
+ddp_dsc.c:29:12:dsc_dump	608	static
+ddp_dsc.c:243:5:dsc_bypass	16	static
+ddp_dsc.c:224:12:dsc_clock_off	32	static
+ddp_dsc.c:59:12:dsc_deinit	32	static
+ddp_dsc.c:213:12:dsc_clock_on	32	static
+ddp_dsc.c:48:12:dsc_init	32	static

@@ -1,0 +1,7 @@
+sensor_dts.c:29:5:get_accel_dts_func	112	static
+sensor_dts.c:85:5:get_alsps_dts_func	304	static
+sensor_dts.c:174:5:get_mag_dts_func	112	static
+sensor_dts.c:223:5:get_gyro_dts_func	144	static
+sensor_dts.c:280:5:get_baro_dts_func	128	static
+sensor_dts.c:335:5:get_hmdy_dts_func	144	static
+sensor_dts.c:394:5:get_accelgyro_dts_func	96	static

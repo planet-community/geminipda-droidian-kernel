@@ -1,0 +1,2 @@
+id.c:45:5:squashfs_get_id	64	static
+id.c:68:9:squashfs_read_id_index_table	64	static

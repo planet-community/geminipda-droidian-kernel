@@ -1,0 +1,7 @@
+xt_ecn.c:173:20:ecn_mt_exit	16	static
+xt_ecn.c:129:12:ecn_mt_check6	16	static
+xt_ecn.c:87:12:ecn_mt_check4	16	static
+xt_ecn.c:168:19:ecn_mt_init	16	static
+xt_ecn.c:30:13:match_tcp.isra.2	64	static
+xt_ecn.c:73:13:ecn_mt4	16	static
+xt_ecn.c:115:13:ecn_mt6	16	static

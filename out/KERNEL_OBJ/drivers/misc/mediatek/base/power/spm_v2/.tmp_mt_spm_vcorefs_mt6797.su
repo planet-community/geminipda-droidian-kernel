@@ -1,0 +1,14 @@
+mt_spm_vcorefs_mt6797.c:137:13:set_aee_vcore_dvfs_status	32	static
+mt_spm_internal.h:622:28:is_clk_buf_under_flightmode	0	static
+mt_spm_vcorefs_mt6797.c:162:6:dump_pmic_info	48	static
+mt_spm_vcorefs_mt6797.c:179:6:spm_fw_version	16	static
+mt_spm_vcorefs_mt6797.c:190:7:spm_vcorefs_dump_dvfs_regs	48	static
+mt_spm_vcorefs_mt6797.c:248:5:spm_vcorefs_get_MD_status	0	static
+mt_spm_vcorefs_mt6797.c:253:5:spm_vcorefs_set_cpu_dvfs_req	0	static
+mt_spm_vcorefs_mt6797.c:265:6:spm_vcorefs_enable_perform_bw	48	static
+mt_spm_vcorefs_mt6797.c:285:5:spm_vcorefs_set_perform_bw_threshold	48	static
+mt_spm_vcorefs_mt6797.c:300:6:spm_vcorefs_screen_on_setting	48	static
+mt_spm_vcorefs_mt6797.c:318:6:spm_mask_wakeup_event	0	static
+mt_spm_vcorefs_mt6797.c:327:5:spm_set_vcore_dvfs	112	static
+mt_spm_vcorefs_mt6797.c:500:6:spm_vcorefs_init_dvfs_con	32	static
+mt_spm_vcorefs_mt6797.c:514:6:spm_go_to_vcore_dvfs	80	static

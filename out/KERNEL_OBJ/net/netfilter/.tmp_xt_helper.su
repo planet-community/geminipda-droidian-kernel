@@ -1,0 +1,5 @@
+xt_helper.c:93:20:helper_mt_exit	16	static
+xt_helper.c:72:13:helper_mt_destroy	16	static
+xt_helper.c:57:12:helper_mt_check	48	static
+xt_helper.c:27:1:helper_mt	48	static
+xt_helper.c:88:19:helper_mt_init	16	static

@@ -1,0 +1,7 @@
+array.c:292:13:render_cap_t	48	static
+array.c:374:12:do_task_stat	336	static
+array.c:217:6:render_sigset_t	48	static
+array.c:353:5:proc_pid_status	256	static
+array.c:542:5:proc_tid_stat	16	static
+array.c:548:5:proc_tgid_stat	16	static
+array.c:554:5:proc_pid_statm	112	static

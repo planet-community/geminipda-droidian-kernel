@@ -1,0 +1,9 @@
+musbfsh_hsdma.c:133:13:dma_channel_release	32	static
+musbfsh_hsdma.c:90:28:dma_channel_allocate	48	static
+musbfsh_hsdma.c:215:12:dma_channel_abort	96	static
+musbfsh_hsdma.c:53:12:dma_controller_start	16	static
+musbfsh_hsdma.c:186:12:dma_channel_program	128	static
+musbfsh_hsdma.c:62:12:dma_controller_stop	80	static
+musbfsh_hsdma.c:262:13:musbfsh_dma_controller_irq	144	static
+musbfsh_hsdma.c:394:6:musbfsh_dma_controller_destroy	32	static
+musbfsh_hsdma.c:410:1:musbfsh_dma_controller_create	64	static

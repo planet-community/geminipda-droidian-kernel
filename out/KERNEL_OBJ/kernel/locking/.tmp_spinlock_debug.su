@@ -1,0 +1,16 @@
+spinlock_debug.c:24:6:__raw_spin_lock_init	48	static
+spinlock_debug.c:42:6:__rwlock_init	48	static
+spinlock_debug.c:60:13:spin_dump	32	static
+spinlock_debug.c:75:13:spin_bug	112	static
+spinlock_debug.c:126:13:show_cpu_backtrace	16	static
+spinlock_debug.c:272:13:rwlock_bug.part.1	16	static
+spinlock_debug.c:272:13:rwlock_bug	48	static
+spinlock_debug.c:243:6:do_raw_spin_lock	176	static
+spinlock_debug.c:251:5:do_raw_spin_trylock	0	static
+spinlock_debug.c:266:6:do_raw_spin_unlock	32	static
+spinlock_debug.c:311:6:do_raw_read_lock	32	static
+spinlock_debug.c:317:5:do_raw_read_trylock	0	static
+spinlock_debug.c:330:6:do_raw_read_unlock	32	static
+spinlock_debug.c:386:6:do_raw_write_lock	32	static
+spinlock_debug.c:393:5:do_raw_write_trylock	0	static
+spinlock_debug.c:408:6:do_raw_write_unlock	32	static

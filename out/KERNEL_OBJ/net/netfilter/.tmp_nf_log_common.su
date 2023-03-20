@@ -1,0 +1,6 @@
+nf_log_common.c:177:19:nf_log_common_init	0	static
+nf_log_common.c:182:20:nf_log_common_exit	0	static
+nf_log_common.c:151:1:nf_log_dump_packet_common	48	static
+nf_log_common.c:23:5:nf_log_dump_udp_header	80	static
+nf_log_common.c:55:5:nf_log_dump_tcp_header	160	static
+nf_log_common.c:134:6:nf_log_dump_sk_uid_gid	48	static

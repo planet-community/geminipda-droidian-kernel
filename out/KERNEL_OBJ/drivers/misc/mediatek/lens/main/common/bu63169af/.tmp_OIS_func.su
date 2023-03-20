@@ -1,0 +1,14 @@
+OIS_func.c:26:11:func_PROGRAM_DOWNLOAD	96	static
+OIS_func.c:57:6:func_COEF_DOWNLOAD	96	static
+OIS_func.c:83:6:download	96	static
+OIS_func.c:512:6:HalfShutterOn	64	static
+OIS_func.c:530:6:I2C_OIS_per_write	48	static
+OIS_func.c:548:6:I2C_OIS_mem_write	48	static
+OIS_func.c:137:6:SET_FADJ_PARAM	32	static
+OIS_func.c:192:11:func_SET_SCENE_PARAM	208	static
+OIS_func.c:352:11:func_SET_SCENE_PARAM_for_NewGYRO_Fil	224	static
+OIS_func.c:566:20:I2C_OIS_per__read	48	static
+OIS_func.c:582:20:I2C_OIS_mem__read	48	static
+OIS_func.c:598:6:I2C_OIS_spcl_cmnd	48	static
+OIS_func.c:615:6:I2C_OIS_F0123_wr_	48	static
+OIS_func.c:628:20:I2C_OIS_F0123__rd	48	static

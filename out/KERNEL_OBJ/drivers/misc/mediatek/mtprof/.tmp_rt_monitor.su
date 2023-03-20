@@ -1,0 +1,11 @@
+rt_monitor.c:205:12:mt_rt_mon_cmp	0	static
+rt_monitor.c:347:19:mt_rt_mon_init	48	static
+rt_monitor.c:113:6:start_rt_mon_task	64	static
+rt_monitor.c:124:6:stop_rt_mon_task	96	static
+rt_monitor.c:171:6:reset_rt_mon_list	112	static
+rt_monitor.c:220:6:mt_rt_mon_print_task	96	static
+rt_monitor.c:265:6:mt_rt_mon_print_task_from_buffer	96	static
+rt_monitor.c:285:6:mt_rt_mon_switch	16	static
+rt_monitor.c:298:6:update_mt_rt_mon_start	48	static
+rt_monitor.c:312:6:save_mt_rt_mon_info	96	static
+rt_monitor.c:342:5:mt_rt_mon_enable	0	static

@@ -1,0 +1,6 @@
+disp_utils.c:24:5:disp_sw_mutex_lock	16	static
+disp_utils.c:30:5:disp_mutex_trylock	16	static
+disp_utils.c:38:5:disp_sw_mutex_unlock	16	static
+disp_utils.c:44:5:disp_msleep	16	static
+disp_utils.c:50:10:disp_get_time_us	64	static
+disp_utils.c:57:14:disp_allocate_mva	96	static

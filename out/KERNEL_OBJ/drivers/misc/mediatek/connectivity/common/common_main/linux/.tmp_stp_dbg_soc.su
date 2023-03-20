@@ -1,0 +1,3 @@
+stp_dbg_soc.c:399:7:stp_dbg_soc_core_dump	240	static
+stp_dbg_soc.c:414:8:stp_dbg_soc_id_to_task	32	static
+stp_dbg_soc.c:442:8:stp_dbg_soc_read_debug_crs	0	static

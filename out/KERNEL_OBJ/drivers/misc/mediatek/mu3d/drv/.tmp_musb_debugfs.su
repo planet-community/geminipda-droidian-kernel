@@ -1,0 +1,12 @@
+musb_debugfs.c:570:1:smt_err_count_open	16	static
+musb_debugfs.c:562:12:smt_err_count_get	32	static
+musb_debugfs.c:314:12:musb_usb_reg_open	16	static
+musb_debugfs.c:184:12:musb_test_mode_open	16	static
+musb_debugfs.c:138:12:musb_regdump_open	16	static
+musb_debugfs.c:243:12:musb_usb_reg_show	128	static
+musb_debugfs.c:150:12:musb_test_mode_show	32	static
+musb_debugfs.c:111:12:musb_regdump_show	80	static
+musb_debugfs.c:319:16:musb_usb_reg_write	96	static
+musb_debugfs.c:189:16:musb_test_mode_write	96	static
+musb_debugfs.c:573:5:musb_init_debugfs	48	static
+musb_debugfs.c:637:27:musb_exit_debugfs	16	static

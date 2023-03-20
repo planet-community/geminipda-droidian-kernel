@@ -1,0 +1,13 @@
+fault.c:412:12:do_bad	0	static
+fault.c:48:6:show_pte	64	static
+fault.c:121:13:__do_user_fault.part.5	224	static
+fault.c:93:13:__do_kernel_fault.part.6	48	static
+fault.c:225:22:do_page_fault	112	static
+fault.c:398:22:do_translation_fault	64	static
+fault.c:498:29:do_mem_abort	208	static
+fault.c:534:29:do_sp_pc_abort	176	static
+fault.c:558:13:hook_debug_fault_code	16	static
+fault.c:571:13:hook_fault_code	16	static
+fault.c:585:28:do_debug_exception	208	static
+fault.c:608:6:cpu_enable_pan	0	static
+fault.c:621:6:cpu_enable_uao	0	static

@@ -1,0 +1,3 @@
+pinctrl-mt6797.c:271:19:mtk_pinctrl_init	16	static
+pinctrl-mt6797.c:248:12:mt6797_pinctrl_probe	32	static
+pinctrl-mt6797.c:131:12:spec_pull_set	64	static

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lcm/aeon_ssd2092_fhd_dsi_solomon/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/lcm/aeon_ssd2092_fhd_dsi_solomon/built-in.o drivers/misc/mediatek/lcm/aeon_ssd2092_fhd_dsi_solomon/aeon_ssd2092_fhd_dsi_solomon.o 

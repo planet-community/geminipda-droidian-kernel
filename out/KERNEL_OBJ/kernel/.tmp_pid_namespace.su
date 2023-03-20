@@ -1,0 +1,12 @@
+pid_namespace.c:365:21:pidns_inum	0	static
+pid_namespace.c:135:13:delayed_free_pidns	16	static
+pid_namespace.c:73:13:proc_cleanup_work	16	static
+pid_namespace.c:380:19:pid_namespaces_init	16	static
+pid_namespace.c:316:14:pidns_get	48	static
+pid_namespace.c:170:6:put_pid_ns	64	static
+pid_namespace.c:329:13:pidns_put	16	static
+pid_namespace.c:334:12:pidns_install	48	static
+pid_namespace.c:162:13:free_pid_ns	48	static
+pid_namespace.c:152:23:copy_pid_ns	96	static
+pid_namespace.c:183:6:zap_pid_ns_processes	80	static
+pid_namespace.c:287:5:reboot_pid_ns	32	static

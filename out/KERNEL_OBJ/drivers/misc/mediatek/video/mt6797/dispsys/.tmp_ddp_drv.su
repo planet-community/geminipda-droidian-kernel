@@ -1,0 +1,10 @@
+ddp_drv.c:826:12:disp_remove	0	static
+ddp_drv.c:835:13:disp_shutdown	0	static
+ddp_drv.c:842:12:disp_suspend	0	static
+ddp_drv.c:848:12:disp_resume	0	static
+ddp_drv.c:596:20:disp_m4u_callback	48	static
+ddp_drv.c:887:20:disp_exit	32	static
+ddp_drv.c:714:19:disp_probe_1	176	static
+ddp_drv.c:658:12:disp_probe	96	static
+ddp_drv.c:871:19:disp_init	32	static
+ddp_drv.c:636:16:disp_get_device	0	static

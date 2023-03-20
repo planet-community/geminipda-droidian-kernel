@@ -1,0 +1,10 @@
+proc_namespace.c:18:17:mounts_poll	32	static
+proc_namespace.c:287:12:mounts_release	48	static
+proc_namespace.c:227:12:mounts_open_common	128	static
+proc_namespace.c:295:12:mounts_open	16	static
+proc_namespace.c:300:12:mountinfo_open	16	static
+proc_namespace.c:305:12:mountstats_open	16	static
+proc_namespace.c:84:13:show_type.isra.0	48	static
+proc_namespace.c:188:12:show_vfsstat	96	static
+proc_namespace.c:93:12:show_vfsmnt	112	static
+proc_namespace.c:125:12:show_mountinfo	144	static

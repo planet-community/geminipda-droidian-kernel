@@ -1,0 +1,8 @@
+mali_kbase_debug_mem_view.c:78:14:debug_mem_next	16	static
+mali_kbase_debug_mem_view.c:73:13:debug_mem_stop	16	static
+mali_kbase_debug_mem_view.c:256:12:debug_mem_release	48	static
+mali_kbase_debug_mem_view.c:104:12:debug_mem_show	112	static
+mali_kbase_debug_mem_view.c:49:14:debug_mem_start	32	static
+mali_kbase_debug_mem_view.c:157:12:debug_mem_zone_open	80	static
+mali_kbase_debug_mem_view.c:189:12:debug_mem_open	80	static
+mali_kbase_debug_mem_view.c:297:6:kbase_debug_mem_view_init	16	static

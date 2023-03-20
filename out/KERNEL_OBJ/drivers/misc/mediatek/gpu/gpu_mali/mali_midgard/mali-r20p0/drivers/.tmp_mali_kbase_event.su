@@ -1,0 +1,9 @@
+mali_kbase_event.c:23:29:kbase_event_process	80	static
+mali_kbase_event.c:110:13:kbase_event_process_noreport_worker	48	static
+mali_kbase_event.c:133:13:kbase_event_process_noreport	32	static
+mali_kbase_event.c:47:5:kbase_event_pending	0	static
+mali_kbase_event.c:57:5:kbase_event_dequeue	64	static
+mali_kbase_event.c:167:6:kbase_event_post	48	static
+mali_kbase_event.c:204:6:kbase_event_close	32	static
+mali_kbase_event.c:212:5:kbase_event_init	32	static
+mali_kbase_event.c:232:6:kbase_event_cleanup	80	static

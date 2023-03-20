@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/systracker/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/systracker/built-in.o drivers/misc/mediatek/systracker/systracker_interface_v2.o drivers/misc/mediatek/systracker/mt6797/built-in.o drivers/misc/mediatek/systracker/backtrace_64bit.o 

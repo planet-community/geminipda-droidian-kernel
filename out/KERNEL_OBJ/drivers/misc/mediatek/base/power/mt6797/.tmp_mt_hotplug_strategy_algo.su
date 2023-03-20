@@ -1,0 +1,11 @@
+mt_hotplug_strategy_algo.c:202:12:hps_algo_check_criteria	32	static
+mt_hotplug_strategy_algo.c:225:12:hps_algo_do_cluster_action	80	static
+mt_hotplug_strategy_algo.c:80:6:hps_set_break_en	32	static
+mt_hotplug_strategy_algo.c:87:5:hps_get_break_en	0	static
+mt_hotplug_strategy_algo.c:92:5:hps_current_core	0	static
+mt_hotplug_strategy_algo.c:275:14:hps_get_cluster_cpus	48	static
+mt_hotplug_strategy_algo.c:284:6:hps_check_base_limit	32	static
+mt_hotplug_strategy_algo.c:300:5:hps_cal_core_num	48	static
+mt_hotplug_strategy_algo.c:342:6:hps_define_root_cluster	32	static
+mt_hotplug_strategy_algo.c:361:6:hps_set_funct_ctrl	0	static
+mt_hotplug_strategy_algo.c:377:6:hps_algo_main	704	static

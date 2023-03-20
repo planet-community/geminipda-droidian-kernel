@@ -1,0 +1,1 @@
+cmd_drivers/clk/mediatek/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/clk/mediatek/built-in.o drivers/clk/mediatek/clk-mtk-v1.o drivers/clk/mediatek/clk-pll-v1.o drivers/clk/mediatek/clk-gate-v1.o drivers/clk/mediatek/clk-mux.o drivers/clk/mediatek/clk-mt6797.o drivers/clk/mediatek/clk-mt6797-pll.o drivers/clk/mediatek/clk-mt6797-pg.o 

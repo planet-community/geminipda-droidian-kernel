@@ -1,0 +1,7 @@
+ddp_mmp.c:25:6:init_ddp_mmp_events.part.0	64	static
+ddp_mmp.c:25:6:init_ddp_mmp_events	16	static
+ddp_mmp.c:327:6:ddp_mmp_ovl_layer	160	static
+ddp_mmp.c:430:6:ddp_mmp_wdma_layer	144	static
+ddp_mmp.c:516:6:ddp_mmp_rdma_layer	144	static
+ddp_mmp.c:602:19:ddp_mmp_get_events	0	static
+ddp_mmp.c:607:6:ddp_mmp_init	16	static

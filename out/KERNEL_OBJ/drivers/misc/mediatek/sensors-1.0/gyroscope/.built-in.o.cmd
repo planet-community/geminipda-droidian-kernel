@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/sensors-1.0/gyroscope/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/sensors-1.0/gyroscope/built-in.o drivers/misc/mediatek/sensors-1.0/gyroscope/gyroscope.o drivers/misc/mediatek/sensors-1.0/gyroscope/gyro_factory.o drivers/misc/mediatek/sensors-1.0/gyroscope/bmi160gy-i2c/built-in.o 

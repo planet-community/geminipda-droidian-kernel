@@ -1,0 +1,4 @@
+ip6t_rt.c:219:20:rt_mt6_exit	16	static
+ip6t_rt.c:39:13:rt_mt6	144	static
+ip6t_rt.c:214:19:rt_mt6_init	16	static
+ip6t_rt.c:186:12:rt_mt6_check	32	static

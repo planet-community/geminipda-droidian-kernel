@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lens/main2/main2af.o := aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/lens/main2/main2af.o drivers/misc/mediatek/lens/main2/main2_lens.o drivers/misc/mediatek/lens/main2/common/lc898212xdaf_f/LC898212XDAF_F.o drivers/misc/mediatek/lens/main2/common/lc898212xdaf_f/LC89821x_STMV.o drivers/misc/mediatek/lens/main2/common/ak7371af/AK7371AF.o 

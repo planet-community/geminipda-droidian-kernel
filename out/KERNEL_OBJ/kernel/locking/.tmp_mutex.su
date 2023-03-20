@@ -1,0 +1,12 @@
+mutex.c:55:1:__mutex_init	48	static
+mutex.c:923:13:mutex_trylock	64	static
+mutex.c:703:1:__ww_mutex_lock	176	static
+mutex.c:718:1:__ww_mutex_lock_interruptible	176	static
+mutex.c:638:1:mutex_lock_nested	160	static
+mutex.c:648:1:_mutex_lock_nest_lock	160	static
+mutex.c:658:1:mutex_lock_killable_nested	176	static
+mutex.c:667:1:mutex_lock_interruptible_nested	176	static
+mutex.c:780:1:__mutex_unlock_slowpath	48	static
+mutex.c:419:14:mutex_unlock	16	static
+mutex.c:981:5:atomic_dec_and_mutex_lock	32	static
+mutex.c:449:14:ww_mutex_unlock	32	static

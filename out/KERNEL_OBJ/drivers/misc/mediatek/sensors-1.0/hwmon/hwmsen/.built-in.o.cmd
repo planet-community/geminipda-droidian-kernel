@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/sensors-1.0/hwmon/hwmsen/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/sensors-1.0/hwmon/hwmsen/built-in.o drivers/misc/mediatek/sensors-1.0/hwmon/hwmsen/hwmsen_helper.o 

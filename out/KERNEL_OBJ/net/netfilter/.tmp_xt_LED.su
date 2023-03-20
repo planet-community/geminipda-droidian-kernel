@@ -1,0 +1,6 @@
+xt_LED.c:211:20:led_tg_exit	16	static
+xt_LED.c:170:13:led_tg_destroy	48	static
+xt_LED.c:88:13:led_timeout_callback	16	static
+xt_LED.c:107:12:led_tg_check	48	static
+xt_LED.c:56:1:led_tg	64	static
+xt_LED.c:206:19:led_tg_init	16	static

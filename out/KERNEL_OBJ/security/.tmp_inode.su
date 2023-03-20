@@ -1,0 +1,6 @@
+inode.c:40:23:get_sb	16	static
+inode.c:33:12:fill_super	16	static
+inode.c:82:16:securityfs_create_file	96	static
+inode.c:171:16:securityfs_create_dir	16	static
+inode.c:192:6:securityfs_remove	32	static
+inode.c:220:19:securityfs_init	32	static

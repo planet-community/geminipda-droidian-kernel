@@ -1,0 +1,9 @@
+ddp_dither.c:130:12:disp_dither_bypass	48	static
+ddp_dither.c:163:12:disp_dither_power_off	16	static
+ddp_dither.c:145:12:disp_dither_power_on	16	static
+ddp_dither.c:192:12:dither_ioctl	64	static
+ddp_dither.c:52:6:disp_dither_init	112	static
+ddp_dither.c:119:12:disp_dither_config	16	static
+ddp_dither.c:218:6:disp_dither_select	80	static
+ddp_dither.c:264:6:disp_dither_dump	0	static
+ddp_dither.c:269:6:dither_test	32	static

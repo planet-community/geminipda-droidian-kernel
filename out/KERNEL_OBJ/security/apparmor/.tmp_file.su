@@ -1,0 +1,15 @@
+file.c:188:12:map_old_perms	0	static
+file.c:47:13:audit_file_mask	64	static
+file.c:60:13:file_audit_cb	48	static
+file.c:475:13:update_file_cxt	64	static
+file.c:221:26:compute_perms.isra.6	80	static
+file.c:100:5:aa_audit_file	160	static
+file.c:161:12:path_name	144	static
+file.c:265:14:aa_str_perms	96	static
+file.c:281:5:__aa_path_perm	144	static
+file.c:307:5:aa_path_perm	144	static
+file.c:435:5:aa_path_link	240	static
+file.c:592:5:aa_file_perm	192	static
+file.c:665:12:match_file	32	static
+file.c:637:13:revalidate_tty	48	static
+file.c:675:6:aa_inherit_files	64	static

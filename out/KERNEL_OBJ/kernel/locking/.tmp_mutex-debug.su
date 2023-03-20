@@ -1,0 +1,8 @@
+mutex-debug.c:114:6:mutex_destroy	32	static
+mutex-debug.c:30:6:debug_mutex_lock_common	16	static
+mutex-debug.c:37:6:debug_mutex_wake_waiter	48	static
+mutex-debug.c:45:6:debug_mutex_free_waiter	32	static
+mutex-debug.c:51:6:debug_mutex_add_waiter	32	static
+mutex-debug.c:60:6:mutex_remove_waiter	48	static
+mutex-debug.c:72:6:debug_mutex_unlock	32	static
+mutex-debug.c:93:6:debug_mutex_init	48	static

@@ -1,0 +1,8 @@
+context.c:38:21:aa_alloc_task_context	16	static
+context.c:47:6:aa_free_task_context	32	static
+context.c:63:6:aa_dup_task_context	32	static
+context.c:77:18:aa_get_task_label	48	static
+context.c:94:5:aa_replace_current_label	48	static
+context.c:128:5:aa_set_current_onexec	48	static
+context.c:154:5:aa_set_current_hat	64	static
+context.c:192:5:aa_restore_previous_label	64	static

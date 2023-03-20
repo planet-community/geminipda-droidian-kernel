@@ -1,0 +1,2 @@
+capability.c:47:13:audit_cb	32	static
+capability.c:144:5:aa_capable	256	static

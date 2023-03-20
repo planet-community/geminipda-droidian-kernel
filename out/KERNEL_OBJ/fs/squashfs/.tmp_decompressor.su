@@ -1,0 +1,2 @@
+decompressor.c:83:37:squashfs_lookup_decompressor	0	static
+decompressor.c:140:7:squashfs_decompressor_setup	80	static

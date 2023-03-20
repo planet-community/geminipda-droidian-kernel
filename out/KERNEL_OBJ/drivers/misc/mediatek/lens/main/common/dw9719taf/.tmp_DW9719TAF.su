@@ -1,0 +1,4 @@
+DW9719TAF.c:49:12:i2c_read.constprop	64	static
+DW9719TAF.c:219:6:DW9719TAF_Ioctl_Main	112	static
+DW9719TAF.c:254:5:DW9719TAF_Release_Main	48	static
+DW9719TAF.c:274:5:DW9719TAF_SetI2Cclient_Main	0	static

@@ -1,0 +1,11 @@
+hall.c:282:12:hall_pdrv_remove	0	static
+hall.c:375:20:hall_mod_exit	0	static
+hall.c:67:5:hall_register_client	16	static
+hall.c:77:5:hall_unregister_client	16	static
+hall.c:87:5:hall_notifier_call_chain	16	static
+hall.c:358:19:hall_mod_init	32	static
+hall.c:303:12:hall_pdrv_resume	16	static
+hall.c:288:12:hall_pdrv_suspend	16	static
+hall.c:132:20:hall_fcover_eint_handler	32	static
+hall.c:94:13:hall_work_handler	80	static
+hall.c:189:12:hall_pdrv_probe	112	static

@@ -1,0 +1,4 @@
+diag.c:256:20:packet_diag_exit	16	static
+diag.c:223:12:packet_diag_handler_dump	96	static
+diag.c:251:19:packet_diag_init	16	static
+diag.c:187:12:packet_diag_dump	192	static

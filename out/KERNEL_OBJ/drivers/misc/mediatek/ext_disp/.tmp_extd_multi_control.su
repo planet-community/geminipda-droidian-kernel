@@ -1,0 +1,11 @@
+extd_multi_control.c:32:12:extd_create_path	32	static
+extd_multi_control.c:76:13:extd_set_layer_num	16	static
+extd_multi_control.c:89:12:create_external_display_path	64	static
+extd_multi_control.c:197:12:disp_switch_mode_kthread	144	static
+extd_multi_control.c:231:5:path_change_without_cascade	64	static
+extd_multi_control.c:331:6:external_display_control_init	32	static
+extd_multi_control.c:354:5:external_display_config_input	48	static
+extd_multi_control.c:368:5:external_display_trigger	48	static
+extd_multi_control.c:407:5:external_display_wait_for_vsync	16	static
+extd_multi_control.c:416:5:external_display_get_info	16	static
+extd_multi_control.c:432:5:external_display_switch_mode	96	static

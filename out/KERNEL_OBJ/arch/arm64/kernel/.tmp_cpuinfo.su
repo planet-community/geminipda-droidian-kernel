@@ -1,0 +1,9 @@
+cpuinfo.c:185:14:c_start	0	static
+cpuinfo.c:190:14:c_next	0	static
+cpuinfo.c:196:13:c_stop	0	static
+cpuinfo.c:113:12:c_show	128	static
+cpuinfo.c:230:13:__cpuinfo_store_cpu	48	static
+cpuinfo.c:108:6:machine_desc_set	0	static
+cpuinfo.c:270:6:cpuinfo_store_cpu	48	static
+cpuinfo.c:277:13:cpuinfo_store_boot_cpu	32	static
+cpuinfo.c:286:25:icache_get_ccsidr	16	static

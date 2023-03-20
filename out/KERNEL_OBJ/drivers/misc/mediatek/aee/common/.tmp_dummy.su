@@ -1,0 +1,2 @@
+dummy.c:199:13:dram_console_init	0	static
+dummy.c:203:13:dram_console_done	0	static

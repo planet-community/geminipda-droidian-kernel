@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/cam_cal/src/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/cam_cal/src/built-in.o drivers/misc/mediatek/cam_cal/src/cam_cal_drv.o drivers/misc/mediatek/cam_cal/src/cam_cal_list.o drivers/misc/mediatek/cam_cal/src/common/built-in.o 

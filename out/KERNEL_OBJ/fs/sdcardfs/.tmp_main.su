@@ -1,0 +1,7 @@
+main.c:415:7:sdcardfs_alloc_mnt_data	16	static
+main.c:420:6:sdcardfs_kill_sb	48	static
+main.c:469:20:exit_sdcardfs_fs	16	static
+main.c:408:23:sdcardfs_mount_wrn	16	static
+main.c:444:19:init_sdcardfs_fs	32	static
+main.c:396:23:sdcardfs_mount	224	static
+main.c:137:5:parse_options_remount	160	static

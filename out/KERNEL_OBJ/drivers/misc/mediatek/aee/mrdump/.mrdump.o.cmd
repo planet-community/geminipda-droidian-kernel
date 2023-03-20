@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/aee/mrdump/mrdump.o := aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/aee/mrdump/mrdump.o drivers/misc/mediatek/aee/mrdump/mrdump_full.o drivers/misc/mediatek/aee/mrdump/mrdump_setup.o 

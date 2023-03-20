@@ -1,0 +1,17 @@
+nf_conntrack_proto_sctp.c:160:13:sctp_invert_tuple	0	static
+nf_conntrack_proto_sctp.c:915:20:nf_conntrack_proto_sctp_fini	32	static
+nf_conntrack_proto_sctp.c:877:13:sctp_net_exit	32	static
+nf_conntrack_proto_sctp.c:855:12:sctp_net_init	48	static
+nf_conntrack_proto_sctp.c:523:12:nlattr_to_sctp	96	static
+nf_conntrack_proto_sctp.c:556:12:sctp_nlattr_size	16	static
+nf_conntrack_proto_sctp.c:489:12:sctp_to_nlattr	112	static
+nf_conntrack_proto_sctp.c:178:12:sctp_print_conntrack	64	static
+nf_conntrack_proto_sctp.c:169:12:sctp_print_tuple	16	static
+nf_conntrack_proto_sctp.c:236:12:sctp_new_state	64	static
+nf_conntrack_proto_sctp.c:144:13:sctp_pkt_to_tuple	64	static
+nf_conntrack_proto_sctp.c:890:19:nf_conntrack_proto_sctp_init	48	static
+nf_conntrack_proto_sctp.c:296:22:sctp_get_timeouts	48	static
+nf_conntrack_proto_sctp.c:196:12:do_basic_checks.isra.10	112	static
+nf_conntrack_proto_sctp.c:412:13:sctp_new	416	static
+nf_conntrack_proto_sctp.c:302:12:sctp_packet	432	static
+nf_conntrack_proto_sctp.c:760:12:sctp_init_net	96	static

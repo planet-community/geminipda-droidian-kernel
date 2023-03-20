@@ -1,0 +1,6 @@
+nf_log_ipv6.c:405:20:nf_log_ipv6_exit	32	static
+nf_log_ipv6.c:36:13:dump_ipv6_packet	208	static
+nf_log_ipv6.c:383:24:nf_log_ipv6_net_exit	16	static
+nf_log_ipv6.c:377:23:nf_log_ipv6_net_init	16	static
+nf_log_ipv6.c:341:13:nf_log_ip6_packet	112	static
+nf_log_ipv6.c:393:19:nf_log_ipv6_init	32	static

@@ -1,0 +1,7 @@
+ipc.c:30:13:audit_ptrace_mask	16	static
+ipc.c:49:13:audit_ptrace_cb	32	static
+ipc.c:189:12:profile_signal_perm.part.4	112	static
+ipc.c:85:12:cross_ptrace_perm	112	static
+ipc.c:152:13:audit_signal_cb	48	static
+ipc.c:113:5:aa_may_ptrace	224	static
+ipc.c:214:5:aa_may_signal	224	static

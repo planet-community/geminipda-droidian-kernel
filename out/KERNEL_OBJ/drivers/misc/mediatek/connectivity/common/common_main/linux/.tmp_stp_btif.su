@@ -1,0 +1,10 @@
+stp_btif.c:132:7:mtk_wcn_consys_stp_btif_tx	64	static
+stp_btif.c:76:7:mtk_wcn_consys_stp_btif_open	32	static
+stp_btif.c:92:7:mtk_wcn_consys_stp_btif_close	32	static
+stp_btif.c:112:7:mtk_wcn_consys_stp_btif_rx_cb_register	32	static
+stp_btif.c:192:7:mtk_wcn_consys_stp_btif_rx	0	static
+stp_btif.c:197:7:mtk_wcn_consys_stp_btif_wakeup	32	static
+stp_btif.c:216:7:mtk_wcn_consys_stp_btif_dpidle_ctrl	32	static
+stp_btif.c:231:7:mtk_wcn_consys_stp_btif_lpbk_ctrl	32	static
+stp_btif.c:250:7:mtk_wcn_consys_stp_btif_logger_ctrl	32	static
+stp_btif.c:269:7:mtk_wcn_consys_stp_btif_parser_wmt_evt	32	static

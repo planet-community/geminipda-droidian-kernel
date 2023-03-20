@@ -1,0 +1,4 @@
+xt_hl.c:28:13:ttl_mt	0	static
+xt_hl.c:47:13:hl_mt6	0	static
+xt_hl.c:90:20:hl_mt_exit	16	static
+xt_hl.c:85:19:hl_mt_init	16	static

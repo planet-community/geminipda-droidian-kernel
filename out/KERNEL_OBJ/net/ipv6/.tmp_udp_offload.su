@@ -1,0 +1,4 @@
+udp_offload.c:155:12:udp6_gro_complete	48	static
+udp_offload.c:127:25:udp6_gro_receive	64	static
+udp_offload.c:20:24:udp6_ufo_fragment	80	static
+udp_offload.c:175:12:udp_offload_init	16	static

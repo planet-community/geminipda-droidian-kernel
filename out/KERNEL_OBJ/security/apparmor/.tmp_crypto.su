@@ -1,0 +1,3 @@
+crypto.c:74:19:init_profile_hash	32	static
+crypto.c:27:14:aa_hash_size	0	static
+crypto.c:32:5:aa_calc_profile_hash	144	dynamic

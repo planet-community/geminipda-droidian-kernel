@@ -1,0 +1,4 @@
+xt_esp.c:101:20:esp_mt_exit	16	static
+xt_esp.c:63:12:esp_mt_check	32	static
+xt_esp.c:39:13:esp_mt	96	static
+xt_esp.c:96:19:esp_mt_init	16	static

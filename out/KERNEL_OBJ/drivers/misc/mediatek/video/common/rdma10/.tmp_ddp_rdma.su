@@ -1,0 +1,5 @@
+ddp_rdma.c:33:14:rdma_index	48	static
+ddp_rdma.c:55:6:rdma_set_target_line	80	static
+ddp_rdma.c:62:5:rdma_init	16	static
+ddp_rdma.c:67:5:rdma_deinit	16	static
+ddp_rdma.c:72:6:rdma_get_address	32	static

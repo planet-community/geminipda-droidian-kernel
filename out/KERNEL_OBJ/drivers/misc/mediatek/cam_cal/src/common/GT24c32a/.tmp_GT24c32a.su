@@ -1,0 +1,2 @@
+GT24c32a.c:164:12:iReadEEPROM	80	static
+GT24c32a.c:397:14:gt24c32a_selective_read_region	64	static

@@ -1,0 +1,5 @@
+dentry.c:140:12:sdcardfs_hash_ci	0	static
+dentry.c:180:13:sdcardfs_canonical_path	32	static
+dentry.c:167:12:sdcardfs_cmp_ci	16	static
+dentry.c:30:12:sdcardfs_d_revalidate	144	static
+dentry.c:129:13:sdcardfs_d_release	64	static

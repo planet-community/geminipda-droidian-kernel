@@ -1,0 +1,16 @@
+ssd20xx_upgrade.c:105:12:conv_hex_str2int	0	static
+ssd20xx_upgrade.c:56:6:view_section	0	static
+ssd20xx_upgrade.c:144:5:fw_calc_checksum	0	static
+ssd20xx_upgrade.c:177:5:fw_checksum	0	static
+ssd20xx_upgrade.c:207:6:view_error_msg	0	static
+ssd20xx_upgrade.c:266:5:fw_free	48	static
+ssd20xx_upgrade.c:322:33:parse_uchar2int_arr	320	static
+ssd20xx_upgrade.c:761:5:solomon_free_header	16	static
+ssd20xx_upgrade.c:872:5:solomon_firmware_update_byfile	128	static
+ssd20xx_upgrade.c:949:5:solomon_get_version_boot	16	static
+ssd20xx_upgrade.c:955:5:solomon_get_version	0	static
+ssd20xx_upgrade.c:963:5:solomon_firmware_pre_boot_up_check	48	static
+ssd20xx_upgrade.c:1032:5:solomon_firmware_pre_boot_up_check_bin	128	static
+ssd20xx_upgrade.c:1047:5:solomon_firmware_pre_boot_up_check_head	80	static
+ssd20xx_upgrade.c:1063:5:solomon_firmware_fw_check	64	static
+ssd20xx_upgrade.c:1272:5:solomon_firmware_check	48	static

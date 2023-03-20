@@ -1,0 +1,4 @@
+scp_ipi.c:74:12:scp_ipi_registration	0	static
+scp_ipi.c:97:12:scp_ipi_send	112	static
+scp_ipi.c:35:6:scp_ipi_handler	32	static
+scp_ipi.c:57:6:scp_ipi_init	48	static

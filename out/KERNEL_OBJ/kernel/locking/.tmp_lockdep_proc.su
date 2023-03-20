@@ -1,0 +1,15 @@
+lockdep_proc.c:36:13:l_stop	0	static
+lockdep_proc.c:116:14:lc_start	0	static
+lockdep_proc.c:127:14:lc_next	0	static
+lockdep_proc.c:133:13:lc_stop	0	static
+lockdep_proc.c:351:12:lockdep_stats_open	16	static
+lockdep_proc.c:218:12:lockdep_stats_show	160	static
+lockdep_proc.c:171:12:lockdep_chains_open	16	static
+lockdep_proc.c:103:12:lockdep_open	16	static
+lockdep_proc.c:26:14:l_next	16	static
+lockdep_proc.c:31:14:l_start	16	static
+lockdep_proc.c:664:19:lockdep_proc_init	32	static
+lockdep_proc.c:40:13:print_name.part.1	176	static
+lockdep_proc.c:40:13:print_name	32	static
+lockdep_proc.c:57:12:l_show	96	static
+lockdep_proc.c:137:12:lc_show	80	static

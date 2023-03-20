@@ -1,0 +1,10 @@
+taskstats.c:373:26:mk_reply	80	static
+taskstats.c:110:12:send_reply	32	static
+taskstats.c:79:12:prepare_reply	48	static
+taskstats.c:425:12:cgroupstats_user_cmd	80	static
+taskstats.c:347:12:parse	64	static
+taskstats.c:288:12:add_del_listener	96	static
+taskstats.c:702:19:taskstats_init	32	static
+taskstats.c:577:12:taskstats_user_cmd	112	static
+taskstats.c:616:6:taskstats_exit	96	static
+taskstats.c:691:13:taskstats_init_early	64	static

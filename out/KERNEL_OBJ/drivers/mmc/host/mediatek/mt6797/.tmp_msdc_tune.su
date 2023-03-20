@@ -1,0 +1,9 @@
+msdc_tune.c:57:6:msdc_sdio_set_long_timing_delay_by_freq	0	static
+msdc_tune.c:90:6:msdc_save_timing_setting	48	static
+msdc_tune.c:159:5:emmc_reinit_tuning	48	static
+msdc_tune.c:210:5:sdcard_hw_reset	32	static
+msdc_tune.c:231:5:sdcard_reset_tuning	48	static
+msdc_tune.c:272:6:msdc_restore_timing_setting	128	static
+msdc_tune.c:339:6:msdc_init_tune_path	80	static
+msdc_tune.c:371:6:msdc_init_tune_setting	48	static
+msdc_tune.c:401:6:msdc_ios_tune_setting	16	static

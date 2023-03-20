@@ -1,0 +1,3 @@
+mali_kbase_jd_debugfs.c:212:12:kbasep_jd_debugfs_atoms_open	16	static
+mali_kbase_jd_debugfs.c:144:12:kbasep_jd_debugfs_atoms_show	208	static
+mali_kbase_jd_debugfs.c:224:6:kbasep_jd_debugfs_ctx_init	16	static

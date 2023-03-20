@@ -1,0 +1,4 @@
+clock.c:329:12:get_sample_rate_v2	64	static
+clock.c:170:12:__uac_clock_find_source	128	static
+clock.c:271:5:snd_usb_clock_find_source	80	static
+clock.c:414:5:snd_usb_init_sample_rate	128	static

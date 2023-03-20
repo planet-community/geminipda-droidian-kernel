@@ -1,0 +1,5 @@
+xt_osf.c:107:12:xt_osf_remove_callback	48	static
+xt_osf.c:64:12:xt_osf_add_callback	80	static
+xt_osf.c:398:20:xt_osf_fini	96	static
+xt_osf.c:189:1:xt_osf_match_packet	304	static
+xt_osf.c:369:19:xt_osf_init	32	static

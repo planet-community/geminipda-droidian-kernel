@@ -1,0 +1,10 @@
+expire.c:38:12:autofs4_mount_busy	80	static
+expire.c:124:23:get_next_positive_dentry	96	static
+expire.c:348:23:should_expire	112	static
+expire.c:190:12:autofs4_direct_busy	48	static
+expire.c:302:16:autofs4_expire_direct	80	static
+expire.c:433:16:autofs4_expire_indirect	128	static
+expire.c:505:5:autofs4_expire_wait	64	static
+expire.c:552:5:autofs4_expire_run	352	static
+expire.c:589:5:autofs4_do_expire_multi	48	static
+expire.c:621:5:autofs4_expire_multi	64	static

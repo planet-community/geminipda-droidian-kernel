@@ -1,0 +1,8 @@
+stats.c:72:6:StatsResetTxRx	0	static
+stats.c:80:9:StatsEnvTimeGet	16	static
+stats.c:89:6:StatsEnvGetPktDelay	0	static
+stats.c:102:6:StatsEnvSetPktDelay	0	static
+stats.c:129:6:StatsEnvRxTime2Host	240	static
+stats.c:190:6:StatsEnvTxTime2Hif	80	static
+stats.c:445:6:StatsRxPktInfoDisplay	16	static
+stats.c:473:6:StatsTxPktInfoDisplay	16	static

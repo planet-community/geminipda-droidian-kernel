@@ -1,0 +1,3 @@
+ioctl.c:59:13:swap_inode_data	32	static
+ioctl.c:212:6:ext4_ioctl	192	static
+ioctl.c:723:6:ext4_compat_ioctl	112	static

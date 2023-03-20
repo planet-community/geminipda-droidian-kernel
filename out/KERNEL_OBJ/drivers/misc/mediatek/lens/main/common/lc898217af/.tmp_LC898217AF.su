@@ -1,0 +1,5 @@
+LC898217AF.c:53:12:s4AF_ReadReg	48	static
+LC898217AF.c:72:12:s4AF_WriteReg.constprop	48	static
+LC898217AF.c:205:6:LC898217AF_Ioctl_Main	80	static
+LC898217AF.c:240:5:LC898217AF_Release_Main	32	static
+LC898217AF.c:265:5:LC898217AF_SetI2Cclient_Main	0	static

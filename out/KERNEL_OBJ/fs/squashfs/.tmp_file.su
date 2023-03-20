@@ -1,0 +1,5 @@
+file.c:177:18:read_indexes	96	static
+file.c:378:6:squashfs_copy_cache	112	static
+file.c:488:12:__squashfs_readpages.isra.8	272	static
+file.c:560:12:squashfs_readpages	48	static
+file.c:536:12:squashfs_readpage	32	static

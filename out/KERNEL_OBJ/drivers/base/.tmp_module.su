@@ -1,0 +1,2 @@
+module.c:35:6:module_add_driver	48	static
+module.c:74:6:module_remove_driver	32	static

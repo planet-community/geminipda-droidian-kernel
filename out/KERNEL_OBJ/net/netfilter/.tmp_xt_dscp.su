@@ -1,0 +1,6 @@
+xt_dscp.c:28:1:dscp_mt	0	static
+xt_dscp.c:109:20:dscp_mt_exit	16	static
+xt_dscp.c:37:1:dscp_mt6	0	static
+xt_dscp.c:57:13:tos_mt	0	static
+xt_dscp.c:45:12:dscp_mt_check	16	static
+xt_dscp.c:104:19:dscp_mt_init	16	static

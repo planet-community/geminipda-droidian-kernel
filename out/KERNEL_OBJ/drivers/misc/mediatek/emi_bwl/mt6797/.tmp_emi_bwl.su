@@ -1,0 +1,9 @@
+emi_bwl.c:195:16:ddr_type_store	0	static
+emi_bwl.c:337:20:emi_bwl_mod_exit	0	static
+emi_bwl.c:178:16:ddr_type_show	0	static
+emi_bwl.c:210:16:con_sce_show	32	static
+emi_bwl.c:121:5:mtk_mem_bw_ctrl.part.0	16	static
+emi_bwl.c:290:19:emi_bwl_mod_init	32	static
+emi_bwl.c:109:5:get_dram_type	0	static
+emi_bwl.c:121:5:mtk_mem_bw_ctrl	32	static
+emi_bwl.c:256:16:con_sce_store	80	static

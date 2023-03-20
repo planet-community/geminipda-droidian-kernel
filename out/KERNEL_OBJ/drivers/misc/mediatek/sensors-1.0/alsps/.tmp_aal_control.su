@@ -1,0 +1,6 @@
+aal_control.c:33:12:AAL_release	0	static
+aal_control.c:28:12:AAL_open	16	static
+aal_control.c:39:13:AAL_unlocked_ioctl	64	static
+aal_control.c:89:13:AAL_compact_ioctl	16	static
+aal_control.c:116:19:AAL_init	16	static
+aal_control.c:128:20:AAL_exit	16	static

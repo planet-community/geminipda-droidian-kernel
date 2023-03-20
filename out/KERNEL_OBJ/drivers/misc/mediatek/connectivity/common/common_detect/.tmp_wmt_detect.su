@@ -1,0 +1,13 @@
+wmt_detect.c:289:12:wmt_detect_driver_init	96	static
+wmt_detect.c:67:9:wmt_detect_write	32	static
+wmt_detect.c:52:12:wmt_detect_close	16	static
+wmt_detect.c:45:12:wmt_detect_open	16	static
+wmt_detect.c:59:16:wmt_detect_read	32	static
+wmt_detect.c:357:13:wmt_detect_driver_exit	48	static
+wmt_detect.c:162:5:wmt_detect_ext_chip_pwr_on	16	static
+wmt_detect.c:179:5:wmt_detect_ext_chip_pwr_off	16	static
+wmt_detect.c:193:5:wmt_detect_ext_chip_detect	48	static
+wmt_detect.c:75:13:wmt_detect_unlocked_ioctl	64	static
+wmt_detect.c:142:13:WMT_compat_detect_ioctl	48	static
+wmt_detect.c:231:5:wmt_detect_set_chip_type	0	static
+wmt_detect.c:246:20:wmt_detect_get_chip_type	0	static

@@ -1,0 +1,4 @@
+ip6t_rpfilter.c:134:20:rpfilter_mt_exit	16	static
+ip6t_rpfilter.c:99:12:rpfilter_check	32	static
+ip6t_rpfilter.c:81:13:rpfilter_mt	160	static
+ip6t_rpfilter.c:129:19:rpfilter_mt_init	16	static

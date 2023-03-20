@@ -1,0 +1,11 @@
+policy_unpack.c:171:13:unpack_nameX	64	static
+policy_unpack.c:270:12:unpack_str	48	static
+policy_unpack.c:101:12:audit_iface	208	static
+policy_unpack.c:79:13:audit_cb	48	static
+policy_unpack.c:214:13:unpack_u32	32	static
+policy_unpack.c:240:15:unpack_array	32	static
+policy_unpack.c:344:23:unpack_dfa	32	static
+policy_unpack.c:201:13:unpack_u16.constprop	0	static
+policy_unpack.c:775:6:aa_load_ent_free	32	static
+policy_unpack.c:785:21:aa_load_ent_alloc	16	static
+policy_unpack.c:806:5:aa_unpack	208	static

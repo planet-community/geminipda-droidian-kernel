@@ -1,0 +1,7 @@
+vmpressure.c:162:13:vmpressure_work_fn	128	static
+vmpressure.c:211:6:vmpressure	64	static
+vmpressure.c:263:6:vmpressure_prio	48	static
+vmpressure.c:296:5:vmpressure_register_event	64	static
+vmpressure.c:336:6:vmpressure_unregister_event	48	static
+vmpressure.c:360:6:vmpressure_init	32	static
+vmpressure.c:375:6:vmpressure_cleanup	16	static

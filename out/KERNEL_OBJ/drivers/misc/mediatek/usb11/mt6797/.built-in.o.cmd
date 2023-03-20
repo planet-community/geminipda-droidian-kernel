@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/usb11/mt6797/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/usb11/mt6797/built-in.o drivers/misc/mediatek/usb11/mt6797/musbfsh_core.o drivers/misc/mediatek/usb11/mt6797/musbfsh_mt65xx.o drivers/misc/mediatek/usb11/mt6797/musbfsh_debugfs.o 

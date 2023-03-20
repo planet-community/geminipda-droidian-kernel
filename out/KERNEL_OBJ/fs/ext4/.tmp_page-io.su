@@ -1,0 +1,14 @@
+page-io.c:148:13:ext4_clear_io_unwritten_flag.isra.4	16	static
+page-io.c:65:13:ext4_finish_bio	176	static
+page-io.c:129:13:ext4_release_io_end	48	static
+page-io.c:37:12:ext4_init_pageio	16	static
+page-io.c:45:6:ext4_exit_pageio	16	static
+page-io.c:263:6:ext4_end_io_rsv_work	112	static
+page-io.c:270:16:ext4_init_io_end	32	static
+page-io.c:282:6:ext4_put_io_end_defer	64	static
+page-io.c:317:13:ext4_end_bio	64	static
+page-io.c:293:5:ext4_put_io_end	32	static
+page-io.c:310:16:ext4_get_io_end	0	static
+page-io.c:359:6:ext4_io_submit	32	static
+page-io.c:372:6:ext4_io_submit_init	0	static
+page-io.c:421:5:ext4_bio_write_page	96	static

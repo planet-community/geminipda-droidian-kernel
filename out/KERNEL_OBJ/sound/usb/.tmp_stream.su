@@ -1,0 +1,8 @@
+stream.c:110:12:usb_chmap_ctl_info	0	static
+stream.c:182:12:usb_chmap_ctl_get	32	static
+stream.c:43:13:free_substream.part.0	48	static
+stream.c:202:12:add_chmap	48	static
+stream.c:139:12:usb_chmap_ctl_tlv	128	static
+stream.c:69:13:snd_usb_audio_pcm_free	32	static
+stream.c:322:5:snd_usb_add_audio_stream	128	static
+stream.c:473:5:snd_usb_parse_audio_interface	176	static

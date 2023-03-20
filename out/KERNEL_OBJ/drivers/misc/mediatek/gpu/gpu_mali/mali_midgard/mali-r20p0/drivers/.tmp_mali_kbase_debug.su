@@ -1,0 +1,2 @@
+mali_kbase_debug.c:32:6:kbasep_debug_assert_call_hook	16	static
+mali_kbase_debug.c:26:6:kbase_debug_assert_register_hook	0	static

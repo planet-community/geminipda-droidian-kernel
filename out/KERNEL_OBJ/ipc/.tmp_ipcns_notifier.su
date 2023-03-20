@@ -1,0 +1,5 @@
+ipcns_notifier.c:25:12:ipcns_callback	16	static
+ipcns_notifier.c:56:5:register_ipcns_notifier	32	static
+ipcns_notifier.c:69:5:cond_register_ipcns_notifier	32	static
+ipcns_notifier.c:83:6:unregister_ipcns_notifier	32	static
+ipcns_notifier.c:89:5:ipcns_notify	16	static

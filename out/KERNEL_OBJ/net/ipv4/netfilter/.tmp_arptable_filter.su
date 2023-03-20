@@ -1,0 +1,5 @@
+arptable_filter.c:85:20:arptable_filter_fini	16	static
+arptable_filter.c:55:24:arptable_filter_net_exit	16	static
+arptable_filter.c:42:23:arptable_filter_net_init	48	static
+arptable_filter.c:65:19:arptable_filter_init	48	static
+arptable_filter.c:30:1:arptable_filter_hook	16	static

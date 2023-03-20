@@ -1,0 +1,17 @@
+seq_oss_synth.c:192:1:get_sdev	32	static
+seq_oss_synth.c:359:1:get_synthdev.part.4	16	static
+seq_oss_synth.c:92:1:snd_seq_oss_synth_init	0	static
+seq_oss_synth.c:101:1:snd_seq_oss_synth_register	64	static
+seq_oss_synth.c:152:1:snd_seq_oss_synth_unregister	32	static
+seq_oss_synth.c:211:1:snd_seq_oss_synth_setup	80	static
+seq_oss_synth.c:271:1:snd_seq_oss_synth_setup_midi	64	static
+seq_oss_synth.c:305:1:snd_seq_oss_synth_cleanup	64	static
+seq_oss_synth.c:400:1:snd_seq_oss_synth_reset	128	static
+seq_oss_synth.c:453:1:snd_seq_oss_synth_load_patch	80	static
+seq_oss_synth.c:479:1:snd_seq_oss_synth_is_valid	16	static
+seq_oss_synth.c:497:1:snd_seq_oss_synth_sysex	80	static
+seq_oss_synth.c:554:1:snd_seq_oss_synth_addr	48	static
+seq_oss_synth.c:568:1:snd_seq_oss_synth_ioctl	64	static
+seq_oss_synth.c:590:1:snd_seq_oss_synth_raw_event	64	static
+seq_oss_synth.c:604:1:snd_seq_oss_synth_make_info	192	static
+seq_oss_synth.c:638:1:snd_seq_oss_synth_info_read	96	static

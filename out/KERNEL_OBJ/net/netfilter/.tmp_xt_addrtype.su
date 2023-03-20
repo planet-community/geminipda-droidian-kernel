@@ -1,0 +1,6 @@
+xt_addrtype.c:242:20:addrtype_mt_exit	16	static
+xt_addrtype.c:171:12:addrtype_mt_checkentry_v1	16	static
+xt_addrtype.c:126:1:addrtype_mt_v0	64	static
+xt_addrtype.c:236:19:addrtype_mt_init	16	static
+xt_addrtype.c:83:13:match_type6	160	static
+xt_addrtype.c:144:1:addrtype_mt_v1	64	static

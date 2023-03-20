@@ -1,0 +1,16 @@
+scp_excep.c:516:13:scp_ram_dump_ipi_handler	16	static
+scp_excep.c:531:16:scp_dump_show	80	static
+scp_excep.c:99:17:core_write_cpu_note.isra.2.constprop	240	static
+scp_excep.c:129:6:exception_header_init	208	static
+scp_excep.c:202:10:scp_dump_lr	16	static
+scp_excep.c:212:10:scp_dump_pc	16	static
+scp_excep.c:222:6:scp_dump_regs	32	static
+scp_excep.c:239:6:scp_aee_last_reg	32	static
+scp_excep.c:356:13:scp_prepare_aed_dump	128	static
+scp_excep.c:288:6:scp_excep_reset	0	static
+scp_excep.c:437:6:scp_aed	112	static
+scp_excep.c:503:13:scp_aed_reset_ws	32	static
+scp_excep.c:484:6:scp_aed_reset_inplace	32	static
+scp_excep.c:525:6:scp_aed_reset	16	static
+scp_excep.c:563:6:scp_excep_init	48	static
+scp_excep.c:576:6:scp_ram_dump_init	16	static

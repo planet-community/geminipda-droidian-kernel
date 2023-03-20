@@ -1,0 +1,9 @@
+core.c:79:12:bnep_send_rsp	64	static
+core.c:705:20:bnep_exit	16	static
+core.c:685:19:bnep_init	96	static
+core.c:209:12:bnep_rx_control	128	static
+core.c:448:12:bnep_session	256	static
+core.c:527:5:bnep_add_connection	112	static
+core.c:610:5:bnep_del_connection	48	static
+core.c:640:5:bnep_get_connlist	144	static
+core.c:668:5:bnep_get_conninfo	48	static

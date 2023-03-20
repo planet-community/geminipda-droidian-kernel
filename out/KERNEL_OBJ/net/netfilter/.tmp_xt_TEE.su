@@ -1,0 +1,8 @@
+xt_TEE.c:297:20:tee_tg_exit	16	static
+xt_TEE.c:257:13:tee_tg_destroy	32	static
+xt_TEE.c:200:12:tee_netdev_event	32	static
+xt_TEE.c:227:12:tee_tg_check	32	static
+xt_TEE.c:292:19:tee_tg_init	16	static
+xt_TEE.c:42:20:pick_net.part.6	32	static
+xt_TEE.c:86:1:tee_tg4	112	static
+xt_TEE.c:168:1:tee_tg6	144	static

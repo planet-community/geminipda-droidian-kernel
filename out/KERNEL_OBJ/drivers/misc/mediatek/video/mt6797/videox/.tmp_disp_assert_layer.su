@@ -1,0 +1,13 @@
+disp_assert_layer.c:170:12:DAL_SetColor	48	static
+disp_assert_layer.c:190:12:show_dal_layer	64	static
+disp_assert_layer.c:278:12:DAL_Printf	208	static
+disp_assert_layer.c:53:19:DAL_LOCK	16	static
+disp_assert_layer.c:64:19:DAL_CHECK_MFC_RET	32	static
+disp_assert_layer.c:78:20:DAL_CHECK_DISP_RET	32	static
+disp_assert_layer.c:110:10:DAL_GetLayerSize	32	static
+disp_assert_layer.c:128:12:DAL_SetScreenColor	48	static
+disp_assert_layer.c:228:12:DAL_Clean	64	static
+disp_assert_layer.c:156:12:DAL_Init	64	static
+disp_assert_layer.c:185:12:DAL_Dynamic_Change_FB_Layer	0	static
+disp_assert_layer.c:271:5:is_DAL_Enabled	0	static
+disp_assert_layer.c:329:12:DAL_OnDispPowerOn	0	static

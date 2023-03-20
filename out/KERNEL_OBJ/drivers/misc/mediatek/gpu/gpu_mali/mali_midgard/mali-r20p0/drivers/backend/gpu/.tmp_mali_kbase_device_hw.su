@@ -1,0 +1,7 @@
+mali_kbase_device_hw.c:33:5:kbase_io_history_resize	64	static
+mali_kbase_device_hw.c:70:5:kbase_io_history_init	64	static
+mali_kbase_device_hw.c:84:6:kbase_io_history_term	32	static
+mali_kbase_device_hw.c:119:6:kbase_io_history_dump	96	static
+mali_kbase_device_hw.c:151:6:kbase_reg_write	80	static
+mali_kbase_device_hw.c:174:5:kbase_reg_read	80	static
+mali_kbase_device_hw.c:227:6:kbase_gpu_interrupt	80	static

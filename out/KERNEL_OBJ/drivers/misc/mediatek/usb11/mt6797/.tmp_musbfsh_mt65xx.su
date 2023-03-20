@@ -1,0 +1,13 @@
+musbfsh_mt65xx.c:700:6:usb11_hs_slew_rate_cal	32	static
+musbfsh_mt65xx.c:769:6:mt65xx_usb11_phy_poweron	16	static
+musbfsh_mt65xx.c:916:6:mt65xx_usb11_phy_savecurrent	32	static
+musbfsh_mt65xx.c:986:6:mt65xx_usb11_phy_recover	32	static
+musbfsh_mt65xx.c:1119:6:mt65xx_usb11_clock_enable	48	static
+musbfsh_mt65xx.c:1187:5:mt65xx_usb11_poweron.part.1	32	static
+musbfsh_mt65xx.c:1187:5:mt65xx_usb11_poweron	32	static
+musbfsh_mt65xx.c:1253:6:mt65xx_usb11_vbus	16	static
+musbfsh_mt65xx.c:1275:5:musbfsh_platform_init	48	static
+musbfsh_mt65xx.c:1325:5:musbfsh_platform_exit	32	static
+musbfsh_mt65xx.c:1337:6:musbfsh_platform_enable	16	static
+musbfsh_mt65xx.c:1342:6:musbfsh_platform_disable	16	static
+musbfsh_mt65xx.c:1347:6:musbfsh_hcd_release	16	static

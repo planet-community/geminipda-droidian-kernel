@@ -1,0 +1,3 @@
+init.c:44:20:exit_autofs4_fs	16	static
+init.c:17:23:autofs_mount	16	static
+init.c:31:19:init_autofs4_fs	32	static

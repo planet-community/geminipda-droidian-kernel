@@ -1,0 +1,8 @@
+ddp_wdma_ex.c:33:14:wdma_get_status	0	static
+ddp_wdma_ex.c:61:5:wdma_start	80	static
+ddp_wdma_ex.c:420:12:wdma_config_l	496	static
+ddp_wdma_ex.c:223:12:wdma_clock_off	16	static
+ddp_wdma_ex.c:201:12:wdma_clock_on	64	static
+ddp_wdma_ex.c:244:6:wdma_dump_analysis	768	static
+ddp_wdma_ex.c:281:6:wdma_dump_reg	576	static
+ddp_wdma_ex.c:331:12:wdma_dump	32	static

@@ -1,0 +1,6 @@
+mali_kbase_irq_linux.c:116:20:kbase_gpu_irq_handler	64	static
+mali_kbase_irq_linux.c:76:20:kbase_mmu_irq_handler	64	static
+mali_kbase_irq_linux.c:40:20:kbase_job_irq_handler	64	static
+mali_kbase_irq_linux.c:416:5:kbase_install_interrupts	64	static
+mali_kbase_irq_linux.c:446:6:kbase_release_interrupts	32	static
+mali_kbase_irq_linux.c:457:6:kbase_synchronize_irqs	32	static

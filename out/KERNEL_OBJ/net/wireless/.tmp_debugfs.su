@@ -1,0 +1,6 @@
+debugfs.c:40:1:long_retry_limit_read	80	static
+debugfs.c:38:1:short_retry_limit_read	80	static
+debugfs.c:36:1:fragmentation_threshold_read	80	static
+debugfs.c:34:1:rts_threshold_read	80	static
+debugfs.c:65:16:ht40allow_map_read	112	static
+debugfs.c:108:6:cfg80211_debugfs_rdev_add	48	static

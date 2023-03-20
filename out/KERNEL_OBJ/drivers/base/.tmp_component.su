@@ -1,0 +1,11 @@
+component.c:87:5:component_master_add_child	64	static
+component.c:157:12:try_to_bring_up_master.part.2	64	static
+component.c:286:5:component_master_add_with_match	64	static
+component.c:329:5:component_master_add	16	static
+component.c:461:5:component_add	48	static
+component.c:433:5:component_bind_all	80	static
+component.c:365:6:component_unbind_all	48	static
+component.c:216:13:take_down_master	64	static
+component.c:336:6:component_master_del	64	static
+component.c:490:6:component_del	48	static
+component.c:261:6:component_match_add	80	static

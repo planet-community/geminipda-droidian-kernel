@@ -1,0 +1,8 @@
+xattr.c:117:12:squashfs_xattr_get	160	static
+xattr.c:283:12:squashfs_security_get	16	static
+xattr.c:256:12:squashfs_trusted_get	16	static
+xattr.c:226:12:squashfs_user_get	16	static
+xattr.c:275:15:squashfs_security_list	0	static
+xattr.c:218:15:squashfs_user_list	0	static
+xattr.c:245:15:squashfs_trusted_list	32	static
+xattr.c:39:9:squashfs_listxattr	144	static

@@ -1,0 +1,13 @@
+vc_screen.c:605:12:vcs_release	32	static
+vc_screen.c:593:1:vcs_open	48	static
+vc_screen.c:62:1:vcs_notifier	32	static
+vc_screen.c:94:1:vcs_poll_data_get.part.3	48	static
+vc_screen.c:576:1:vcs_fasync	48	static
+vc_screen.c:562:1:vcs_poll	48	static
+vc_screen.c:163:1:vcs_size	32	static
+vc_screen.c:374:1:vcs_write	224	static
+vc_screen.c:182:15:vcs_lseek	48	static
+vc_screen.c:196:1:vcs_read	192	static
+vc_screen.c:626:6:vcs_make_sysfs	48	static
+vc_screen.c:634:6:vcs_remove_sysfs	32	static
+vc_screen.c:640:12:vcs_init	32	static

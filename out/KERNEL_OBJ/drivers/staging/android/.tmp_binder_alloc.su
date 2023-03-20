@@ -1,0 +1,14 @@
+binder_alloc.c:183:12:binder_update_page_range.constprop	96	static
+binder_alloc.c:455:13:binder_delete_free_buffer	64	static
+binder_alloc.c:70:13:binder_insert_free_buffer	64	static
+binder_alloc.c:502:13:binder_free_buf_locked	64	static
+binder_alloc.c:172:23:binder_alloc_prepare_to_free	32	static
+binder_alloc.c:285:23:binder_alloc_new_buf_locked	112	static
+binder_alloc.c:430:23:binder_alloc_new_buf	64	static
+binder_alloc.c:565:6:binder_alloc_free_buf	32	static
+binder_alloc.c:586:5:binder_alloc_mmap_handler	64	static
+binder_alloc.c:673:6:binder_alloc_deferred_release	96	static
+binder_alloc.c:748:6:binder_alloc_print_allocated	80	static
+binder_alloc.c:766:5:binder_alloc_get_allocated_count	32	static
+binder_alloc.c:787:6:binder_alloc_vma_close	0	static
+binder_alloc.c:800:6:binder_alloc_init	32	static

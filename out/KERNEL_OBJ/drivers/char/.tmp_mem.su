@@ -1,0 +1,13 @@
+mem.c:623:16:read_null	0	static
+mem.c:629:16:write_null	0	static
+mem.c:635:16:aio_read_null	0	static
+mem.c:641:16:aio_write_null	0	static
+mem.c:647:12:pipe_to_null	0	static
+mem.c:688:16:write_full	0	static
+mem.c:699:15:null_lseek	0	static
+mem.c:846:12:memory_open	16	static
+mem.c:878:14:mem_devnode	0	static
+mem.c:659:16:read_iter_zero	48	static
+mem.c:678:12:mmap_zero	16	static
+mem.c:653:16:splice_write_null	16	static
+mem.c:887:19:chr_dev_init	48	static

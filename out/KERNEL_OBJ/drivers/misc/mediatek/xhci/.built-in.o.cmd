@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/xhci/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/xhci/built-in.o drivers/misc/mediatek/xhci/xhci-mtk-power.o drivers/misc/mediatek/xhci/xhci-mtk-driver.o drivers/misc/mediatek/xhci/xhci-mtk-attrs.o 

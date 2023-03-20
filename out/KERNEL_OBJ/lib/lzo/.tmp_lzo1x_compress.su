@@ -1,0 +1,2 @@
+lzo1x_compress.c:21:1:lzo1x_1_do_compress	64	static
+lzo1x_compress.c:216:5:lzo1x_1_compress	112	static

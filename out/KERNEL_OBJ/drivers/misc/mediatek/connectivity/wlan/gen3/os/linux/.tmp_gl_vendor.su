@@ -1,0 +1,17 @@
+gl_vendor.c:127:5:mtk_cfg80211_NLA_PUT	16	static
+gl_vendor.c:134:5:mtk_cfg80211_nla_put_type	64	static
+gl_vendor.c:160:5:mtk_cfg80211_vendor_get_channel_list	896	static
+gl_vendor.c:238:5:mtk_cfg80211_vendor_set_country_code	96	static
+gl_vendor.c:275:5:mtk_cfg80211_vendor_get_roaming_capabilities	64	static
+gl_vendor.c:303:5:mtk_cfg80211_vendor_config_roaming	80	static
+gl_vendor.c:362:5:mtk_cfg80211_vendor_enable_roaming	32	static
+gl_vendor.c:1131:5:mtk_cfg80211_vendor_get_rtt_capabilities	64	static
+gl_vendor.c:1173:5:mtk_cfg80211_vendor_llstats_get_info	32	static
+gl_vendor.c:1228:5:mtk_cfg80211_vendor_set_rssi_monitoring	176	static
+gl_vendor.c:1286:5:mtk_cfg80211_vendor_packet_keep_alive_start	240	static
+gl_vendor.c:1372:5:mtk_cfg80211_vendor_packet_keep_alive_stop	80	static
+gl_vendor.c:1522:5:mtk_cfg80211_vendor_event_significant_change_results	96	static
+gl_vendor.c:1563:5:mtk_cfg80211_vendor_event_hotlist_ap_found	240	static
+gl_vendor.c:1602:5:mtk_cfg80211_vendor_event_hotlist_ap_lost	240	static
+gl_vendor.c:1641:5:mtk_cfg80211_vendor_event_rssi_beyond_range	80	static
+gl_vendor.c:1693:5:mtk_cfg80211_vendor_set_roaming_policy	48	static

@@ -1,0 +1,14 @@
+ax88172a.c:92:13:ax88172a_status	0	static
+ax88172a.c:403:12:ax88172a_rx_fixup	16	static
+ax88172a.c:301:12:ax88172a_stop	32	static
+ax88172a.c:66:13:ax88172a_adjust_link	48	static
+ax88172a.c:204:12:ax88172a_reset_phy	32	static
+ax88172a.c:325:12:ax88172a_reset	48	static
+ax88172a.c:181:12:ax88172a_nway_reset	16	static
+ax88172a.c:172:12:ax88172a_set_settings	16	static
+ax88172a.c:163:12:ax88172a_get_settings	16	static
+ax88172a.c:54:12:ax88172a_ioctl	16	static
+ax88172a.c:47:12:asix_mdio_bus_write	16	static
+ax88172a.c:41:12:asix_mdio_bus_read	16	static
+ax88172a.c:230:12:ax88172a_bind	80	static
+ax88172a.c:317:13:ax88172a_unbind	32	static

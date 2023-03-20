@@ -1,0 +1,12 @@
+cls_cgroup.c:65:22:cls_cgroup_get	0	static
+cls_cgroup.c:70:13:cls_cgroup_put	0	static
+cls_cgroup.c:74:12:cls_cgroup_init	0	static
+cls_cgroup.c:164:12:cls_cgroup_delete	0	static
+cls_cgroup.c:169:13:cls_cgroup_walk	32	static
+cls_cgroup.c:232:20:exit_cgroup_cls	16	static
+cls_cgroup.c:184:12:cls_cgroup_dump	80	static
+cls_cgroup.c:154:13:cls_cgroup_destroy	16	static
+cls_cgroup.c:83:13:cls_cgroup_destroy_rcu	32	static
+cls_cgroup.c:94:12:cls_cgroup_change	208	static
+cls_cgroup.c:29:12:cls_cgroup_classify	48	static
+cls_cgroup.c:227:19:init_cgroup_cls	16	static

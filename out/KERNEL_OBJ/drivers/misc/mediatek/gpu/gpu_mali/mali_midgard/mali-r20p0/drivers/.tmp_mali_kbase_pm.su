@@ -1,0 +1,7 @@
+mali_kbase_pm.c:30:5:kbase_pm_powerup	16	static
+mali_kbase_pm.c:35:6:kbase_pm_halt	16	static
+mali_kbase_pm.c:40:6:kbase_pm_context_active	48	static
+mali_kbase_pm.c:45:5:kbase_pm_context_active_handle_suspend	48	static
+mali_kbase_pm.c:104:6:kbase_pm_context_idle	48	static
+mali_kbase_pm.c:149:6:kbase_pm_suspend	96	static
+mali_kbase_pm.c:181:6:kbase_pm_resume	48	static

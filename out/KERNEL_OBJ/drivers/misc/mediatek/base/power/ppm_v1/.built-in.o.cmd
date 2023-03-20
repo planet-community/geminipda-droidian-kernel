@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/base/power/ppm_v1/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/base/power/ppm_v1/built-in.o drivers/misc/mediatek/base/power/ppm_v1/src/built-in.o 

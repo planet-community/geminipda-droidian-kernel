@@ -1,0 +1,12 @@
+udp_diag.c:160:13:udp_diag_get_info	0	static
+udp_diag.c:289:20:udp_diag_exit	32	static
+udp_diag.c:33:12:udp_dump_one	128	static
+udp_diag.c:154:12:udp_diag_dump_one	16	static
+udp_diag.c:256:12:udplite_diag_dump_one	16	static
+udp_diag.c:168:12:__udp_diag_destroy.isra.1	64	static
+udp_diag.c:226:12:udp_diag_destroy	16	static
+udp_diag.c:232:12:udplite_diag_destroy	16	static
+udp_diag.c:94:13:udp_dump.isra.3	160	static
+udp_diag.c:148:13:udp_diag_dump	16	static
+udp_diag.c:250:13:udplite_diag_dump	16	static
+udp_diag.c:272:19:udp_diag_init	48	static

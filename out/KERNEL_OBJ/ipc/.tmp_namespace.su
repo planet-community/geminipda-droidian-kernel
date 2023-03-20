@@ -1,0 +1,7 @@
+namespace.c:185:21:ipcns_inum	0	static
+namespace.c:152:14:ipcns_get	32	static
+namespace.c:61:23:copy_ipcs	32	static
+namespace.c:77:6:free_ipcs	112	static
+namespace.c:142:6:put_ipc_ns	32	static
+namespace.c:171:12:ipcns_install	32	static
+namespace.c:166:13:ipcns_put	16	static

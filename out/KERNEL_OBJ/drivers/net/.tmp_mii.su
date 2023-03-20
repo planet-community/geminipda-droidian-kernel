@@ -1,0 +1,9 @@
+mii.c:36:12:mii_get_an	16	static
+mii.c:55:5:mii_ethtool_gset	64	static
+mii.c:144:5:mii_ethtool_sset	80	static
+mii.c:253:5:mii_link_ok	32	static
+mii.c:268:5:mii_nway_restart	32	static
+mii.c:391:5:generic_mii_ioctl	32	static
+mii.c:233:5:mii_check_gmii_support	32	static
+mii.c:293:6:mii_check_link	32	static
+mii.c:313:14:mii_check_media	80	static

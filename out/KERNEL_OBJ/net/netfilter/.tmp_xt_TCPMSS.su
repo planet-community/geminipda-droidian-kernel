@@ -1,0 +1,7 @@
+xt_TCPMSS.c:342:20:tcpmss_tg_exit	16	static
+xt_TCPMSS.c:292:12:tcpmss_tg6_check	48	static
+xt_TCPMSS.c:270:12:tcpmss_tg4_check	48	static
+xt_TCPMSS.c:79:1:tcpmss_mangle_packet	208	static
+xt_TCPMSS.c:231:1:tcpmss_tg6	64	static
+xt_TCPMSS.c:208:1:tcpmss_tg4	32	static
+xt_TCPMSS.c:337:19:tcpmss_tg_init	16	static

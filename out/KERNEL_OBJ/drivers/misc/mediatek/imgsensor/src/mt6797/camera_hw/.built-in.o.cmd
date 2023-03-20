@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/imgsensor/src/mt6797/camera_hw/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/imgsensor/src/mt6797/camera_hw/built-in.o drivers/misc/mediatek/imgsensor/src/mt6797/camera_hw/kd_camera_hw.o 

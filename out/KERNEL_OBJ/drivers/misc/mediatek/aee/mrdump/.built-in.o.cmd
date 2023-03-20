@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/aee/mrdump/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/aee/mrdump/built-in.o drivers/misc/mediatek/aee/mrdump/mrdump.o drivers/misc/mediatek/aee/mrdump/mrdump_arm64.o drivers/misc/mediatek/aee/mrdump/mrdump_mini.o drivers/misc/mediatek/aee/mrdump/mrdump_control.o 

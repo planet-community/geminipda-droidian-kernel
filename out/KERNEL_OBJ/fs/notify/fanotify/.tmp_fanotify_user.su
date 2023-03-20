@@ -1,0 +1,13 @@
+fanotify_user.c:241:21:fanotify_poll	32	static
+fanotify_user.c:355:12:fanotify_release	96	static
+fanotify_user.c:410:13:fanotify_ioctl	48	static
+fanotify_user.c:328:16:fanotify_write	96	static
+fanotify_user.c:255:16:fanotify_read	224	static
+fanotify_user.c:447:13:fanotify_free_mark	16	static
+fanotify_user.c:577:14:fanotify_mark_add_to_mask	64	static
+fanotify_user.c:498:14:fanotify_mark_remove_from_mask	80	static
+fanotify_user.c:932:19:fanotify_user_setup	32	static
+fanotify_user.c:604:30:fanotify_add_new_mark.part.1	48	static
+fanotify_user.c:694:1:SyS_fanotify_init	64	static
+fanotify_user.c:803:1:SyS_fanotify_mark	144	static
+fanotify_user.c:912:1:compat_SyS_fanotify_mark	16	static

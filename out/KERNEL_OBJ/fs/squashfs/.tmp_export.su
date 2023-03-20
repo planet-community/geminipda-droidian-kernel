@@ -1,0 +1,5 @@
+export.c:52:18:squashfs_inode_lookup	80	static
+export.c:90:23:squashfs_fh_to_dentry	32	static
+export.c:111:23:squashfs_get_parent	32	static
+export.c:101:23:squashfs_fh_to_parent	32	static
+export.c:123:9:squashfs_read_inode_lookup_table	64	static

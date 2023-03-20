@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/mu3phy/mu3phy.o := aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/mu3phy/mu3phy.o drivers/misc/mediatek/mu3phy/mtk-phy.o drivers/misc/mediatek/mu3phy/mtk-phy-ahb.o drivers/misc/mediatek/mu3phy/usb20_phy_debugfs.o 

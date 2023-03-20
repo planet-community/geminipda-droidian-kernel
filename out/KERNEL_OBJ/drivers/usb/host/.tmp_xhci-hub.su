@@ -1,0 +1,11 @@
+xhci-trace.h:45:1:trace_xhci_dbg_quirks	48	static
+xhci-hub.c:269:12:xhci_stop_device.constprop	80	static
+xhci-hub.c:231:5:xhci_port_state_to_neutral	0	static
+xhci-hub.c:241:5:xhci_find_slot_id_by_port	0	static
+xhci-hub.c:322:6:xhci_ring_device	64	static
+xhci-hub.c:424:6:xhci_set_link_state	0	static
+xhci-hub.c:463:6:xhci_test_and_clear_bit	0	static
+xhci-hub.c:744:5:xhci_hub_control	208	static
+xhci-hub.c:1102:5:xhci_hub_status_data	112	static
+xhci-hub.c:1157:5:xhci_bus_suspend	112	static
+xhci-hub.c:1227:5:xhci_bus_resume	96	static

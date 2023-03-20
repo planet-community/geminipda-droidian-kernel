@@ -1,0 +1,15 @@
+quota_tree.c:206:5:qtree_entry_unused	0	static
+quota_tree.c:61:16:write_blk	48	static
+quota_tree.c:43:14:getdqbuf	32	static
+quota_tree.c:52:16:read_blk	48	static
+quota_tree.c:77:12:get_free_dqblk	48	static
+quota_tree.c:25:12:get_index.isra.3	48	static
+quota_tree.c:557:15:find_tree_dqentry	80	static
+quota_tree.c:592:5:qtree_read_dquot	64	static
+quota_tree.c:108:12:put_free_dqblk	48	static
+quota_tree.c:125:12:remove_free_dqentry	80	static
+quota_tree.c:291:12:do_insert_tree	144	static
+quota_tree.c:359:5:qtree_write_dquot	96	static
+quota_tree.c:460:12:remove_tree	144	static
+quota_tree.c:508:5:qtree_delete_dquot	48	static
+quota_tree.c:656:5:qtree_release_dquot	48	static

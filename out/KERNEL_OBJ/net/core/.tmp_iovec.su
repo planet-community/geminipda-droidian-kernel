@@ -1,0 +1,3 @@
+iovec.c:166:15:iov_pages	0	static
+iovec.c:85:5:csum_partial_copy_fromiovecend	160	static
+iovec.c:38:5:verify_iovec	48	static

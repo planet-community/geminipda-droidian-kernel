@@ -1,0 +1,8 @@
+ddp_pwm_mux.c:120:21:disp_pwm_get_pwmmux	16	static
+ddp_pwm_mux.c:96:12:disp_pwm_get_muxbase	32	static
+ddp_pwm_mux.c:170:12:get_ulposc_base	32	static
+ddp_pwm_mux.c:194:12:get_ulposc_status	32	static
+ddp_pwm_mux.c:56:13:disp_pwm_get_clkid	0	static
+ddp_pwm_mux.c:137:5:disp_pwm_set_pwmmux	48	static
+ddp_pwm_mux.c:307:5:disp_pwm_clksource_enable	32	static
+ddp_pwm_mux.c:328:5:disp_pwm_clksource_disable	32	static

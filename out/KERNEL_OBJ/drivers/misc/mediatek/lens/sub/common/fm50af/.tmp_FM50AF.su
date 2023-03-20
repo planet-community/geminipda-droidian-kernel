@@ -1,0 +1,4 @@
+FM50AF.c:72:12:s4AF_WriteReg	48	static
+FM50AF.c:186:6:FM50AF_Ioctl_Sub	112	static
+FM50AF.c:221:5:FM50AF_Release_Sub	32	static
+FM50AF.c:247:5:FM50AF_SetI2Cclient_Sub	0	static

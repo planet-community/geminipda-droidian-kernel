@@ -1,0 +1,15 @@
+timerfd.c:229:21:timerfd_poll	32	static
+timerfd.c:72:29:timerfd_tmrproc	48	static
+timerfd.c:159:16:timerfd_get_remaining	32	static
+timerfd.c:215:12:timerfd_release	48	static
+timerfd.c:245:16:timerfd_read	144	static
+timerfd.c:80:32:timerfd_alarmproc	48	static
+timerfd.c:492:12:do_timerfd_gettime	80	static
+timerfd.c:428:12:do_timerfd_settime.part.10	112	static
+timerfd.c:301:12:timerfd_show	96	static
+timerfd.c:95:6:timerfd_clock_was_set	96	static
+timerfd.c:385:1:SyS_timerfd_create	64	static
+timerfd.c:524:1:SyS_timerfd_settime	144	static
+timerfd.c:542:1:SyS_timerfd_gettime	80	static
+timerfd.c:552:1:compat_SyS_timerfd_settime	128	static
+timerfd.c:569:1:compat_SyS_timerfd_gettime	80	static

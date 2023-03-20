@@ -1,0 +1,16 @@
+AudDrv_Gpio.c:631:19:audio_drv_gpio_init	16	static
+AudDrv_Gpio.c:610:19:dt_get_extbuck_info	64	static
+AudDrv_Gpio.c:191:12:AudDrv_GPIO_Select.part.1	32	static
+AudDrv_Gpio.c:191:12:AudDrv_GPIO_Select	32	static
+AudDrv_Gpio.c:254:12:set_aud_dat_miso	48	static
+AudDrv_Gpio.c:148:6:AudDrv_GPIO_probe	64	static
+AudDrv_Gpio.c:306:5:AudDrv_GPIO_Request	48	static
+AudDrv_Gpio.c:335:5:AudDrv_GPIO_SMARTPA_Select	32	static
+AudDrv_Gpio.c:387:5:AudDrv_GPIO_TDM_Select	32	static
+AudDrv_Gpio.c:426:5:AudDrv_GPIO_I2S_Select	0	static
+AudDrv_Gpio.c:451:5:AudDrv_GPIO_EXTAMP_Select	80	static
+AudDrv_Gpio.c:494:5:AudDrv_GPIO_EXTAMP2_Select	80	static
+AudDrv_Gpio.c:537:5:AudDrv_GPIO_RCVSPK_Select	0	static
+AudDrv_Gpio.c:562:5:AudDrv_GPIO_HPDEPOP_Select	32	static
+AudDrv_Gpio.c:583:5:AudDrv_GPIO_headphone_en	16	static
+AudDrv_Gpio.c:596:5:AudDrv_GPIO_headphone_cs	16	static

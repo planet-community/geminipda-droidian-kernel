@@ -1,0 +1,2 @@
+mt_power_gs_misc.c:206:19:mt_power_gs_misc_init	0	static
+mt_power_gs_misc.c:226:20:mt_power_gs_misc_exit	0	static

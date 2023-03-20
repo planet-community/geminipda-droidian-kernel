@@ -1,0 +1,17 @@
+fm_link.c:564:6:fm_trace_is_full	0	static
+fm_link.c:569:6:fm_trace_is_empty	0	static
+fm_link.c:33:13:WCNfm_wholechip_rst_cb	80	static
+fm_link.c:526:12:fm_trace_in	32	static
+fm_link.c:547:12:fm_trace_out	16	static
+fm_link.c:119:12:fm_link_release	48	static
+fm_link.c:139:12:fm_ctrl_rx	0	static
+fm_link.c:151:12:fm_ctrl_tx	0	static
+fm_link.c:225:12:fm_event_parser	512	static
+fm_link.c:454:6:fm_wait_stc_done	0	static
+fm_link.c:459:12:fm_force_active_event	48	static
+fm_link.c:471:19:fm_print_cmd_fifo	224	static
+fm_link.c:498:19:fm_print_evt_fifo	224	static
+fm_link.c:165:12:fm_cmd_tx	208	static
+fm_link.c:574:25:fm_trace_fifo_create	48	static
+fm_link.c:599:12:fm_trace_fifo_release	32	static
+fm_link.c:68:12:fm_link_setup	48	static

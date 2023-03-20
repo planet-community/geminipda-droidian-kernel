@@ -1,0 +1,6 @@
+upmu_common.c:7338:16:mt6351_set_register_value	16	static
+upmu_common.c:7358:16:mt6351_get_register_value	48	static
+upmu_common.c:7372:16:pmic_set_register_value	16	static
+upmu_common.c:7378:16:pmic_get_register_value	48	static
+upmu_common.c:7385:16:bc11_set_register_value	16	static
+upmu_common.c:7391:16:bc11_get_register_value	48	static

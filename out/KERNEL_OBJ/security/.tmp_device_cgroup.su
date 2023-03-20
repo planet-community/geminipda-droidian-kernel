@@ -1,0 +1,16 @@
+device_cgroup.c:321:13:match_exception	32	static
+device_cgroup.c:358:13:match_exception_partial	32	static
+device_cgroup.c:812:12:__devcgroup_check_permission	64	static
+device_cgroup.c:203:13:devcgroup_offline	32	static
+device_cgroup.c:93:12:dev_exception_add	48	static
+device_cgroup.c:148:13:__dev_exception_clean	32	static
+device_cgroup.c:164:13:dev_exception_clean	32	static
+device_cgroup.c:229:13:devcgroup_css_free	32	static
+device_cgroup.c:125:13:dev_exception_rm	48	static
+device_cgroup.c:216:1:devcgroup_css_alloc	16	static
+device_cgroup.c:67:12:dev_exceptions_copy	48	static
+device_cgroup.c:182:12:devcgroup_online	48	static
+device_cgroup.c:763:16:devcgroup_access_write	192	static
+device_cgroup.c:275:12:devcgroup_seq_show	160	static
+device_cgroup.c:836:5:__devcgroup_inode_permission	16	static
+device_cgroup.c:853:5:devcgroup_inode_mknod	16	static

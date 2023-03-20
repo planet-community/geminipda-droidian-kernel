@@ -1,0 +1,7 @@
+setup.c:205:19:early_mem	48	static
+setup.c:317:19:arm64_device_init	16	static
+setup.c:324:19:topology_init	48	static
+setup.c:86:13:early_print	432	static
+setup.c:103:13:smp_setup_processor_id	0	static
+setup.c:113:6:arch_match_cpu_phys_id	0	static
+setup.c:251:13:setup_arch	160	static

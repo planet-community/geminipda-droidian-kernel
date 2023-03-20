@@ -1,0 +1,11 @@
+lookup.c:69:12:sdcardfs_inode_test	0	static
+lookup.c:81:12:sdcardfs_inode_set	0	static
+lookup.c:230:12:sdcardfs_name_match	48	static
+lookup.c:27:5:sdcardfs_init_dentry_cache	16	static
+lookup.c:37:6:sdcardfs_destroy_dentry_cache	16	static
+lookup.c:42:6:free_dentry_private_data	32	static
+lookup.c:49:5:new_dentry_private_data	48	static
+lookup.c:87:15:sdcardfs_iget	80	static
+lookup.c:251:23:__sdcardfs_lookup	176	static
+lookup.c:214:5:sdcardfs_interpose	32	static
+lookup.c:413:16:sdcardfs_lookup	96	static

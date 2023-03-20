@@ -1,0 +1,16 @@
+mt6631_fm_rds.c:144:21:mt6631_RDS_Get_BlerCheck_Interval	0	static
+mt6631_fm_rds.c:149:19:mt6631_RDS_BlerCheck	0	static
+mt6631_fm_rds.c:282:19:mt6631_rds_log_get	16	static
+mt6631_fm_rds.c:105:23:mt6631_RDS_Get_BadBlock_Counter	48	static
+mt6631_fm_rds.c:94:23:mt6631_RDS_Get_GoodBlock_Counter	48	static
+mt6631_fm_rds.c:44:19:mt6631_RDS_enable	64	static
+mt6631_fm_rds.c:74:19:mt6631_RDS_disable	64	static
+mt6631_fm_rds.c:136:19:mt6631_RDS_BlockCounter_Reset	16	static
+mt6631_fm_rds.c:230:13:mt6631_RDS_Init_Data	32	static
+mt6631_fm_rds.c:292:19:mt6631_rds_gc_reset	16	static
+mt6631_fm_rds.c:287:19:mt6631_rds_gc_get	16	static
+mt6631_fm_rds.c:275:19:mt6631_rds_parser	64	static
+mt6631_fm_rds.c:241:6:mt6631_RDS_OnOff	16	static
+mt6631_fm_rds.c:116:22:mt6631_RDS_Get_BadBlock_Ratio	64	static
+mt6631_fm_rds.c:297:12:fm_rds_ops_register	32	static
+mt6631_fm_rds.c:323:12:fm_rds_ops_unregister	32	static

@@ -1,0 +1,15 @@
+icmp.c:286:12:icmpv6_getfrag	64	static
+icmp.c:324:26:icmpv6_route_lookup	160	static
+icmp.c:874:24:icmpv6_sk_exit	48	static
+icmp.c:830:23:icmpv6_sk_init	112	static
+icmp.c:956:5:icmpv6_err_convert	0	static
+icmp.c:86:13:icmpv6_err	64	static
+icmp.c:240:5:icmpv6_push_pending_frames	64	static
+icmp.c:391:13:icmp6_send	288	static
+icmp.c:542:6:icmpv6_param_prob	32	static
+icmp.c:630:6:icmpv6_notify	96	static
+icmp.c:678:12:icmpv6_rcv	240	static
+icmp.c:809:6:icmpv6_flow_init	16	static
+icmp.c:889:12:icmpv6_init	48	static
+icmp.c:914:6:icmpv6_cleanup	16	static
+icmp.c:1001:31:ipv6_icmp_sysctl_init	32	static

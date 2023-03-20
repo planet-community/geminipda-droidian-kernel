@@ -1,0 +1,13 @@
+stp_chrdev_gps.c:136:9:GPS_write	64	static
+stp_chrdev_gps.c:202:9:GPS_read	160	static
+stp_chrdev_gps.c:537:6:GPS_event_cb	16	static
+stp_chrdev_gps.c:623:5:mtk_wcn_stpgps_drv_init	80	static
+stp_chrdev_gps.c:629:6:mtk_wcn_stpgps_drv_exit	48	static
+stp_chrdev_gps.c:103:13:gps_hold_wake_lock.part.2	32	static
+stp_chrdev_gps.c:103:13:gps_hold_wake_lock	32	static
+stp_chrdev_gps.c:497:12:GPS_close	32	static
+stp_chrdev_gps.c:412:13:gps_cdev_rst_cb	112	static
+stp_chrdev_gps.c:446:12:GPS_open	64	static
+stp_chrdev_gps.c:283:6:GPS_unlocked_ioctl	80	static
+stp_chrdev_gps.c:402:6:GPS_compat_ioctl	64	static
+stp_chrdev_gps.c:124:6:rtc_GPS_low_power_detected	0	static

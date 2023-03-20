@@ -1,0 +1,8 @@
+ematch.c:126:5:tcf_em_register	48	static
+ematch.c:158:6:tcf_em_unregister	32	static
+ematch.c:96:31:tcf_em_lookup	48	static
+ematch.c:436:5:tcf_em_tree_dump	176	static
+ematch.c:499:5:__tcf_em_tree_match	224	static
+ematch.c:399:6:tcf_em_tree_destroy.part.10	48	static
+ematch.c:399:6:tcf_em_tree_destroy	16	static
+ematch.c:304:5:tcf_em_tree_validate	144	static

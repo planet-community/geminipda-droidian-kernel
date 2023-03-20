@@ -1,0 +1,4 @@
+lib.c:33:6:baswap	0	static
+lib.c:45:5:bt_to_errno	0	static
+lib.c:138:6:bt_info	160	static
+lib.c:154:6:bt_err	160	static

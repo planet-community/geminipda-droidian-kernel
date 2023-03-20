@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/sensors-1.0/alsps/stk3x1x-new/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/sensors-1.0/alsps/stk3x1x-new/built-in.o drivers/misc/mediatek/sensors-1.0/alsps/stk3x1x-new/stk3x1x.o 

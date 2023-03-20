@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/connectivity/fmradio/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/connectivity/fmradio/built-in.o drivers/misc/mediatek/connectivity/fmradio/mtk_fm_drv.o drivers/misc/mediatek/connectivity/fmradio/dummy.o 

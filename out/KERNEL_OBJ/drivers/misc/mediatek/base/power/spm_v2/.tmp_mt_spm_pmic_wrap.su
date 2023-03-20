@@ -1,0 +1,8 @@
+mt_spm_pmic_wrap.c:457:6:mt_spm_update_pmic_wrap	0	static
+mt_spm_pmic_wrap.c:374:6:mt_spm_pmic_wrap_set_cmd	80	static
+mt_spm_pmic_wrap.c:395:6:mt_spm_pmic_wrap_set_cmd_full	96	static
+mt_spm_pmic_wrap.c:420:6:mt_spm_pmic_wrap_get_cmd_full	64	static
+mt_spm_pmic_wrap.c:440:6:mt_spm_pmic_wrap_apply_cmd	48	static
+mt_spm_pmic_wrap.c:286:6:_mt_spm_pmic_table_init	80	static
+mt_spm_pmic_wrap.c:340:6:mt_spm_pmic_wrap_set_phase	48	static
+mt_spm_pmic_wrap.c:467:5:mt_spm_pmic_wrap_init	16	static

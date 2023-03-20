@@ -1,0 +1,9 @@
+nic_rate.c:184:1:nicSwIndex2RateIndex.part.0	32	static
+nic_rate.c:285:1:nicRateCode2DataRate.part.1	32	static
+nic_rate.c:168:1:nicGetPhyRateByMcsRate	0	static
+nic_rate.c:177:1:nicGetHwRateByPhyRate	0	static
+nic_rate.c:184:1:nicSwIndex2RateIndex	32	static
+nic_rate.c:203:13:nicRateIndex2RateCode	0	static
+nic_rate.c:285:1:nicRateCode2DataRate	16	static
+nic_rate.c:250:1:nicRateCode2PhyRate	48	static
+nic_rate.c:330:1:nicGetRateIndexFromRateSetWithLimit	160	static

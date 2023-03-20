@@ -1,0 +1,16 @@
+mt_soc_pcm_deep_buffer_dl.c:533:1:mtk_deep_buffer_dl_driver_init	16	static
+mt_soc_pcm_deep_buffer_dl.c:507:12:mtk_deep_buffer_dl_remove	32	static
+mt_soc_pcm_deep_buffer_dl.c:409:21:mtk_deep_buffer_dl_page	16	static
+mt_soc_pcm_deep_buffer_dl.c:488:12:mtk_deep_buffer_dl_probe	48	static
+mt_soc_pcm_deep_buffer_dl.c:416:12:mtk_deep_buffer_dl_ack	32	static
+mt_soc_pcm_deep_buffer_dl.c:163:26:mtk_deep_buffer_dl_pointer	32	static
+mt_soc_pcm_deep_buffer_dl.c:395:12:mtk_deep_buffer_dl_trigger	48	static
+mt_soc_pcm_deep_buffer_dl.c:316:12:mtk_deep_buffer_dl_prepare	48	static
+mt_soc_pcm_deep_buffer_dl.c:236:12:mtk_deep_buffer_dl_hw_free	32	static
+mt_soc_pcm_deep_buffer_dl.c:254:12:mtk_deep_buffer_dl_close	32	static
+mt_soc_pcm_deep_buffer_dl.c:87:12:Audio_Irqcnt_Get	32	static
+mt_soc_pcm_deep_buffer_dl.c:285:12:mtk_deep_buffer_dl_open	48	static
+mt_soc_pcm_deep_buffer_dl.c:469:12:mtk_deep_buffer_dl_platform_probe	32	static
+mt_soc_pcm_deep_buffer_dl.c:97:12:Audio_Irqcnt_Set	48	static
+mt_soc_pcm_deep_buffer_dl.c:533:1:mtk_deep_buffer_dl_driver_exit	16	static
+mt_soc_pcm_deep_buffer_dl.c:206:12:mtk_deep_buffer_dl_hw_params	64	static

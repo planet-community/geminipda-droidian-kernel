@@ -1,0 +1,13 @@
+ddp_od.c:253:12:od_set_listener	0	static
+ddp_od.c:231:12:od_clock_off	16	static
+ddp_od.c:204:12:od_clock_on	64	static
+ddp_od.c:177:12:disp_od_ioctl	0	static
+ddp_od.c:164:12:disp_od_io	64	static
+ddp_od.c:193:12:od_config_od	64	static
+ddp_od.c:78:6:od_debug_reg	0	static
+ddp_od.c:129:6:_od_core_set_enabled	0	static
+ddp_od.c:136:6:disp_od_irq_handler	0	static
+ddp_od.c:142:5:disp_rdma_notify	0	static
+ddp_od.c:147:5:disp_od_update_status	0	static
+ddp_od.c:247:5:disp_od_is_enabled	0	static
+ddp_od.c:283:6:od_test	0	static

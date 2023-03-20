@@ -1,0 +1,2 @@
+file_direct.c:27:13:release_actor_pages	80	static
+file_direct.c:107:5:squashfs_readpages_block	144	static

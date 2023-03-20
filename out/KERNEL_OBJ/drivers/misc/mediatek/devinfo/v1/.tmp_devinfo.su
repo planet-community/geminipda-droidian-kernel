@@ -1,0 +1,13 @@
+devinfo.c:61:5:devinfo_get_size	0	static
+devinfo.c:67:5:devinfo_ready	0	static
+devinfo.c:160:12:devinfo_open	0	static
+devinfo.c:165:12:devinfo_release	0	static
+devinfo.c:278:13:devinfo_parse_dt	64	static
+devinfo.c:370:20:devinfo_exit	32	static
+devinfo.c:232:19:devinfo_init	48	static
+devinfo.c:330:13:init_devinfo_exclusive.part.0	16	static
+devinfo.c:347:12:devinfo_of_init	16	static
+devinfo.c:102:5:get_hrid_size	16	static
+devinfo.c:75:5:get_devinfo_with_index	48	static
+devinfo.c:173:13:devinfo_ioctl	64	static
+devinfo.c:113:5:get_hrid	48	static

@@ -1,0 +1,11 @@
+msdc_partition.c:234:5:msdc_get_reserve	0	static
+msdc_partition.c:126:6:msdc_get_cache_region	32	static
+msdc_partition.c:318:12:proc_emmc_open	16	static
+msdc_partition.c:160:19:init_get_cache_work	32	static
+msdc_partition.c:61:5:msdc_get_user_capacity	32	static
+msdc_partition.c:244:5:msdc_get_capacity	32	static
+msdc_partition.c:101:5:msdc_can_apply_cache	0	static
+msdc_partition.c:211:5:msdc_get_other_capacity	80	static
+msdc_partition.c:269:17:mmc_get_disk	16	static
+msdc_partition.c:295:12:proc_emmc_show	80	static
+msdc_partition.c:330:6:msdc_proc_emmc_create	16	static

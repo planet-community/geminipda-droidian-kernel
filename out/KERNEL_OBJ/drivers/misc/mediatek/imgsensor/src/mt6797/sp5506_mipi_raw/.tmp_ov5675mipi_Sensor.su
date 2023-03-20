@@ -1,0 +1,12 @@
+ov5675mipi_Sensor.c:1147:19:get_resolution	32	static
+ov5675mipi_Sensor.c:1168:19:get_info	32	static
+ov5675mipi_Sensor.c:184:19:read_cmos_sensor	64	static
+ov5675mipi_Sensor.c:194:13:write_cmos_sensor	48	static
+ov5675mipi_Sensor.c:213:13:set_max_framerate	64	static
+ov5675mipi_Sensor.c:994:19:close	16	static
+ov5675mipi_Sensor.c:426:13:set_mirror_flip.constprop	16	static
+ov5675mipi_Sensor.c:1021:19:preview.isra.8	32	static
+ov5675mipi_Sensor.c:1271:19:control	64	static
+ov5675mipi_Sensor.c:921:19:open	160	static
+ov5675mipi_Sensor.c:1459:19:feature_control	144	static
+ov5675mipi_Sensor.c:1585:8:OV5675_MIPI_RAW_SensorInit	0	static

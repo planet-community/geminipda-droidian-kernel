@@ -1,0 +1,4 @@
+timekeeping_debug.c:57:19:tk_debug_sleep_time_init	16	static
+timekeeping_debug.c:45:12:tk_debug_sleep_time_open	16	static
+timekeeping_debug.c:30:12:tk_debug_show_sleep_time	64	static
+timekeeping_debug.c:72:6:tk_debug_account_sleep_time	0	static

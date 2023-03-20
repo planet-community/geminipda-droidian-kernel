@@ -1,0 +1,6 @@
+nf_log_ipv4.c:373:20:nf_log_ipv4_exit	32	static
+nf_log_ipv4.c:35:13:dump_ipv4_packet	208	static
+nf_log_ipv4.c:351:24:nf_log_ipv4_net_exit	16	static
+nf_log_ipv4.c:345:23:nf_log_ipv4_net_init	16	static
+nf_log_ipv4.c:309:13:nf_log_ip_packet	112	static
+nf_log_ipv4.c:361:19:nf_log_ipv4_init	32	static

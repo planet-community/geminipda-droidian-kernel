@@ -1,0 +1,4 @@
+LC898214AF.c:55:12:s4AF_ReadReg	48	static
+LC898214AF.c:203:6:LC898214AF_Ioctl_Main	80	static
+LC898214AF.c:238:5:LC898214AF_Release_Main	64	static
+LC898214AF.c:260:5:LC898214AF_SetI2Cclient_Main	0	static

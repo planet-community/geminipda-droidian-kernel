@@ -1,0 +1,4 @@
+xt_CHECKSUM.c:64:20:checksum_tg_exit	16	static
+xt_CHECKSUM.c:34:12:checksum_tg_check	16	static
+xt_CHECKSUM.c:26:1:checksum_tg	16	static
+xt_CHECKSUM.c:59:19:checksum_tg_init	16	static

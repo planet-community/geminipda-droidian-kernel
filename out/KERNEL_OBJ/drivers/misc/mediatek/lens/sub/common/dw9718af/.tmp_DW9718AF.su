@@ -1,0 +1,4 @@
+DW9718AF.c:49:12:i2c_read.constprop	64	static
+DW9718AF.c:209:6:DW9718AF_Ioctl_Sub	112	static
+DW9718AF.c:244:5:DW9718AF_Release_Sub	48	static
+DW9718AF.c:264:5:DW9718AF_SetI2Cclient_Sub	0	static

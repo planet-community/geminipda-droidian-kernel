@@ -1,0 +1,14 @@
+mt_secure_api.h:48:21:mt_secure_call.constprop	0	static
+mtk-gic-v3-extend.c:72:6:mt_is_secure_irq	0	static
+mtk-gic-v3-extend.c:80:6:mt_get_irq_gic_targets	64	static
+mtk-gic-v3-extend.c:129:5:mt_irq_get_pol	16	static
+mtk-gic-v3-extend.c:160:5:mt_irq_mask_all	48	static
+mtk-gic-v3-extend.c:218:5:mt_irq_mask_restore	48	static
+mtk-gic-v3-extend.c:252:5:mt_irq_get_pending	32	static
+mtk-gic-v3-extend.c:268:6:mt_irq_set_pending	32	static
+mtk-gic-v3-extend.c:288:6:mt_irq_unmask_for_sleep	16	static
+mtk-gic-v3-extend.c:309:6:mt_irq_mask_for_sleep	16	static
+mtk-gic-v3-extend.c:325:7:mt_irq_dump_status_buf	48	static
+mtk-gic-v3-extend.c:384:6:mt_irq_dump_status	32	static
+mtk-gic-v3-extend.c:403:6:_mt_irq_set_polarity	16	static
+mtk-gic-v3-extend.c:439:12:mt_gic_ext_init	64	static

@@ -1,0 +1,16 @@
+fliper.c:287:12:mt_fliper_open	16	static
+fliper.c:274:12:mt_fliper_show	48	static
+fliper.c:102:13:disable_fliper_polling	16	static
+fliper.c:94:13:enable_fliper_polling	16	static
+fliper.c:109:13:mt_power_pef_transfer	32	static
+fliper.c:130:6:enable_cg_fliper.part.0	16	static
+fliper.c:115:5:getCGHistory	16	static
+fliper.c:120:5:getCGConfiguration	16	static
+fliper.c:125:5:setCG	16	static
+fliper.c:130:6:enable_cg_fliper	16	static
+fliper.c:145:5:cg_set_threshold	80	static
+fliper.c:376:19:init_fliper	48	static
+fliper.c:301:1:fliper_pm_callback	16	static
+fliper.c:198:16:mt_fliper_write	208	static
+fliper.c:331:13:mt_power_pef_transfer_work	32	static
+fliper.c:188:5:cg_restore_threshold	16	static

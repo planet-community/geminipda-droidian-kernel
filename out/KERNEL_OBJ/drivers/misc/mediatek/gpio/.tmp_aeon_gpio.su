@@ -1,0 +1,9 @@
+aeon_gpio.c:168:12:aeon_gpio_remove	0	static
+aeon_gpio.c:214:20:eastaeon_gpio_exit	16	static
+aeon_gpio.c:113:14:aeon_get_gpio_pin	64	static
+aeon_gpio.c:132:14:aeon_get_pwm_num	64	static
+aeon_gpio.c:195:19:eastaeon_gpio_init	16	static
+aeon_gpio.c:151:12:aeon_gpio_probe	48	static
+aeon_gpio.c:85:14:aeon_gpio_get	64	static
+aeon_gpio.c:66:5:aeon_gpio_set	32	static
+aeon_gpio.c:35:24:aeon_gpio_init	32	static

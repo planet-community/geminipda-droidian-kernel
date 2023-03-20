@@ -1,0 +1,3 @@
+mrdump_setup.c:36:13:mrdump_reboot	48	static
+mrdump_setup.c:22:13:mrdump_hw_enable	48	static
+mrdump_setup.c:56:12:mrdump_init	16	static

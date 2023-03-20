@@ -1,0 +1,3 @@
+xt_pkttype.c:26:1:pkttype_mt	0	static
+xt_pkttype.c:59:20:pkttype_mt_exit	16	static
+xt_pkttype.c:54:19:pkttype_mt_init	16	static

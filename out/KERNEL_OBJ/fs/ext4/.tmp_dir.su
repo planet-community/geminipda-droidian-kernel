@@ -1,0 +1,10 @@
+dir.c:604:12:ext4_dir_open	0	static
+dir.c:386:13:free_rb_tree_fname	48	static
+dir.c:611:12:ext4_release_dir	32	static
+dir.c:490:12:call_filldir	64	static
+dir.c:354:15:ext4_dir_llseek	16	static
+dir.c:63:5:__ext4_check_dir_entry	48	static
+dir.c:105:12:ext4_readdir	176	static
+dir.c:414:6:ext4_htree_free_dir_info	32	static
+dir.c:427:5:ext4_htree_store_dirent	80	static
+dir.c:619:5:ext4_check_all_de	48	static

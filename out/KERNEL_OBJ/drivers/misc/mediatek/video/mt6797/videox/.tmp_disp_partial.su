@@ -1,0 +1,7 @@
+disp_partial.c:176:5:disp_partial_get_project_option	32	static
+disp_partial.c:197:5:disp_partial_is_support	48	static
+disp_partial.c:210:6:assign_full_lcm_roi	32	static
+disp_partial.c:218:5:is_equal_full_lcm	48	static
+disp_partial.c:87:5:disp_partial_compute_ovl_roi	240	static
+disp_partial.c:228:6:disp_patial_lcm_validate_roi	80	static
+disp_partial.c:240:5:disp_partial_update_roi_to_lcm	16	static

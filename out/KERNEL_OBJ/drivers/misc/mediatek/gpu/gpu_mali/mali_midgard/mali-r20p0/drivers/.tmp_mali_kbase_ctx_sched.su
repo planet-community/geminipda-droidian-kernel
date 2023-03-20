@@ -1,0 +1,7 @@
+mali_kbase_ctx_sched.c:22:5:kbase_ctx_sched_init	0	static
+mali_kbase_ctx_sched.c:46:6:kbase_ctx_sched_term	48	static
+mali_kbase_ctx_sched.c:89:5:kbase_ctx_sched_retain_ctx	64	static
+mali_kbase_ctx_sched.c:133:6:kbase_ctx_sched_retain_ctx_refcount	48	static
+mali_kbase_ctx_sched.c:145:6:kbase_ctx_sched_release_ctx	32	static
+mali_kbase_ctx_sched.c:155:6:kbase_ctx_sched_remove_ctx	48	static
+mali_kbase_ctx_sched.c:173:6:kbase_ctx_sched_restore_all_as	64	static

@@ -1,0 +1,11 @@
+musbfsh_debugfs.c:263:12:musbfsh_test_mode_open	16	static
+musbfsh_debugfs.c:210:12:musbfsh_phyregdump_open	16	static
+musbfsh_debugfs.c:205:12:musbfsh_regdump_open	16	static
+musbfsh_debugfs.c:215:12:musbfsh_test_mode_show	64	static
+musbfsh_debugfs.c:268:16:musbfsh_test_mode_write	112	static
+musbfsh_debugfs.c:171:12:musbfsh_phyregdump_show	128	static
+musbfsh_debugfs.c:140:12:musbfsh_regdump_show	128	static
+musbfsh_debugfs.c:314:9:musbfsh_musbfsh_cmd_proc_entry	48	static
+musbfsh_debugfs.c:349:6:create_musbfsh_cmd_proc_entry	32	static
+musbfsh_debugfs.c:371:5:musbfsh_init_debugfs	48	static
+musbfsh_debugfs.c:415:27:musbfsh_exit_debugfs	16	static

@@ -1,0 +1,11 @@
+perf_ioctl.c:114:13:notify_render_aware_timeout	32	static
+perf_ioctl.c:101:13:notify_ui_update_timeout	32	static
+perf_ioctl.c:181:12:device_open	16	static
+perf_ioctl.c:171:12:device_show	32	static
+perf_ioctl.c:140:16:device_write	128	static
+perf_ioctl.c:51:29:mt_ui_update_timeout	16	static
+perf_ioctl.c:72:29:mt_render_aware_timeout	16	static
+perf_ioctl.c:238:19:init_fbc	64	static
+perf_ioctl.c:34:15:perfctl_copy_from_user	48	static
+perf_ioctl.c:125:6:notify_frame_complete	32	static
+perf_ioctl.c:186:6:device_ioctl	80	static

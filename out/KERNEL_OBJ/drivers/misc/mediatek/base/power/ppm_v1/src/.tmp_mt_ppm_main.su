@@ -1,0 +1,13 @@
+mt_ppm_main.c:1522:19:ppm_main_init	128	static
+mt_ppm_main.c:1513:12:ppm_main_pdrv_remove	32	static
+mt_ppm_main.c:1502:12:ppm_main_pdrv_probe	32	static
+mt_ppm_main.c:1335:12:ppm_main_resume	48	static
+mt_ppm_main.c:1582:20:ppm_main_exit	48	static
+mt_ppm_main.c:448:5:ppm_main_freq_to_idx	96	static
+mt_ppm_main.c:1319:12:ppm_main_suspend	144	static
+mt_ppm_main.c:97:6:ppm_main_update_req_by_pwr	352	static
+mt_ppm_main.c:502:6:ppm_main_clear_client_req	0	static
+mt_ppm_main.c:541:5:ppm_main_register_policy	64	static
+mt_ppm_main.c:588:6:ppm_main_unregister_policy	48	static
+mt_ppm_main.c:940:5:mt_ppm_main	384	static
+mt_ppm_main.c:523:6:ppm_task_wakeup	32	static

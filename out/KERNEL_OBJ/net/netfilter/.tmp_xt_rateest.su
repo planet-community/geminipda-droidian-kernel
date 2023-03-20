@@ -1,0 +1,5 @@
+xt_rateest.c:146:20:xt_rateest_mt_fini	16	static
+xt_rateest.c:121:13:xt_rateest_mt_destroy	32	static
+xt_rateest.c:77:12:xt_rateest_mt_checkentry	32	static
+xt_rateest.c:18:1:xt_rateest_mt	64	static
+xt_rateest.c:141:19:xt_rateest_mt_init	16	static

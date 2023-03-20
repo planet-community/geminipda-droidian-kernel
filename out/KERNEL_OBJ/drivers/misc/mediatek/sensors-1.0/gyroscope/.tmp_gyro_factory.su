@@ -1,0 +1,6 @@
+gyro_factory.c:29:12:gyro_factory_release	0	static
+gyro_factory.c:24:12:gyro_factory_open	16	static
+gyro_factory.c:177:13:compat_gyro_factory_unlocked_ioctl	48	static
+gyro_factory.c:34:13:gyro_factory_unlocked_ioctl	176	static
+gyro_factory.c:220:5:gyro_factory_device_register	16	static
+gyro_factory.c:237:5:gyro_factory_device_deregister	16	static

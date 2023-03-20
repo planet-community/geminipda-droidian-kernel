@@ -1,0 +1,15 @@
+gl_proc.c:148:16:procDbgLevelWrite	96	static
+gl_proc.c:319:16:procSetCamCfgWrite	112	static
+gl_proc.c:253:16:procPktDelayDbgCfgWrite	144	static
+gl_proc.c:440:16:procMCRWrite	128	static
+gl_proc.c:959:16:cfgRead	400	static
+gl_proc.c:109:16:procDbgLevelRead	96	static
+gl_proc.c:199:16:procPktDelayDbgCfgRead	96	static
+gl_proc.c:393:16:procMCRRead	96	static
+gl_proc.c:1013:16:cfgWrite	64	static
+gl_proc.c:633:8:procInitFs	32	static
+gl_proc.c:662:8:procUninitProcFs	16	static
+gl_proc.c:678:8:procRemoveProcfs	32	static
+gl_proc.c:691:8:procCreateFsEntry	48	static
+gl_proc.c:1065:8:cfgRemoveProcEntry	16	static
+gl_proc.c:1071:8:cfgCreateProcEntry	32	static

@@ -1,0 +1,17 @@
+ccmni.c:77:19:is_ack_skb	64	static
+ccmni.c:633:12:ccmni_napi_poll	0	static
+ccmni.c:1170:13:ccmni_dump_rx_status	0	static
+ccmni.c:1179:25:ccmni_get_ch	0	static
+ccmni.c:1118:13:ccmni_dump	160	static
+ccmni.c:651:13:ccmni_napi_poll_timeout	16	static
+ccmni.c:876:13:ccmni_exit	96	static
+ccmni.c:1002:13:ccmni_md_state_callback	80	static
+ccmni.c:907:12:ccmni_rx_callback	128	static
+ccmni.c:430:12:ccmni_ioctl	224	static
+ccmni.c:325:12:ccmni_start_xmit	144	static
+ccmni.c:295:12:ccmni_close	112	static
+ccmni.c:260:12:ccmni_open	64	static
+ccmni.c:738:12:ccmni_init	128	static
+ccmni.c:245:12:ccmni_select_queue	64	static
+ccmni.c:418:13:ccmni_tx_timeout	32	static
+ccmni.c:406:12:ccmni_change_mtu	32	static

@@ -1,0 +1,4 @@
+arpt_mangle.c:57:12:checkentry	0	static
+arpt_mangle.c:85:20:arpt_mangle_fini	16	static
+arpt_mangle.c:12:1:target	80	static
+arpt_mangle.c:80:19:arpt_mangle_init	16	static

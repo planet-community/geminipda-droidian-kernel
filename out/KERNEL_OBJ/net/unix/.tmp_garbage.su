@@ -1,0 +1,10 @@
+garbage.c:248:13:dec_inflight	0	static
+garbage.c:253:13:inc_inflight	0	static
+garbage.c:258:13:inc_inflight_move_tail	0	static
+garbage.c:165:13:scan_inflight	112	static
+garbage.c:212:13:scan_children	96	static
+garbage.c:99:14:unix_get_socket	0	static
+garbage.c:125:6:unix_inflight	48	static
+garbage.c:146:6:unix_notinflight	48	static
+garbage.c:285:6:unix_gc	224	static
+garbage.c:273:6:wait_for_unix_gc	96	static

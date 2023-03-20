@@ -1,0 +1,3 @@
+lcm_pmic.c:176:5:display_bias_regulator_init	0	static
+lcm_pmic.c:182:5:display_bias_enable	0	static
+lcm_pmic.c:188:5:display_bias_disable	0	static

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/uart/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/uart/built-in.o drivers/misc/mediatek/uart/uart.o drivers/misc/mediatek/uart/mt6797/built-in.o 

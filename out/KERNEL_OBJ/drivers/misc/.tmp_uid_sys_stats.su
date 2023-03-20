@@ -1,0 +1,12 @@
+uid_sys_stats.c:669:19:proc_uid_sys_stats_init	64	static
+uid_sys_stats.c:577:12:uid_procstat_open	16	static
+uid_sys_stats.c:404:12:uid_remove_open	16	static
+uid_sys_stats.c:89:13:compute_io_bucket_stats	0	static
+uid_sys_stats.c:565:12:uid_io_open	32	static
+uid_sys_stats.c:392:12:uid_cputime_open	32	static
+uid_sys_stats.c:409:16:uid_remove_write	224	static
+uid_sys_stats.c:311:26:find_or_register_uid	48	static
+uid_sys_stats.c:582:16:uid_procstat_write	272	static
+uid_sys_stats.c:332:12:uid_cputime_show	144	static
+uid_sys_stats.c:633:12:process_notifier	96	static
+uid_sys_stats.c:535:12:uid_io_show	160	static

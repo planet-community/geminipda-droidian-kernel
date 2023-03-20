@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/input/touchscreen/built-in.o drivers/input/touchscreen/of_touchscreen.o drivers/input/touchscreen/mediatek/built-in.o 

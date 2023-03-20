@@ -1,0 +1,7 @@
+cdc_ether.c:389:6:usbnet_cdc_unbind	32	static
+cdc_ether.c:70:13:usbnet_cdc_update_filter	32	static
+cdc_ether.c:104:5:usbnet_generic_cdc_bind	112	static
+cdc_ether.c:780:1:cdc_driver_init	16	static
+cdc_ether.c:780:1:cdc_driver_exit	16	static
+cdc_ether.c:473:5:usbnet_cdc_bind	48	static
+cdc_ether.c:434:6:usbnet_cdc_status	48	static

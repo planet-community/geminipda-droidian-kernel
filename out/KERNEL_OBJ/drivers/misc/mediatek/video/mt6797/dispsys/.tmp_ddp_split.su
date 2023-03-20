@@ -1,0 +1,11 @@
+ddp_split.c:101:12:split_busy	0	static
+ddp_split.c:108:12:split_idle	0	static
+ddp_split.c:115:5:split_reset	64	static
+ddp_split.c:57:12:split_clock_off	16	static
+ddp_split.c:87:12:split_stop	64	static
+ddp_split.c:80:12:split_start	64	static
+ddp_split.c:94:12:split_config	64	static
+ddp_split.c:152:12:split_dump	48	static
+ddp_split.c:44:12:split_clock_on	32	static
+ddp_split.c:68:12:split_init	16	static
+ddp_split.c:74:12:split_deinit	16	static

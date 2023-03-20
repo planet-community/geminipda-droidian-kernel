@@ -1,0 +1,4 @@
+xt_owner.c:20:12:owner_check	0	static
+xt_owner.c:32:1:owner_mt	0	static
+xt_owner.c:89:20:owner_mt_exit	16	static
+xt_owner.c:84:19:owner_mt_init	16	static

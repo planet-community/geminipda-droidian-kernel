@@ -1,0 +1,7 @@
+netdev.c:115:13:bnep_net_timeout	32	static
+netdev.c:50:13:bnep_net_set_mc_list	64	static
+netdev.c:38:12:bnep_net_open	16	static
+netdev.c:44:12:bnep_net_close	16	static
+netdev.c:164:20:bnep_net_xmit	64	static
+netdev.c:109:12:bnep_net_set_mac_addr	16	static
+netdev.c:218:6:bnep_net_setup	32	static

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/sched/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/sched/built-in.o drivers/misc/mediatek/sched/rq_stats.o drivers/misc/mediatek/sched/sched_avg.o drivers/misc/mediatek/sched/mt_cpu_affinity/built-in.o drivers/misc/mediatek/sched/cputopo.o 

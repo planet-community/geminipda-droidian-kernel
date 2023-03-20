@@ -1,0 +1,12 @@
+mtk_config_platform.c:93:12:mtk_pm_callback_power_on	48	static
+mtk_config_platform.c:132:13:mtk_pm_callback_power_off	48	static
+mtk_config_platform.c:195:13:pm_callback_resume	32	static
+mtk_config_platform.c:191:13:pm_callback_suspend	32	static
+mtk_config_platform.c:241:14:_mtk_of_ioremap	32	static
+mtk_config_platform.c:167:12:pm_callback_power_on	48	static
+mtk_config_platform.c:181:13:pm_callback_power_off	32	static
+mtk_config_platform.c:74:5:dvfs_gpu_pm_spin_lock_for_vgpu	0	static
+mtk_config_platform.c:80:5:dvfs_gpu_pm_spin_unlock_for_vgpu	0	static
+mtk_config_platform.c:213:31:kbase_get_platform_config	0	static
+mtk_config_platform.c:218:5:kbase_platform_early_init	16	static
+mtk_config_platform.c:254:5:mtk_platform_init	64	static

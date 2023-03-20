@@ -1,0 +1,13 @@
+xt_CT.c:39:21:xt_ct_target_v0	0	static
+xt_CT.c:48:21:xt_ct_target_v1	0	static
+xt_CT.c:430:20:xt_ct_tg_exit	32	static
+xt_CT.c:184:12:xt_ct_tg_check	112	static
+xt_CT.c:279:12:xt_ct_tg_check_v2	16	static
+xt_CT.c:269:12:xt_ct_tg_check_v1	16	static
+xt_CT.c:244:12:xt_ct_tg_check_v0	112	static
+xt_CT.c:381:1:notrack_tg	0	static
+xt_CT.c:394:12:notrack_chk	32	static
+xt_CT.c:307:13:xt_ct_tg_destroy.isra.7.part.8	32	static
+xt_CT.c:325:13:xt_ct_tg_destroy_v0	112	static
+xt_CT.c:414:19:xt_ct_tg_init	32	static
+xt_CT.c:340:13:xt_ct_tg_destroy_v1	32	static

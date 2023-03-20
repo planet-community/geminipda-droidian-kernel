@@ -1,0 +1,3 @@
+fdinfo.c:41:12:show_mark_fhandle	224	static
+fdinfo.c:103:5:inotify_show_fdinfo	80	static
+fdinfo.c:146:5:fanotify_show_fdinfo	96	static

@@ -1,0 +1,5 @@
+AfInter.c:27:6:RamWriteA	48	static
+AfInter.c:38:6:RamReadA	64	static
+AfInter.c:51:6:RegWriteA	48	static
+AfInter.c:62:6:RegReadA	48	static
+AfInter.c:74:6:WaitTime	16	static

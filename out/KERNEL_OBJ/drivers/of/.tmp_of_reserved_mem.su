@@ -1,0 +1,7 @@
+of_reserved_mem.c:30:5:get_reserved_mem_count	0	static
+of_reserved_mem.c:35:21:get_reserved_mem	16	static
+of_reserved_mem.c:48:19:early_init_dt_alloc_reserved_memory_arch	64	static
+of_reserved_mem.c:89:13:fdt_reserved_mem_save_node	16	static
+of_reserved_mem.c:234:13:fdt_init_reserved_mem	176	static
+of_reserved_mem.c:277:5:of_reserved_mem_device_init	48	static
+of_reserved_mem.c:306:6:of_reserved_mem_device_release	32	static

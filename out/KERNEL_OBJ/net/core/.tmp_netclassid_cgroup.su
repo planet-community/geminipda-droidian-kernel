@@ -1,0 +1,8 @@
+netclassid_cgroup.c:24:26:task_cls_state	0	static
+netclassid_cgroup.c:42:12:cgrp_css_online	0	static
+netclassid_cgroup.c:83:12:read_classid	0	static
+netclassid_cgroup.c:88:12:write_classid	0	static
+netclassid_cgroup.c:58:12:update_classid	48	static
+netclassid_cgroup.c:69:13:cgrp_attach	64	static
+netclassid_cgroup.c:53:13:cgrp_css_free	16	static
+netclassid_cgroup.c:31:1:cgrp_css_alloc	16	static

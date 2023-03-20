@@ -1,0 +1,6 @@
+tsacct.c:123:13:__acct_update_integrals	96	static
+tsacct.c:29:6:bacct_add_tsk	48	static
+tsacct.c:92:6:xacct_add_tsk	32	static
+tsacct.c:153:6:acct_update_integrals	16	static
+tsacct.c:165:6:acct_account_cputime	16	static
+tsacct.c:174:6:acct_clear_integrals	0	static

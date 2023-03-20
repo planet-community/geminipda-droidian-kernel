@@ -1,0 +1,4 @@
+decompressor_single.c:29:7:squashfs_decompressor_create	48	static
+decompressor_single.c:54:6:squashfs_decompressor_destroy	32	static
+decompressor_single.c:64:5:squashfs_decompress	96	static
+decompressor_single.c:82:5:squashfs_max_decompressors	0	static

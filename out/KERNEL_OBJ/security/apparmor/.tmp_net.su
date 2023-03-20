@@ -1,0 +1,16 @@
+net.c:74:13:audit_unix_addr	48	static
+net.c:170:12:audit_net	224	static
+net.c:235:12:aa_label_sk_perm.isra.2	112	static
+net.c:253:12:aa_sk_perm.isra.4	64	static
+net.c:106:6:audit_net_cb	64	static
+net.c:217:5:aa_profile_af_perm	64	static
+net.c:225:5:aa_af_perm	112	static
+net.c:281:5:aa_sock_perm	48	static
+net.c:292:5:aa_sock_create_perm	48	static
+net.c:305:5:aa_sock_bind_perm	48	static
+net.c:319:5:aa_sock_connect_perm	48	static
+net.c:333:5:aa_sock_listen_perm	32	static
+net.c:346:5:aa_sock_accept_perm	32	static
+net.c:360:5:aa_sock_msg_perm	64	static
+net.c:375:5:aa_sock_opt_perm	64	static
+net.c:387:5:aa_sock_file_perm	48	static

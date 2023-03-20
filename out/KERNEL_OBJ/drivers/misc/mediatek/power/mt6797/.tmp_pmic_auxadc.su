@@ -1,0 +1,9 @@
+pmic_auxadc.c:105:6:lockadcch3	16	static
+pmic_auxadc.c:110:6:unlockadcch3	16	static
+pmic_auxadc.c:115:6:pmic_auxadc_lock	16	static
+pmic_auxadc.c:121:6:pmic_auxadc_unlock	16	static
+pmic_auxadc.c:127:6:pmic_auxadc_debug	80	static
+pmic_auxadc.c:161:12:PMIC_IMM_GetCurrent	64	static
+pmic_auxadc.c:235:14:PMIC_IMM_GetOneChannelValue	64	static
+pmic_auxadc.c:87:6:pmic_auxadc_init	32	static
+pmic_auxadc.c:599:14:PMIC_IMM_GetOneChannelValueMD	64	static

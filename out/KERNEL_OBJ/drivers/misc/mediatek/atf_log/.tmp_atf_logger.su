@@ -1,0 +1,15 @@
+atf_logger.c:283:12:atf_log_release	0	static
+atf_logger.c:352:6:atf_log_ioctl	0	static
+atf_logger.c:703:20:atf_log_exit	16	static
+atf_logger.c:263:12:atf_log_open	32	static
+atf_logger.c:198:16:atf_log_write	16	static
+atf_logger.c:503:20:ATF_log_irq_handler	32	static
+atf_logger.c:289:16:atf_log_read	176	static
+atf_logger.c:570:12:atf_dump_file_open	16	static
+atf_logger.c:561:12:atf_dump_show	32	static
+atf_logger.c:338:21:atf_log_poll	32	static
+atf_logger.c:375:19:atf_log_dt_scan_memory	96	static
+atf_logger.c:162:8:ipanic_atflog_buffer	64	static
+atf_logger.c:416:27:atf_log_get_from_dt	64	static
+atf_logger.c:583:19:atf_log_init	48	static
+atf_logger.c:436:6:show_atf_log_ctl	32	static

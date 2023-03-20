@@ -1,0 +1,5 @@
+xt_LOG.c:100:20:log_tg_exit	16	static
+xt_LOG.c:67:13:log_tg_destroy	16	static
+xt_LOG.c:32:1:log_tg	80	static
+xt_LOG.c:95:19:log_tg_init	16	static
+xt_LOG.c:47:12:log_tg_check	32	static

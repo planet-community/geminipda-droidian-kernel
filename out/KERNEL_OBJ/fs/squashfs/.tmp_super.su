@@ -1,0 +1,11 @@
+super.c:401:23:squashfs_mount	16	static
+super.c:353:12:squashfs_statfs	48	static
+super.c:382:13:squashfs_put_super	32	static
+super.c:374:12:squashfs_remount	32	static
+super.c:488:13:squashfs_destroy_inode	16	static
+super.c:482:13:squashfs_i_callback	16	static
+super.c:473:22:squashfs_alloc_inode	16	static
+super.c:79:12:squashfs_fill_super	144	static
+super.c:465:20:exit_squashfs_fs	16	static
+super.c:411:13:init_once	16	static
+super.c:440:19:init_squashfs_fs	32	static

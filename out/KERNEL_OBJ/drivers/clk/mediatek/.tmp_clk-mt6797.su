@@ -1,0 +1,13 @@
+clk-mt6797.c:450:20:init_factors	64	static
+clk-mt6797.c:1530:20:mt_topckgen_init	48	static
+clk-mt6797.c:1113:20:init_clk_gates	64	static
+clk-mt6797.c:1702:20:mt_imgsys_init	64	static
+clk-mt6797.c:1668:20:mt_mfgsys_init	64	static
+clk-mt6797.c:1737:20:mt_camsys_init	64	static
+clk-mt6797.c:1808:20:mt_mjcsys_init	64	static
+clk-mt6797.c:1842:20:mt_vdecsys_init	64	static
+clk-mt6797.c:1774:20:mt_mmsys_init	64	static
+clk-mt6797.c:1878:20:mt_vencsys_init	64	static
+clk-mt6797.c:1911:20:mt_audiosys_init	64	static
+clk-mt6797.c:1633:20:mt_infrasys_init	64	static
+clk-mt6797.c:1575:20:mt_apmixedsys_init	64	static

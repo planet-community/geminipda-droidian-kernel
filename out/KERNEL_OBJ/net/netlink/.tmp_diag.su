@@ -1,0 +1,6 @@
+diag.c:188:20:netlink_diag_exit	16	static
+diag.c:161:12:netlink_diag_handler_dump	96	static
+diag.c:183:19:netlink_diag_init	16	static
+diag.c:22:12:sk_diag_fill.isra.5.constprop	64	static
+diag.c:62:12:__netlink_diag_dump	128	static
+diag.c:127:12:netlink_diag_dump	96	static

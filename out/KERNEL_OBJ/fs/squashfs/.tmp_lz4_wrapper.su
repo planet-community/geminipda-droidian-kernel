@@ -1,0 +1,4 @@
+lz4_wrapper.c:93:12:lz4_uncompress	80	static
+lz4_wrapper.c:81:13:lz4_free	32	static
+lz4_wrapper.c:54:14:lz4_init	32	static
+lz4_wrapper.c:34:14:lz4_comp_opts	16	static

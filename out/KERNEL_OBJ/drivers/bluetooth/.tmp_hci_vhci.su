@@ -1,0 +1,13 @@
+hci_vhci.c:310:21:vhci_poll	32	static
+hci_vhci.c:396:20:vhci_exit	16	static
+hci_vhci.c:76:12:vhci_flush	16	static
+hci_vhci.c:352:12:vhci_release	48	static
+hci_vhci.c:57:12:vhci_open_dev	16	static
+hci_vhci.c:85:12:vhci_send_frame	32	static
+hci_vhci.c:64:12:vhci_close_dev	32	static
+hci_vhci.c:99:12:__vhci_create_device	64	static
+hci_vhci.c:330:12:vhci_open	64	static
+hci_vhci.c:302:16:vhci_write	64	static
+hci_vhci.c:270:16:vhci_read	144	static
+hci_vhci.c:389:19:vhci_init	16	static
+hci_vhci.c:322:13:vhci_open_timeout	48	static

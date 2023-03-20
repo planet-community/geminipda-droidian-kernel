@@ -1,0 +1,11 @@
+mali_kbase_device.c:628:13:kbasep_trace_hook_wrapper	0	static
+mali_kbase_device.c:662:6:_mali_profiling_control	48	static
+mali_kbase_device.c:60:22:kbase_device_alloc	16	static
+mali_kbase_device.c:144:5:kbase_device_init	240	static
+mali_kbase_device.c:267:6:kbase_device_term	48	static
+mali_kbase_device.c:282:6:kbase_device_free	16	static
+mali_kbase_device.c:287:5:kbase_device_trace_buffer_install	48	static
+mali_kbase_device.c:319:6:kbase_device_trace_buffer_uninstall	32	static
+mali_kbase_device.c:330:6:kbase_device_trace_register_access	64	static
+mali_kbase_device.c:633:6:kbasep_trace_dump	0	static
+mali_kbase_device.c:639:6:kbase_set_profiling_control	16	static

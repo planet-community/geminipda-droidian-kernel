@@ -1,0 +1,16 @@
+nf_conntrack_proto_dccp.c:414:13:dccp_invert_tuple	0	static
+nf_conntrack_proto_dccp.c:994:20:nf_conntrack_proto_dccp_fini	32	static
+nf_conntrack_proto_dccp.c:956:24:dccp_net_exit	32	static
+nf_conntrack_proto_dccp.c:936:23:dccp_net_init	48	static
+nf_conntrack_proto_dccp.c:665:12:nlattr_to_dccp	96	static
+nf_conntrack_proto_dccp.c:703:12:dccp_nlattr_size	16	static
+nf_conntrack_proto_dccp.c:635:12:dccp_to_nlattr	112	static
+nf_conntrack_proto_dccp.c:629:12:dccp_print_conntrack	16	static
+nf_conntrack_proto_dccp.c:621:12:dccp_print_tuple	16	static
+nf_conntrack_proto_dccp.c:400:13:dccp_pkt_to_tuple	64	static
+nf_conntrack_proto_dccp.c:570:12:dccp_error	144	static
+nf_conntrack_proto_dccp.c:422:13:dccp_new	128	static
+nf_conntrack_proto_dccp.c:478:12:dccp_packet	160	static
+nf_conntrack_proto_dccp.c:969:19:nf_conntrack_proto_dccp_init	48	static
+nf_conntrack_proto_dccp.c:473:22:dccp_get_timeouts	48	static
+nf_conntrack_proto_dccp.c:848:12:dccp_init_net	48	static

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/power_gs/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/power_gs/built-in.o drivers/misc/mediatek/power_gs/mt_power_gs-v1.o drivers/misc/mediatek/power_gs/mt6797/built-in.o 

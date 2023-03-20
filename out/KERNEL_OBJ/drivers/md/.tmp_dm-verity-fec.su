@@ -1,0 +1,16 @@
+dm-verity-fec.c:419:12:fec_bv_copy	48	static
+dm-verity-fec.c:66:12:fec_read_parity	64	static
+dm-verity-fec.c:597:13:fec_rs_free	16	static
+dm-verity-fec.c:590:14:fec_rs_alloc	16	static
+dm-verity-fec.c:673:16:corrected_show	16	static
+dm-verity-fec.c:376:12:fec_decode_rsb	288	dynamic
+dm-verity-fec.c:21:6:verity_fec_is_enabled	0	static
+dm-verity-fec.c:434:5:verity_fec_decode	80	static
+dm-verity-fec.c:501:6:verity_fec_finish_io	48	static
+dm-verity-fec.c:524:6:verity_fec_init_io	32	static
+dm-verity-fec.c:541:10:verity_fec_status_table	32	static
+dm-verity-fec.c:559:6:verity_fec_dtr	32	static
+dm-verity-fec.c:605:6:verity_is_fec_opt_arg	32	static
+dm-verity-fec.c:613:5:verity_fec_parse_opt_args	112	static
+dm-verity-fec.c:698:5:verity_fec_ctr_alloc	32	static
+dm-verity-fec.c:716:5:verity_fec_ctr	64	static

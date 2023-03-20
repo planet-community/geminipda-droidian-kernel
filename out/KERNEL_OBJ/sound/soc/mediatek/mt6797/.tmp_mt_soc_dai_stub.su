@@ -1,0 +1,7 @@
+mt_soc_dai_stub.c:814:20:mtk_dai_stub_exit	16	static
+mt_soc_dai_stub.c:761:12:mtk_dai_stub_dev_remove	32	static
+mt_soc_dai_stub.c:737:12:mtk_dai_stub_dev_probe	48	static
+mt_soc_dai_stub.c:80:12:multimedia_startup	16	static
+mt_soc_dai_stub.c:793:19:mtk_dai_stub_init	16	static
+mt_soc_dai_stub.c:179:12:mtk_dai_anc_record_trigger	32	static
+mt_soc_dai_stub.c:156:12:mtk_dai_i2s2_adc2_trigger	80	static

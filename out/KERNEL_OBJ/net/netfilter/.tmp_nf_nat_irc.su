@@ -1,0 +1,4 @@
+nf_nat_irc.c:96:20:nf_nat_irc_fini	16	static
+nf_nat_irc.c:110:12:warn_set	16	static
+nf_nat_irc.c:29:21:help	160	static
+nf_nat_irc.c:102:19:nf_nat_irc_init	16	static

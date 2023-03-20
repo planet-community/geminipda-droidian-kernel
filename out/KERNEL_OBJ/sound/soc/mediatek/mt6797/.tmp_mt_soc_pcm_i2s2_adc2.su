@@ -1,0 +1,15 @@
+mt_soc_pcm_i2s2_adc2.c:472:21:mtk_i2s2_adc2_pcm_page	16	static
+mt_soc_pcm_i2s2_adc2.c:574:20:mtk_soc_i2s2_adc2_platform_exit	16	static
+mt_soc_pcm_i2s2_adc2.c:530:12:mtk_i2s2_adc2_remove	32	static
+mt_soc_pcm_i2s2_adc2.c:499:12:mtk_i2s2_adc2_probe	32	static
+mt_soc_pcm_i2s2_adc2.c:326:12:mtk_i2s2_adc2_pcm_copy	96	static
+mt_soc_pcm_i2s2_adc2.c:139:26:mtk_i2s2_adc2_pcm_pointer	64	static
+mt_soc_pcm_i2s2_adc2.c:302:12:mtk_i2s2_adc2_pcm_trigger	48	static
+mt_soc_pcm_i2s2_adc2.c:243:12:mtk_i2s2_adc2_capture_pcm_hw_free	32	static
+mt_soc_pcm_i2s2_adc2.c:288:12:mtk_i2s2_adc2_pcm_close	16	static
+mt_soc_pcm_i2s2_adc2.c:254:12:mtk_i2s2_adc2_pcm_open	48	static
+mt_soc_pcm_i2s2_adc2.c:522:12:mtk_i2s2_adc2_data_probe	32	static
+mt_soc_pcm_i2s2_adc2.c:461:12:mtk_i2s_adc2_pcm_silence	16	static
+mt_soc_pcm_i2s2_adc2.c:516:12:mtk_asoc_i2s2_adc2_pcm_new	16	static
+mt_soc_pcm_i2s2_adc2.c:219:12:mtk_i2s2_adc2_pcm_hw_params	48	static
+mt_soc_pcm_i2s2_adc2.c:555:19:mtk_soc_i2s2_adc2_platform_init	32	static

@@ -1,0 +1,14 @@
+usb_typec.c:109:13:fusb300_gpio_init	16	static
+usb_typec.c:185:20:fusb300_eint_isr	32	static
+usb_typec.c:296:5:register_typec_switch_callback	16	static
+usb_typec.c:320:5:unregister_typec_switch_callback	16	static
+usb_typec.c:120:6:fusb300_eint_work	80	static
+usb_typec.c:363:19:fusb300_init	16	static
+usb_typec.c:67:6:InitializeFUSB300	80	static
+usb_typec.c:87:6:FUSB300Write	80	static
+usb_typec.c:98:6:FUSB300Read	96	static
+usb_typec.c:201:5:fusb300_eint_init	80	static
+usb_typec.c:236:6:fusb300_i2c_w_reg8	48	static
+usb_typec.c:245:4:fusb300_i2c_r_reg	64	static
+usb_typec.c:254:12:fusb300_i2c_probe	64	static
+usb_typec.c:377:20:fusb300_exit	0	static

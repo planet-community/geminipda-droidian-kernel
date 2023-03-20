@@ -1,0 +1,11 @@
+mali_kbase_jd.c:206:6:kbase_jd_free_external_resources	0	static
+mali_kbase_jd.c:781:6:jd_done_nolock	192	static
+mali_kbase_jd.c:1399:6:kbase_jd_done_worker	160	static
+mali_kbase_jd.c:1580:13:jd_cancel_worker	64	static
+mali_kbase_jd.c:964:6:jd_submit_atom	96	static
+mali_kbase_jd.c:1277:5:kbase_jd_submit	240	static
+mali_kbase_jd.c:1645:6:kbase_jd_done	48	static
+mali_kbase_jd.c:1683:6:kbase_jd_cancel	32	static
+mali_kbase_jd.c:1707:6:kbase_jd_zap_context	48	static
+mali_kbase_jd.c:1771:5:kbase_jd_init	96	static
+mali_kbase_jd.c:1836:6:kbase_jd_exit	16	static

@@ -1,0 +1,16 @@
+nf_conntrack_h323_main.c:648:5:get_h225_addr	48	static
+nf_conntrack_h323_main.c:119:12:get_tpkt_data	144	static
+nf_conntrack_h323_main.c:731:12:callforward_do_filter	304	static
+nf_conntrack_h323_main.c:1845:19:nf_conntrack_h323_init	64	static
+nf_conntrack_h323_main.c:258:12:expect_rtp_rtcp	192	static
+nf_conntrack_h323_main.c:1833:20:nf_conntrack_h323_fini	48	static
+nf_conntrack_h323_main.c:384:12:process_h245_channel	80	static
+nf_conntrack_h323_main.c:1445:12:process_rcf.constprop	144	static
+nf_conntrack_h323_main.c:332:12:expect_t120	160	static
+nf_conntrack_h323_main.c:414:12:process_olc	80	static
+nf_conntrack_h323_main.c:546:12:process_h245	80	static
+nf_conntrack_h323_main.c:582:12:h245_help	128	static
+nf_conntrack_h323_main.c:680:12:expect_h245	160	static
+nf_conntrack_h323_main.c:1157:12:q931_help	208	static
+nf_conntrack_h323_main.c:1716:12:process_ras.constprop	208	static
+nf_conntrack_h323_main.c:1761:12:ras_help	112	static

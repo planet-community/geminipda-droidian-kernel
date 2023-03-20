@@ -1,0 +1,3 @@
+perfmgr_boost.c:35:5:perfmgr_get_target_core	0	static
+perfmgr_boost.c:40:5:perfmgr_get_target_freq	0	static
+perfmgr_boost.c:45:6:perfmgr_boost	96	static

@@ -1,0 +1,2 @@
+vmacache.c:22:6:vmacache_update	0	static
+vmacache.c:48:24:vmacache_find	32	static

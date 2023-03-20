@@ -1,0 +1,6 @@
+hung_task.c:64:1:hung_task_panic	0	static
+hung_task.c:216:6:reset_hung_task_detector	0	static
+hung_task.c:53:19:hung_task_panic_setup	16	static
+hung_task.c:244:19:hung_task_init	32	static
+hung_task.c:225:12:watchdog	160	static
+hung_task.c:197:5:proc_dohung_task_timeout_secs	32	static

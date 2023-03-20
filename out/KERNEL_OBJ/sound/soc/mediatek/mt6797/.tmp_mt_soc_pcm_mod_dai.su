@@ -1,0 +1,16 @@
+mt_soc_pcm_mod_dai.c:174:12:mtk_mod_dai_pcm_prepare	0	static
+mt_soc_pcm_mod_dai.c:489:21:mtk_mod_dai_pcm_page	16	static
+mt_soc_pcm_mod_dai.c:550:12:mtk_mod_dai_remove	32	static
+mt_soc_pcm_mod_dai.c:517:12:mtk_mod_dai_probe	48	static
+mt_soc_pcm_mod_dai.c:344:12:mtk_mod_dai_pcm_copy	112	static
+mt_soc_pcm_mod_dai.c:320:12:mtk_mod_dai_pcm_trigger	48	static
+mt_soc_pcm_mod_dai.c:258:12:mtk_mod_dai_pcm_hw_free	32	static
+mt_soc_pcm_mod_dai.c:305:12:mtk_mod_dai_pcm_close	16	static
+mt_soc_pcm_mod_dai.c:274:12:mtk_mod_dai_pcm_open	48	static
+mt_soc_pcm_mod_dai.c:540:12:mtk_afe_mod_dai_probe	32	static
+mt_soc_pcm_mod_dai.c:589:20:mtk_soc_mod_dai_platform_exit	16	static
+mt_soc_pcm_mod_dai.c:478:12:mtk_mod_dai_pcm_silence	16	static
+mt_soc_pcm_mod_dai.c:533:12:mtk_asoc_mod_dai_pcm_new	16	static
+mt_soc_pcm_mod_dai.c:570:19:mtk_soc_mod_dai_platform_init	32	static
+mt_soc_pcm_mod_dai.c:193:26:mtk_mod_dai_pcm_pointer	32	static
+mt_soc_pcm_mod_dai.c:229:12:mtk_mod_dai_pcm_hw_params	64	static

@@ -1,0 +1,13 @@
+s5k5e2yamipiraw_Sensor.c:1552:19:close	0	static
+s5k5e2yamipiraw_Sensor.c:1703:19:get_resolution	0	static
+s5k5e2yamipiraw_Sensor.c:1724:19:get_info	0	static
+s5k5e2yamipiraw_Sensor.c:211:13:write_cmos_sensor	48	static
+s5k5e2yamipiraw_Sensor.c:1579:19:preview.isra.6	32	static
+s5k5e2yamipiraw_Sensor.c:1827:19:control	48	static
+s5k5e2yamipiraw_Sensor.c:1472:19:open	128	static
+s5k5e2yamipiraw_Sensor.c:620:19:set_gain	80	static
+s5k5e2yamipiraw_Sensor.c:471:13:set_dummy	64	static
+s5k5e2yamipiraw_Sensor.c:489:13:set_max_framerate	64	static
+s5k5e2yamipiraw_Sensor.c:2020:19:feature_control	128	static
+s5k5e2yamipiraw_Sensor.c:230:6:otp_read_old_id	80	static
+s5k5e2yamipiraw_Sensor.c:2151:8:S5K5E2YA_MIPI_RAW_SensorInit	0	static

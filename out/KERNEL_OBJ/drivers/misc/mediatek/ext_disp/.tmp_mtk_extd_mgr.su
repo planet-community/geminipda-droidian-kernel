@@ -1,0 +1,12 @@
+mtk_extd_mgr.c:320:12:mtk_extd_mgr_open	0	static
+mtk_extd_mgr.c:326:12:mtk_extd_mgr_release	0	static
+mtk_extd_mgr.c:68:13:external_display_power_enable	16	static
+mtk_extd_mgr.c:411:5:extd_pm_suspend	16	static
+mtk_extd_mgr.c:418:5:extd_pm_resume	16	static
+mtk_extd_mgr.c:403:12:mtk_extd_mgr_remove	16	static
+mtk_extd_mgr.c:144:13:mtk_extd_mgr_ioctl	64	static
+mtk_extd_mgr.c:333:13:mtk_extd_mgr_compat_ioctl	16	static
+mtk_extd_mgr.c:543:20:mtk_extd_mgr_exit	32	static
+mtk_extd_mgr.c:510:19:mtk_extd_mgr_init	48	static
+mtk_extd_mgr.c:366:12:mtk_extd_mgr_probe	64	static
+mtk_extd_mgr.c:473:12:fb_notifier_callback	32	static

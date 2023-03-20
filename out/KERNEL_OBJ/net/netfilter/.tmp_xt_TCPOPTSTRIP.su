@@ -1,0 +1,5 @@
+xt_TCPOPTSTRIP.c:146:20:tcpoptstrip_tg_exit	16	static
+xt_TCPOPTSTRIP.c:140:19:tcpoptstrip_tg_init	16	static
+xt_TCPOPTSTRIP.c:32:1:tcpoptstrip_mangle_packet.isra.1	112	static
+xt_TCPOPTSTRIP.c:100:1:tcpoptstrip_tg6	64	static
+xt_TCPOPTSTRIP.c:92:1:tcpoptstrip_tg4	16	static

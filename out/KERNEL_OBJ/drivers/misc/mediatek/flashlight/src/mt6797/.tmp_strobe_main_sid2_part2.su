@@ -1,0 +1,4 @@
+strobe_main_sid2_part2.c:55:12:sub_strobe_ioctl	16	static
+strobe_main_sid2_part2.c:68:12:sub_strobe_release	16	static
+strobe_main_sid2_part2.c:61:12:sub_strobe_open	16	static
+strobe_main_sid2_part2.c:82:9:strobeInit_main_sid2_part2	0	static

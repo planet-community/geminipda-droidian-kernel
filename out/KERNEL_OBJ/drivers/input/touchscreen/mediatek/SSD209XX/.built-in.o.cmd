@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/mediatek/SSD209XX/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/input/touchscreen/mediatek/SSD209XX/built-in.o drivers/input/touchscreen/mediatek/SSD209XX/ssd20xx.o drivers/input/touchscreen/mediatek/SSD209XX/ssd20xx_mx25v100.o drivers/input/touchscreen/mediatek/SSD209XX/ssd20xx_upgrade.o 

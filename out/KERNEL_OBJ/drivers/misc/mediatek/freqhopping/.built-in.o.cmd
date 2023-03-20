@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/freqhopping/built-in.o :=  aarch64-linux-android-ld -EL   -r -o drivers/misc/mediatek/freqhopping/built-in.o drivers/misc/mediatek/freqhopping/mt_freqhopping_drv.o drivers/misc/mediatek/freqhopping/mt6797/built-in.o 

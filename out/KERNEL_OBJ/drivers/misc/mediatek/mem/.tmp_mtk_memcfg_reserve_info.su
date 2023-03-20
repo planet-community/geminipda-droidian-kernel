@@ -1,0 +1,13 @@
+mtk_memcfg_reserve_info.c:156:5:freed_reserved_memory_compare	0	static
+mtk_memcfg_reserve_info.c:163:5:reserved_mem_ext_compare	0	static
+mtk_memcfg_reserve_info.c:320:12:mtk_memcfg_reserve_memory_open	16	static
+mtk_memcfg_reserve_info.c:315:12:mtk_memcfg_total_reserve_open	16	static
+mtk_memcfg_reserve_info.c:202:27:get_memtotal	160	static
+mtk_memcfg_reserve_info.c:213:12:mtk_memcfg_total_reserve_show	48	static
+mtk_memcfg_reserve_info.c:31:6:mtk_memcfg_record_freed_reserved	32	static
+mtk_memcfg_reserve_info.c:80:5:mtk_memcfg_parse_reserved_memory	96	static
+mtk_memcfg_reserve_info.c:132:5:mtk_memcfg_get_reserved_memory	112	static
+mtk_memcfg_reserve_info.c:170:6:clean_reserved_mem_by_name	48	static
+mtk_memcfg_reserve_info.c:182:6:free_reserved_mem	48	static
+mtk_memcfg_reserve_info.c:226:12:mtk_memcfg_reserve_memory_show	112	static
+mtk_memcfg_reserve_info.c:339:12:mtk_memcfg_reserve_info_init	32	static

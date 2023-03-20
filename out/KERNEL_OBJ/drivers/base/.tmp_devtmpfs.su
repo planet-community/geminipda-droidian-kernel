@@ -1,0 +1,8 @@
+devtmpfs.c:50:19:mount_param	16	static
+devtmpfs.c:57:23:dev_mount	16	static
+devtmpfs.c:298:12:handle_remove	304	static
+devtmpfs.c:376:12:devtmpfsd	256	static
+devtmpfs.c:82:5:devtmpfs_create_node	192	static
+devtmpfs.c:121:5:devtmpfs_delete_node	192	static
+devtmpfs.c:347:5:devtmpfs_mount	32	static
+devtmpfs.c:418:12:devtmpfs_init	80	static

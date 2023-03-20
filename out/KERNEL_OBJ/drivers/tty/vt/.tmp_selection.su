@@ -1,0 +1,5 @@
+selection.c:60:1:sel_pos	32	static
+selection.c:72:6:clear_selection	48	static
+selection.c:107:5:sel_loadlut	80	static
+selection.c:159:5:set_selection	112	static
+selection.c:337:5:paste_selection	144	static

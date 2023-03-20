@@ -1,0 +1,6 @@
+AK7371AF.c:121:12:s4AF_WriteReg	48	static
+AK7371AF.c:91:12:s4AF_ReadReg	80	static
+AK7371AF.c:309:6:AK7371AF_Ioctl_Main	96	static
+AK7371AF.c:344:5:AK7371AF_Release_Main	32	static
+AK7371AF.c:367:5:AK7371AF_PowerDown_Main	128	static
+AK7371AF.c:394:5:AK7371AF_SetI2Cclient_Main	0	static

@@ -1,0 +1,17 @@
+nf_conntrack_h323_asn1.c:267:12:decode_nul	0	static
+nf_conntrack_h323_asn1.c:276:12:decode_bool	0	static
+nf_conntrack_h323_asn1.c:288:12:decode_oid	0	static
+nf_conntrack_h323_asn1.c:349:12:decode_enum	0	static
+nf_conntrack_h323_asn1.c:365:12:decode_bitstr	0	static
+nf_conntrack_h323_asn1.c:180:21:get_bits.isra.2	0	static
+nf_conntrack_h323_asn1.c:609:12:decode_seqof	112	static
+nf_conntrack_h323_asn1.c:206:21:get_bitmap.isra.3.part.4	0	static
+nf_conntrack_h323_asn1.c:492:12:decode_seq	144	static
+nf_conntrack_h323_asn1.c:305:12:decode_int	48	static
+nf_conntrack_h323_asn1.c:399:12:decode_numstr	0	static
+nf_conntrack_h323_asn1.c:699:12:decode_choice	64	static
+nf_conntrack_h323_asn1.c:466:12:decode_bmpstr	0	static
+nf_conntrack_h323_asn1.c:417:12:decode_octstr	0	static
+nf_conntrack_h323_asn1.c:769:5:DecodeRasMessage	80	static
+nf_conntrack_h323_asn1.c:803:5:DecodeMultimediaSystemControlMessage	80	static
+nf_conntrack_h323_asn1.c:822:5:DecodeQ931	80	static
