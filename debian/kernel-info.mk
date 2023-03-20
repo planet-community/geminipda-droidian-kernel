@@ -8,7 +8,7 @@
 VARIANT = android
 
 # Kernel base version
-KERNEL_BASE_VERSION = 4.4-0
+KERNEL_BASE_VERSION = 3.17
 
 # The kernel cmdline to use
 KERNEL_BOOTIMAGE_CMDLINE = bootopt=64S3,32N2,64N2 buildvariant=user 
@@ -18,13 +18,13 @@ KERNEL_BOOTIMAGE_CMDLINE = bootopt=64S3,32N2,64N2 buildvariant=user
 DEVICE_VENDOR = planet
 
 # Slug for the device model. Like above.
-DEVICE_MODEL = cosmo
+DEVICE_MODEL = geminipda
 
 # Slug for the device platform. If unsure, keep this commented.
-#DEVICE_PLATFORM = platform
+#DEVICE_PLATFORM = plateform
 
 # Marketing-friendly full-name. This will be used inside package descriptions
-DEVICE_FULL_NAME = planet computers cosmo communicator
+DEVICE_FULL_NAME = planet computers geminipda
 
 # Whether to use configuration fragments to augment the kernel configuration.
 # If unsure, keep this to 0.
@@ -56,7 +56,7 @@ KERNEL_IMAGE_WITH_DTB_OVERLAY = 1
 # Path to the DTB overlay.
 # If you leave this undefined, an attempt to find it automatically
 # will be made.
-KERNEL_IMAGE_DTB = arch/arm64/boot/dts/mediatek/mt6771.dtb
+KERNEL_IMAGE_DTB = arch/arm64/boot/dts/mediatek/mt6797.dtb
 #DEB_BUILD_OPTIONS=nocheck
 # Whether to include the DTB Overlay into the kernel image
 # Use 0 (no, default) or 1.
